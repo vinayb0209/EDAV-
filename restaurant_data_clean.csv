@@ -1,0 +1,1000 @@
+customer_id,age,city,cuisine,order_mode,party_size,rating,visit_date,payment_mode,loyalty_member,bill_inr,bill_scaled,age_group,spend_level,bill_rank
+1,53,Bengaluru,North Indian,Takeaway,1,2.5,2025-01-01 00:00:00,Digital (UPI),0,181.38,0.07014557732757666,Adult,Low,983.0
+2,66,Hyderabad,Italian,Delivery,2,4.6,2025-01-01 08:00:00,Card,0,274.09,0.1342923170596701,Senior,Low,919.0
+3,43,Bengaluru,South Indian,Dine-in,2,4.0,2025-01-01 16:00:00,Cash,1,424.45,0.23832752131074947,Adult,Medium,800.0
+4,29,Chennai,North Indian,Delivery,3,4.3,2025-01-02 00:00:00,Digital (UPI),0,449.7,0.25579818443485,Young Adult,Medium,779.0
+5,57,Chennai,Fast Food,Takeaway,6,3.1,2025-01-02 08:00:00,Digital (UPI),0,1000.32,0.6367762648068195,Senior,High,327.0
+7,35,Hyderabad,Fast Food,Takeaway,3,3.4,2025-01-03 00:00:00,Cash,1,566.64,0.3367098416915753,Adult,Medium,685.0
+8,53,Bengaluru,Fast Food,Delivery,4,3.5,2025-01-03 08:00:00,Cash,0,642.15,0.38895577327576664,Adult,Medium,632.0
+9,33,Mumbai,North Indian,Dine-in,3,4.3,2025-01-03 16:00:00,Card,0,622.7,0.37549817336433083,Young Adult,Medium,648.0
+10,37,Bengaluru,South Indian,Delivery,5,3.7,2025-01-04 00:00:00,Card,0,817.36,0.5101848776707628,Adult,Medium,488.0
+11,25,Hyderabad,Italian,Delivery,7,4.3,2025-01-04 08:00:00,Digital (UPI),1,1043.27,0.6664936898040518,Young Adult,High,289.0
+12,25,Bengaluru,Chinese,Dine-in,1,3.9,2025-01-04 16:00:00,Digital (UPI),0,227.3,0.10191796745267354,Young Adult,Low,957.0
+13,38,Hyderabad,North Indian,Delivery,4,4.0,2025-01-05 00:00:00,Digital (UPI),0,746.94,0.46146075500941,Adult,Medium,548.0
+14,67,Bengaluru,Italian,Dine-in,7,4.3,2025-01-05 08:00:00,Card,0,1096.05,0.7030125650393003,Senior,High,243.0
+15,50,Hyderabad,North Indian,Dine-in,7,3.8,2025-01-05 16:00:00,Digital (UPI),0,1220.25,0.7889474703863611,Adult,High,141.0
+16,54,Hyderabad,North Indian,Dine-in,4,3.3,2025-01-06 00:00:00,Card,1,638.37,0.38634036311303,Adult,Medium,634.0
+17,38,Hyderabad,Chinese,Delivery,5,3.6,2025-01-06 08:00:00,Card,0,799.26,0.49766135281744717,Adult,Medium,503.0
+18,17,Mumbai,Chinese,Takeaway,3,4.8,2025-01-06 16:00:00,Digital (UPI),0,466.31,0.2672907671869811,Teen,Medium,765.0
+19,36,Bengaluru,Chinese,Dine-in,1,4.1,2025-01-07 00:00:00,Digital (UPI),0,304.7,0.15547160411823313,Adult,Low,898.0
+20,67,Bengaluru,North Indian,Dine-in,3,3.4,2025-01-07 08:00:00,Cash,0,545.74,0.32224897597697333,Senior,Medium,702.0
+21,16,Bengaluru,Fast Food,Takeaway,2,4.3,2025-01-07 16:00:00,Digital (UPI),0,321.62,0.16717867818000665,Teen,Low,881.0
+22,38,Hyderabad,North Indian,Dine-in,3,4.3,2025-01-08 00:00:00,Card,0,518.3,0.30326303553636663,Adult,Medium,720.0
+23,58,Bengaluru,North Indian,Delivery,8,4.4,2025-01-08 08:00:00,Digital (UPI),0,1054.31,0.6741323480571239,Senior,High,280.0
+24,44,Bengaluru,Fast Food,Delivery,4,3.3,2025-01-08 16:00:00,Cash,0,762.24,0.4720469390014392,Adult,Medium,534.0
+25,52,Hyderabad,Fast Food,Takeaway,1,3.5,2025-01-09 00:00:00,Digital (UPI),0,236.34,0.10817281080482676,Adult,Low,951.0
+26,16,Chennai,Fast Food,Delivery,3,3.5,2025-01-09 08:00:00,Card,0,357.5,0.19200431750249086,Teen,Low,853.0
+27,35,Hyderabad,Italian,Dine-in,1,3.7,2025-01-09 16:00:00,Cash,0,133.47,0.03699629137606554,Adult,Low,995.0
+28,47,Bengaluru,Chinese,Delivery,1,4.4,2025-01-10 00:00:00,Digital (UPI),0,216.27,0.09428622827410607,Adult,Low,968.0
+29,26,Hyderabad,Chinese,Takeaway,2,4.2,2025-01-10 08:00:00,Card,1,294.87,0.14867015388021698,Young Adult,Low,903.0
+30,36,Chennai,North Indian,Takeaway,2,4.3,2025-01-10 16:00:00,Card,0,463.47,0.26532575002767633,Adult,Medium,766.0
+31,58,Hyderabad,South Indian,Dine-in,4,4.9,2025-01-11 00:00:00,Cash,1,733.49,0.4521545998007307,Senior,Medium,565.0
+32,39,Bengaluru,South Indian,Delivery,5,4.5,2025-01-11 08:00:00,Cash,0,878.76,0.5526679951289716,Adult,Medium,428.0
+33,63,Chennai,North Indian,Dine-in,8,3.9,2025-01-11 16:00:00,Card,1,1091.65,0.6999681722572789,Senior,High,247.0
+34,41,Mumbai,Italian,Dine-in,7,3.2,2025-01-12 00:00:00,Cash,0,1107.96,0.7112531827742722,Adult,High,236.0
+35,56,Bengaluru,South Indian,Dine-in,1,3.5,2025-01-12 08:00:00,Digital (UPI),0,194.19,0.07900891176796192,Senior,Low,977.0
+36,42,Chennai,North Indian,Takeaway,5,3.8,2025-01-12 16:00:00,Cash,0,773.68,0.47996236023469496,Adult,Medium,527.0
+37,30,Chennai,North Indian,Takeaway,7,4.6,2025-01-13 00:00:00,Card,0,1116.79,0.7173627255618288,Young Adult,High,228.0
+38,29,Mumbai,Chinese,Delivery,7,4.0,2025-01-13 08:00:00,Cash,1,1059.9,0.6780001107051922,Young Adult,High,273.0
+39,61,Hyderabad,North Indian,Delivery,8,3.5,2025-01-13 16:00:00,Card,0,1317.22,0.8560417358574117,Senior,High,61.0
+40,65,Hyderabad,Fast Food,Dine-in,4,3.5,2025-01-14 00:00:00,Digital (UPI),1,761.32,0.4714103841470165,Senior,Medium,536.0
+41,58,Bengaluru,South Indian,Delivery,7,4.0,2025-01-14 08:00:00,Digital (UPI),0,1204.43,0.778001494520093,Senior,High,154.0
+42,69,Mumbai,South Indian,Dine-in,8,4.6,2025-01-14 16:00:00,Digital (UPI),0,1288.97,0.8364953503819329,Senior,High,81.0
+43,66,Hyderabad,Chinese,Delivery,7,5.0,2025-01-15 00:00:00,Card,0,1309.94,0.8510046496180671,Senior,High,68.0
+44,17,Mumbai,Fast Food,Delivery,1,3.9,2025-01-15 08:00:00,Digital (UPI),1,341.2,0.18072622606000222,Teen,Low,869.0
+45,51,Hyderabad,South Indian,Takeaway,1,4.0,2025-01-15 16:00:00,Digital (UPI),1,241.88,0.11200597808037197,Adult,Low,944.0
+46,65,Chennai,Chinese,Delivery,6,3.2,2025-01-16 00:00:00,Digital (UPI),0,961.42,0.6098610649839478,Senior,High,358.0
+47,21,Hyderabad,Chinese,Dine-in,5,5.0,2025-01-16 08:00:00,Digital (UPI),0,957.04,0.6068305103509355,Young Adult,High,365.0
+48,35,Mumbai,North Indian,Dine-in,3,3.0,2025-01-16 16:00:00,Digital (UPI),0,630.61,0.3809711612974649,Adult,Medium,639.0
+49,23,Chennai,Fast Food,Delivery,8,4.8,2025-01-17 00:00:00,Cash,0,1187.17,0.7660591719251634,Young Adult,High,165.0
+50,53,Chennai,Italian,Dine-in,2,3.7,2025-01-17 08:00:00,Cash,0,486.87,0.2815163843684269,Adult,Medium,747.0
+51,32,Chennai,Chinese,Dine-in,8,3.6,2025-01-17 16:00:00,Digital (UPI),1,1287.65,0.8355820325473265,Young Adult,High,82.0
+52,18,Mumbai,Fast Food,Dine-in,3,3.2,2025-01-18 00:00:00,Card,0,481.13,0.27754483560278975,Teen,Medium,751.0
+53,39,Bengaluru,Fast Food,Delivery,5,5.0,2025-01-18 08:00:00,Card,0,691.66,0.4232121111480128,Adult,Medium,600.0
+54,28,Bengaluru,Italian,Dine-in,2,4.2,2025-01-18 16:00:00,Digital (UPI),1,378.49,0.20652745488763424,Young Adult,Low,836.0
+55,64,Bengaluru,Fast Food,Dine-in,3,4.0,2025-01-19 00:00:00,Card,0,549.02,0.32451843241448025,Senior,Medium,699.0
+56,23,Mumbai,Chinese,Delivery,6,4.6,2025-01-19 08:00:00,Digital (UPI),1,1126.99,0.724420181556515,Young Adult,High,223.0
+57,40,Chennai,Chinese,Delivery,2,3.5,2025-01-19 16:00:00,Digital (UPI),0,476.58,0.27439665670319935,Adult,Medium,756.0
+58,67,Bengaluru,Chinese,Dine-in,1,4.0,2025-01-20 00:00:00,Digital (UPI),1,203.37,0.08536062216317945,Senior,Low,972.0
+59,16,Mumbai,Italian,Dine-in,3,4.0,2025-01-20 08:00:00,Digital (UPI),0,581.15,0.3467494187977416,Teen,Medium,678.0
+60,34,Bengaluru,North Indian,Dine-in,8,3.6,2025-01-20 16:00:00,Cash,1,1366.1,0.8898621720358685,Young Adult,High,31.0
+61,42,Hyderabad,Fast Food,Dine-in,2,4.8,2025-01-21 00:00:00,Card,0,406.88,0.22617070740617734,Adult,Medium,818.0
+62,61,Bengaluru,Fast Food,Dine-in,6,3.8,2025-01-21 08:00:00,Card,0,953.03,0.6040559614745932,Senior,High,371.0
+63,21,Bengaluru,North Indian,Delivery,8,2.9,2025-01-21 16:00:00,Card,0,1257.43,0.8146725893944426,Young Adult,High,109.0
+64,58,Chennai,Fast Food,Takeaway,7,3.8,2025-01-22 00:00:00,Digital (UPI),0,1180.84,0.761679397763755,Senior,High,174.0
+65,22,Mumbai,North Indian,Takeaway,2,4.2,2025-01-22 08:00:00,Digital (UPI),0,433.04,0.24427100631019596,Young Adult,Medium,790.0
+66,61,Chennai,South Indian,Dine-in,2,3.4,2025-01-22 16:00:00,Card,1,376.56,0.20519207350824753,Senior,Low,840.0
+67,49,Chennai,Italian,Delivery,6,3.4,2025-01-23 00:00:00,Card,1,790.47,0.4915794863279088,Adult,Medium,515.0
+68,28,Chennai,North Indian,Dine-in,7,3.6,2025-01-23 08:00:00,Digital (UPI),1,1046.76,0.6689084468061552,Young Adult,High,287.0
+69,31,Chennai,Italian,Delivery,3,4.9,2025-01-23 16:00:00,Card,0,599.58,0.35950127310970886,Young Adult,Medium,664.0
+70,50,Chennai,Fast Food,Takeaway,4,4.0,2025-01-24 00:00:00,Card,0,529.53,0.31103315620502603,Adult,Medium,709.0
+71,64,Bengaluru,South Indian,Dine-in,3,5.0,2025-01-24 08:00:00,Card,0,644.73,0.39074089449795196,Senior,Medium,630.0
+72,54,Chennai,North Indian,Takeaway,7,3.6,2025-01-24 16:00:00,Digital (UPI),0,1232.89,0.7976931805601684,Adult,High,125.0
+73,18,Chennai,South Indian,Dine-in,5,4.2,2025-01-25 00:00:00,Digital (UPI),1,853.29,0.5350451123657699,Teen,Medium,451.0
+74,16,Mumbai,Chinese,Takeaway,8,3.7,2025-01-25 08:00:00,Digital (UPI),1,1347.83,0.8772210229159747,Teen,High,45.0
+75,20,Hyderabad,Fast Food,Dine-in,6,4.5,2025-01-25 16:00:00,Digital (UPI),1,1042.3,0.6658225395771061,Young Adult,High,291.0
+76,68,Bengaluru,Chinese,Dine-in,3,3.2,2025-01-26 00:00:00,Digital (UPI),0,540.65,0.31872716705413484,Senior,Medium,706.0
+77,56,Bengaluru,North Indian,Delivery,2,4.5,2025-01-26 08:00:00,Card,1,290.09,0.1453628362670209,Senior,Low,907.0
+78,18,Bengaluru,Chinese,Dine-in,6,4.1,2025-01-26 16:00:00,Digital (UPI),1,1077.38,0.6900946529392229,Teen,High,259.0
+79,68,Chennai,Chinese,Delivery,1,3.6,2025-01-27 00:00:00,Digital (UPI),0,362.58,0.19551920735082476,Senior,Low,850.0
+80,43,Chennai,Italian,Dine-in,7,3.9,2025-01-27 08:00:00,Digital (UPI),0,1053.31,0.6734404406066644,Adult,High,281.0
+81,32,Chennai,North Indian,Takeaway,8,5.0,2025-01-27 16:00:00,Digital (UPI),1,1187.1,0.7660107384036311,Young Adult,High,166.0
+82,40,Mumbai,Italian,Takeaway,3,4.1,2025-01-28 00:00:00,Digital (UPI),1,539.06,0.31762703420790434,Adult,Medium,707.0
+83,58,Hyderabad,Chinese,Takeaway,6,3.5,2025-01-28 08:00:00,Digital (UPI),1,949.9,0.6018902911546552,Senior,High,376.0
+84,48,Chennai,Fast Food,Dine-in,8,3.2,2025-01-28 16:00:00,Digital (UPI),0,1311.6,0.8521532159858297,Adult,High,66.0
+85,24,Hyderabad,South Indian,Dine-in,3,4.4,2025-01-29 00:00:00,Digital (UPI),0,646.64,0.39206243772832944,Young Adult,Medium,629.0
+86,50,Mumbai,Chinese,Dine-in,6,4.1,2025-01-29 08:00:00,Card,1,820.35,0.5122536809476365,Adult,Medium,484.0
+87,28,Bengaluru,Fast Food,Dine-in,2,4.5,2025-01-29 16:00:00,Cash,1,526.5,0.30893667663013397,Young Adult,Medium,710.0
+88,45,Chennai,North Indian,Takeaway,1,3.0,2025-01-30 00:00:00,Card,0,217.47,0.09511651721465737,Adult,Low,967.0
+89,62,Hyderabad,Fast Food,Delivery,1,3.2,2025-01-30 08:00:00,Digital (UPI),0,290.94,0.14595095759991145,Senior,Low,905.0
+90,29,Hyderabad,Chinese,Delivery,5,4.8,2025-01-30 16:00:00,Card,1,899.5,0.5670181556515,Young Adult,Medium,414.0
+91,22,Chennai,North Indian,Delivery,6,4.2,2025-01-31 00:00:00,Digital (UPI),0,1058.83,0.6772597697332005,Young Adult,High,274.0
+92,28,Bengaluru,South Indian,Delivery,3,4.4,2025-01-31 08:00:00,Digital (UPI),1,554.95,0.32862144359570467,Young Adult,Medium,695.0
+93,37,Bengaluru,Italian,Takeaway,1,3.3,2025-01-31 16:00:00,Digital (UPI),0,273.64,0.13398095870696336,Adult,Low,920.0
+94,54,Bengaluru,North Indian,Dine-in,7,3.3,2025-02-01 00:00:00,Cash,0,1173.12,0.7563378722462083,Adult,High,184.0
+95,35,Mumbai,Chinese,Delivery,1,4.7,2025-02-01 08:00:00,Digital (UPI),0,199.58,0.08273829292593823,Adult,Low,975.0
+96,30,Hyderabad,South Indian,Takeaway,4,4.7,2025-02-01 16:00:00,Digital (UPI),0,559.36,0.33167275545223074,Young Adult,Medium,692.0
+97,59,Hyderabad,Chinese,Takeaway,4,3.2,2025-02-02 00:00:00,Card,0,602.47,0.3615008856415366,Senior,Medium,659.0
+98,32,Hyderabad,North Indian,Dine-in,1,3.1,2025-02-02 08:00:00,Digital (UPI),0,241.66,0.11185375844127089,Young Adult,Low,945.0
+99,61,Mumbai,Fast Food,Dine-in,6,3.9,2025-02-02 16:00:00,Digital (UPI),0,937.06,0.5930061994907561,Senior,High,385.0
+100,67,Hyderabad,Fast Food,Dine-in,5,3.4,2025-02-03 00:00:00,Card,0,787.24,0.4893446252629248,Senior,Medium,518.0
+101,38,Mumbai,Fast Food,Delivery,1,3.4,2025-02-03 08:00:00,Card,0,393.94,0.21721742499723237,Adult,Low,826.0
+102,40,Bengaluru,Italian,Takeaway,2,3.1,2025-02-03 16:00:00,Digital (UPI),0,468.71,0.26895134506808366,Adult,Medium,762.0
+103,39,Chennai,North Indian,Dine-in,8,3.7,2025-02-04 00:00:00,Digital (UPI),1,1279.83,0.8301713162847337,Adult,High,87.0
+104,59,Hyderabad,Italian,Delivery,3,3.2,2025-02-04 08:00:00,Digital (UPI),0,603.76,0.36239344625262926,Senior,Medium,657.0
+105,55,Hyderabad,North Indian,Dine-in,5,3.2,2025-02-04 16:00:00,Card,0,816.38,0.5095068083693125,Senior,Medium,489.0
+106,43,Bengaluru,North Indian,Dine-in,2,4.2,2025-02-05 00:00:00,Card,0,408.86,0.22754068415808704,Adult,Medium,816.0
+107,29,Chennai,South Indian,Dine-in,5,4.0,2025-02-05 08:00:00,Digital (UPI),1,885.33,0.55721382707849,Young Adult,Medium,424.0
+108,59,Mumbai,South Indian,Delivery,2,4.3,2025-02-05 16:00:00,Digital (UPI),0,366.59,0.19829375622716705,Senior,Low,849.0
+109,15,Chennai,Italian,Delivery,3,2.8,2025-02-06 00:00:00,Digital (UPI),0,495.18,0.2872661352817447,Teen,Medium,739.0
+110,39,Bengaluru,Chinese,Dine-in,3,4.0,2025-02-06 08:00:00,Card,1,647.91,0.3929411601904129,Adult,Medium,628.0
+111,21,Bengaluru,South Indian,Delivery,4,5.0,2025-02-06 16:00:00,Card,0,749.13,0.4629760323259161,Young Adult,Medium,545.0
+112,23,Chennai,North Indian,Dine-in,6,3.7,2025-02-07 00:00:00,Cash,1,819.63,0.5117555075833057,Young Adult,Medium,485.0
+113,38,Mumbai,Fast Food,Delivery,2,4.6,2025-02-07 08:00:00,Card,1,346.55,0.18442793091996015,Adult,Low,864.0
+114,15,Mumbai,South Indian,Delivery,8,4.6,2025-02-07 16:00:00,Cash,0,1237.5,0.8008828739067863,Teen,High,122.0
+115,58,Hyderabad,South Indian,Delivery,4,4.6,2025-02-08 00:00:00,Cash,0,650.31,0.39460173807151555,Senior,Medium,627.0
+116,22,Mumbai,North Indian,Dine-in,2,4.1,2025-02-08 08:00:00,Digital (UPI),0,468.99,0.2691450791542123,Young Adult,Medium,760.0
+117,38,Chennai,Italian,Delivery,4,4.4,2025-02-08 16:00:00,Card,1,701.54,0.43004815675855196,Adult,Medium,590.0
+118,25,Bengaluru,Chinese,Delivery,3,4.5,2025-02-09 00:00:00,Digital (UPI),0,438.83,0.24827715044835602,Young Adult,Medium,788.0
+119,65,Hyderabad,North Indian,Dine-in,5,4.4,2025-02-09 08:00:00,Digital (UPI),1,819.34,0.5115548544226725,Senior,Medium,486.0
+120,31,Hyderabad,North Indian,Delivery,7,3.2,2025-02-09 16:00:00,Digital (UPI),1,1193.34,0.7703282408944979,Young Adult,High,161.0
+121,22,Bengaluru,Chinese,Dine-in,4,2.8,2025-02-10 00:00:00,Cash,1,682.43,0.4168258053802723,Young Adult,Medium,610.0
+122,49,Mumbai,Chinese,Delivery,2,2.9,2025-02-10 08:00:00,Digital (UPI),0,348.43,0.18572871692682388,Adult,Low,862.0
+123,49,Bengaluru,North Indian,Dine-in,2,3.8,2025-02-10 16:00:00,Digital (UPI),0,426.5,0.2397459315841913,Adult,Medium,796.0
+124,47,Mumbai,Fast Food,Delivery,7,4.0,2025-02-11 00:00:00,Digital (UPI),0,1279.46,0.8299153105280638,Adult,High,89.0
+125,19,Bengaluru,North Indian,Takeaway,6,3.2,2025-02-11 08:00:00,Digital (UPI),0,1036.91,0.66209315841913,Teen,High,296.0
+126,56,Chennai,South Indian,Dine-in,8,4.6,2025-02-11 16:00:00,Digital (UPI),1,1404.08,0.9161408170043175,Senior,High,21.0
+127,53,Mumbai,Fast Food,Dine-in,3,3.6,2025-02-12 00:00:00,Digital (UPI),0,503.79,0.2932234584302004,Adult,Medium,734.0
+128,55,Chennai,South Indian,Dine-in,2,3.7,2025-02-12 08:00:00,Card,0,399.33,0.22094680615520867,Senior,Low,822.0
+129,42,Hyderabad,Chinese,Dine-in,1,3.4,2025-02-12 16:00:00,Digital (UPI),0,247.72,0.11604671759105502,Adult,Low,940.0
+130,21,Bengaluru,South Indian,Dine-in,5,2.7,2025-02-13 00:00:00,Digital (UPI),1,859.49,0.5393349385586185,Young Adult,Medium,443.0
+131,23,Hyderabad,North Indian,Takeaway,4,4.2,2025-02-13 08:00:00,Digital (UPI),0,735.24,0.45336543783903466,Young Adult,Medium,563.0
+132,22,Hyderabad,Fast Food,Dine-in,6,5.0,2025-02-13 16:00:00,Cash,0,926.48,0.5856858186648954,Young Adult,High,392.0
+133,26,Hyderabad,South Indian,Dine-in,8,4.0,2025-02-14 00:00:00,Card,0,1351.79,0.8799609764197941,Young Adult,High,42.0
+134,48,Hyderabad,Fast Food,Delivery,7,2.7,2025-02-14 08:00:00,Digital (UPI),0,1019.77,0.6502338647182553,Adult,High,312.0
+135,47,Bengaluru,North Indian,Dine-in,5,4.5,2025-02-14 16:00:00,Digital (UPI),1,743.14,0.4588315066976641,Adult,Medium,551.0
+136,62,Hyderabad,North Indian,Delivery,3,2.9,2025-02-15 00:00:00,Card,0,720.85,0.44340888962692354,Senior,Medium,576.0
+137,69,Bengaluru,North Indian,Delivery,6,3.2,2025-02-15 08:00:00,Card,1,959.19,0.6083181113694233,Senior,High,362.0
+138,37,Bengaluru,Chinese,Takeaway,8,3.8,2025-02-15 16:00:00,Digital (UPI),0,1358.36,0.8845068083693125,Adult,High,37.0
+139,38,Chennai,South Indian,Takeaway,4,4.1,2025-02-16 00:00:00,Card,0,835.86,0.5229851655042622,Adult,Medium,470.0
+140,51,Mumbai,Fast Food,Delivery,4,3.3,2025-02-16 08:00:00,Digital (UPI),1,514.84,0.30086903575777707,Adult,Medium,723.0
+141,49,Mumbai,South Indian,Dine-in,7,3.8,2025-02-16 16:00:00,Cash,0,1240.1,0.8026818332779807,Adult,High,120.0
+142,58,Bengaluru,Fast Food,Dine-in,1,4.5,2025-02-17 00:00:00,Digital (UPI),0,301.92,0.15354810140595596,Senior,Low,899.0
+143,54,Chennai,North Indian,Dine-in,7,4.6,2025-02-17 08:00:00,Digital (UPI),1,1281.23,0.831139986715377,Adult,High,86.0
+144,36,Bengaluru,Fast Food,Delivery,3,4.9,2025-02-17 16:00:00,Cash,0,455.48,0.2597974094985055,Adult,Medium,774.0
+145,41,Bengaluru,Italian,Dine-in,6,5.0,2025-02-18 00:00:00,Card,1,1116.1,0.7168853094210118,Adult,High,229.0
+146,49,Bengaluru,Italian,Takeaway,6,4.6,2025-02-18 08:00:00,Cash,0,940.85,0.5956285287279973,Adult,High,383.0
+147,15,Chennai,Fast Food,Delivery,2,3.8,2025-02-18 16:00:00,Digital (UPI),0,484.38,0.27979353481678293,Teen,Medium,748.0
+148,49,Mumbai,Italian,Delivery,1,4.6,2025-02-19 00:00:00,Digital (UPI),0,247.12,0.11563157312077937,Adult,Low,941.0
+149,51,Chennai,Chinese,Takeaway,1,4.3,2025-02-19 08:00:00,Digital (UPI),0,311.66,0.16028727997343079,Adult,Low,894.0
+150,61,Hyderabad,North Indian,Dine-in,6,4.4,2025-02-19 16:00:00,Cash,0,1003.91,0.6392602125539688,Senior,High,324.0
+151,28,Chennai,North Indian,Delivery,6,4.1,2025-02-20 00:00:00,Card,0,852.85,0.5347406730875678,Young Adult,Medium,453.0
+152,17,Chennai,Fast Food,Takeaway,5,3.4,2025-02-20 08:00:00,Cash,1,600.36,0.3600409609210672,Teen,Medium,662.0
+153,15,Chennai,Chinese,Dine-in,8,4.0,2025-02-20 16:00:00,Card,0,1316.79,0.8557442156537142,Teen,High,62.0
+154,19,Chennai,Italian,Dine-in,5,3.9,2025-02-21 00:00:00,Digital (UPI),0,828.9,0.5181694896490645,Teen,Medium,476.0
+155,40,Mumbai,South Indian,Delivery,5,4.1,2025-02-21 08:00:00,Digital (UPI),1,881.86,0.5548129082253958,Adult,Medium,426.0
+156,69,Hyderabad,North Indian,Takeaway,1,3.5,2025-02-21 16:00:00,Digital (UPI),0,229.83,0.10366849330233589,Senior,Low,956.0
+157,28,Mumbai,North Indian,Delivery,2,4.3,2025-02-22 00:00:00,Card,0,561.45,0.33311884202369096,Young Adult,Medium,689.0
+158,53,Mumbai,Chinese,Delivery,4,5.0,2025-02-22 08:00:00,Digital (UPI),0,718.44,0.44174139267131635,Adult,Medium,578.0
+159,41,Chennai,South Indian,Takeaway,5,2.8,2025-02-22 16:00:00,Digital (UPI),1,814.24,0.5080261264253294,Adult,Medium,491.0
+160,23,Bengaluru,North Indian,Takeaway,2,4.4,2025-02-23 00:00:00,Digital (UPI),1,426.99,0.24008496623491643,Young Adult,Medium,794.0
+161,29,Bengaluru,South Indian,Dine-in,7,4.0,2025-02-23 08:00:00,Digital (UPI),1,1115.71,0.7166154655153327,Young Adult,High,230.0
+162,29,Mumbai,North Indian,Dine-in,3,4.3,2025-02-23 16:00:00,Card,0,557.43,0.33033737407284397,Young Adult,Medium,694.0
+163,40,Mumbai,Chinese,Dine-in,5,3.7,2025-02-24 00:00:00,Cash,1,752.6,0.46537695117901035,Adult,Medium,542.0
+164,56,Chennai,North Indian,Delivery,7,3.9,2025-02-24 08:00:00,Digital (UPI),0,1149.31,0.7398635558507693,Senior,High,211.0
+165,27,Mumbai,Italian,Takeaway,4,4.1,2025-02-24 16:00:00,Cash,1,661.77,0.40253099745378057,Young Adult,Medium,622.0
+166,65,Chennai,South Indian,Delivery,3,3.8,2025-02-25 00:00:00,Card,0,460.18,0.2630493745156648,Senior,Medium,769.0
+167,46,Bengaluru,South Indian,Dine-in,3,2.9,2025-02-25 08:00:00,Digital (UPI),0,708.06,0.4345593933355474,Adult,Medium,586.0
+168,53,Bengaluru,North Indian,Takeaway,4,3.8,2025-02-25 16:00:00,Digital (UPI),0,613.3,0.36899424333001213,Adult,Medium,653.0
+169,63,Hyderabad,North Indian,Takeaway,5,3.0,2025-02-26 00:00:00,Digital (UPI),1,850.56,0.5331562050260157,Senior,Medium,456.0
+170,66,Bengaluru,South Indian,Takeaway,1,4.5,2025-02-26 08:00:00,Cash,0,185.78,0.07318997010959814,Senior,Low,980.0
+171,46,Mumbai,South Indian,Delivery,4,2.7,2025-02-26 16:00:00,Card,1,723.76,0.44542234030776046,Adult,Medium,573.0
+172,18,Bengaluru,Chinese,Dine-in,4,4.7,2025-02-27 00:00:00,Digital (UPI),0,598.05,0.3584426547105059,Teen,Medium,668.0
+173,44,Chennai,South Indian,Takeaway,4,4.3,2025-02-27 08:00:00,Digital (UPI),0,767.23,0.4754995571792317,Adult,Medium,530.0
+174,51,Bengaluru,Chinese,Dine-in,3,4.3,2025-02-27 16:00:00,Digital (UPI),1,712.89,0.43790130632126645,Adult,Medium,582.0
+175,37,Hyderabad,Fast Food,Dine-in,8,2.5,2025-02-28 00:00:00,Digital (UPI),0,1232.84,0.7976585851876452,Adult,High,126.0
+176,53,Bengaluru,Italian,Dine-in,2,3.8,2025-02-28 08:00:00,Digital (UPI),0,497.36,0.2887744935237463,Adult,Medium,737.0
+177,59,Chennai,North Indian,Takeaway,7,4.8,2025-02-28 16:00:00,Digital (UPI),1,1119.45,0.719203199380051,Senior,High,226.0
+178,29,Chennai,South Indian,Delivery,1,3.6,2025-03-01 00:00:00,Cash,0,370.46,0.200971438060445,Young Adult,Low,845.0
+179,57,Mumbai,North Indian,Takeaway,5,3.2,2025-03-01 08:00:00,Digital (UPI),1,1025.08,0.6539078932801948,Senior,High,306.0
+180,43,Bengaluru,North Indian,Delivery,5,3.6,2025-03-01 16:00:00,Digital (UPI),0,831.3,0.5198300675301671,Adult,Medium,474.0
+181,50,Chennai,Fast Food,Takeaway,7,4.0,2025-03-02 00:00:00,Digital (UPI),0,1028.38,0.656191187866711,Adult,High,303.0
+182,27,Hyderabad,North Indian,Takeaway,2,3.4,2025-03-02 08:00:00,Card,1,475.85,0.273891564264364,Young Adult,Medium,757.0
+183,46,Mumbai,South Indian,Dine-in,4,4.9,2025-03-02 16:00:00,Digital (UPI),0,717.95,0.4414023580205912,Adult,Medium,579.0
+184,21,Hyderabad,Chinese,Dine-in,8,4.0,2025-03-03 00:00:00,Card,0,1340.14,0.8719002546219419,Young Adult,High,47.0
+185,65,Bengaluru,Italian,Dine-in,1,3.6,2025-03-03 08:00:00,Digital (UPI),0,222.81,0.0988113030001107,Senior,Low,959.0
+186,36,Bengaluru,Chinese,Dine-in,5,3.1,2025-03-03 16:00:00,Cash,0,779.24,0.4838093656592494,Adult,Medium,525.0
+187,42,Bengaluru,North Indian,Dine-in,7,4.3,2025-03-04 00:00:00,Digital (UPI),0,1242.83,0.8045707406177349,Adult,High,119.0
+188,16,Mumbai,South Indian,Dine-in,6,4.3,2025-03-04 08:00:00,Cash,0,1025.58,0.6542538470054245,Teen,High,304.0
+189,56,Chennai,South Indian,Dine-in,8,3.4,2025-03-04 16:00:00,Cash,0,1184.52,0.7642256171814458,Senior,High,170.0
+190,59,Mumbai,North Indian,Delivery,7,2.4,2025-03-05 00:00:00,Card,0,1204.95,0.7783612863943319,Senior,High,153.0
+191,67,Hyderabad,South Indian,Dine-in,8,4.3,2025-03-05 08:00:00,Digital (UPI),0,1338.89,0.8710353703088676,Senior,High,49.0
+192,20,Mumbai,North Indian,Dine-in,5,3.9,2025-03-05 16:00:00,Card,0,823.98,0.5147653049928042,Young Adult,Medium,482.0
+193,42,Hyderabad,North Indian,Dine-in,4,4.2,2025-03-06 00:00:00,Card,0,829.59,0.5186469057898816,Adult,Medium,475.0
+194,42,Mumbai,South Indian,Takeaway,6,5.0,2025-03-06 08:00:00,Digital (UPI),0,950.55,0.6023400309974538,Adult,High,375.0
+195,58,Chennai,North Indian,Dine-in,2,4.0,2025-03-06 16:00:00,Card,0,386.48,0.21205579541680505,Senior,Low,833.0
+196,58,Hyderabad,Chinese,Dine-in,1,3.6,2025-03-07 00:00:00,Digital (UPI),0,311.49,0.16016965570685265,Senior,Low,895.0
+197,34,Bengaluru,Chinese,Takeaway,2,3.2,2025-03-07 08:00:00,Digital (UPI),1,406.14,0.22565869589283738,Young Adult,Medium,819.0
+198,44,Bengaluru,Italian,Dine-in,2,3.8,2025-03-07 16:00:00,Digital (UPI),0,289.25,0.144781634008635,Adult,Low,908.0
+199,25,Mumbai,North Indian,Dine-in,7,4.1,2025-03-08 00:00:00,Card,0,1164.7,0.75051201151334,Young Adult,High,196.0
+200,69,Bengaluru,North Indian,Dine-in,8,4.0,2025-03-08 08:00:00,Digital (UPI),1,1266.85,0.8211903575777704,Senior,High,102.0
+201,42,Hyderabad,North Indian,Dine-in,1,5.0,2025-03-08 16:00:00,Cash,0,318.56,0.1650614413816008,Adult,Low,884.0
+202,39,Bengaluru,Chinese,Dine-in,1,4.3,2025-03-09 00:00:00,Card,0,262.1,0.12599634672866158,Adult,Low,930.0
+203,53,Chennai,Italian,Dine-in,5,3.9,2025-03-09 08:00:00,Card,1,857.56,0.5379995571792316,Adult,Medium,449.0
+204,47,Chennai,North Indian,Delivery,5,3.5,2025-03-09 16:00:00,Digital (UPI),1,766.14,0.4747453780582309,Adult,Medium,531.5
+205,15,Mumbai,Fast Food,Takeaway,1,4.2,2025-03-10 00:00:00,Cash,1,231.6,0.10489316948964907,Teen,Low,955.0
+206,41,Hyderabad,North Indian,Takeaway,6,3.4,2025-03-10 08:00:00,Digital (UPI),0,1077.61,0.6902537916528284,Adult,High,258.0
+207,66,Chennai,Chinese,Dine-in,3,4.1,2025-03-10 16:00:00,Digital (UPI),1,487.88,0.2822152108933909,Senior,Medium,745.0
+208,27,Chennai,Italian,Delivery,5,4.3,2025-03-11 00:00:00,Card,1,847.4,0.5309697774825639,Young Adult,Medium,460.0
+209,55,Hyderabad,Fast Food,Dine-in,3,3.8,2025-03-11 08:00:00,Cash,0,475.08,0.27335879552751025,Senior,Medium,758.0
+210,17,Bengaluru,Italian,Dine-in,7,3.6,2025-03-11 16:00:00,Digital (UPI),1,1055.29,0.674810417358574,Teen,High,279.0
+211,53,Bengaluru,Italian,Takeaway,6,2.5,2025-03-12 00:00:00,Digital (UPI),1,993.21,0.631856802834053,Adult,High,334.0
+212,20,Mumbai,South Indian,Dine-in,1,4.8,2025-03-12 08:00:00,Digital (UPI),1,263.9,0.12724178013948853,Young Adult,Low,928.0
+213,22,Bengaluru,Italian,Dine-in,6,4.3,2025-03-12 16:00:00,Digital (UPI),0,1159.51,0.7469210118454556,Young Adult,High,205.0
+214,41,Hyderabad,North Indian,Takeaway,5,4.3,2025-03-13 00:00:00,Card,0,813.56,0.5075556293590169,Adult,Medium,493.0
+215,23,Chennai,Fast Food,Delivery,2,2.9,2025-03-13 08:00:00,Card,0,395.99,0.2186358352706742,Young Adult,Low,825.0
+216,51,Bengaluru,Chinese,Dine-in,7,5.0,2025-03-13 16:00:00,Cash,0,1049.99,0.6711433078711392,Adult,High,286.0
+217,47,Mumbai,Italian,Delivery,1,3.7,2025-03-14 00:00:00,Cash,0,298.98,0.15151389350160524,Adult,Low,901.0
+218,65,Bengaluru,South Indian,Delivery,4,3.8,2025-03-14 08:00:00,Digital (UPI),0,731.85,0.4510198715819772,Senior,Medium,566.0
+219,56,Hyderabad,Chinese,Dine-in,7,3.3,2025-03-14 16:00:00,Card,1,1269.07,0.8227263921177903,Senior,High,99.0
+220,58,Mumbai,South Indian,Dine-in,8,2.7,2025-03-15 00:00:00,Digital (UPI),1,1388.93,0.9056584191298572,Senior,High,25.0
+221,38,Bengaluru,Italian,Dine-in,3,4.8,2025-03-15 08:00:00,Digital (UPI),0,578.11,0.344646020148345,Adult,Medium,679.0
+222,29,Mumbai,North Indian,Dine-in,6,4.9,2025-03-15 16:00:00,Digital (UPI),0,962.39,0.6105322152108934,Young Adult,High,357.0
+223,68,Hyderabad,North Indian,Dine-in,1,3.9,2025-03-16 00:00:00,Cash,1,266.37,0.12895079154212333,Senior,Low,926.0
+224,46,Chennai,North Indian,Delivery,7,3.5,2025-03-16 08:00:00,Digital (UPI),0,1141.12,0.7341968338315067,Adult,High,215.0
+225,46,Hyderabad,North Indian,Delivery,6,3.7,2025-03-16 16:00:00,Cash,1,1076.27,0.6893266356692129,Adult,High,260.0
+226,38,Hyderabad,Fast Food,Takeaway,1,3.8,2025-03-17 00:00:00,Cash,0,316.1,0.16335934905347063,Adult,Low,889.0
+227,55,Hyderabad,North Indian,Dine-in,5,3.2,2025-03-17 08:00:00,Cash,0,826.29,0.5163636112033654,Senior,Medium,480.0
+228,66,Hyderabad,Fast Food,Delivery,7,3.8,2025-03-17 16:00:00,Digital (UPI),1,1033.04,0.6594154765858519,Senior,High,301.0
+229,63,Chennai,South Indian,Delivery,5,4.1,2025-03-18 00:00:00,Cash,0,956.67,0.6065745045942654,Senior,High,367.0
+230,63,Chennai,North Indian,Delivery,7,4.7,2025-03-18 08:00:00,Cash,1,1196.55,0.7725492638104727,Senior,High,160.0
+231,66,Mumbai,Italian,Dine-in,5,4.0,2025-03-18 16:00:00,Card,0,824.44,0.5150835824200155,Senior,Medium,481.0
+232,26,Bengaluru,Chinese,Takeaway,8,2.9,2025-03-19 00:00:00,Digital (UPI),1,1343.43,0.8741766301339533,Young Adult,High,46.0
+233,53,Chennai,South Indian,Dine-in,6,4.2,2025-03-19 08:00:00,Card,0,1005.99,0.6406993800509244,Adult,High,320.0
+234,16,Chennai,Chinese,Dine-in,4,3.8,2025-03-19 16:00:00,Card,1,805.49,0.5019719362338094,Teen,Medium,499.0
+235,17,Bengaluru,Italian,Dine-in,7,5.0,2025-03-20 00:00:00,Cash,0,995.62,0.6335242997896602,Teen,High,332.0
+236,63,Chennai,North Indian,Takeaway,8,5.0,2025-03-20 08:00:00,Card,0,1268.22,0.8221382707848999,Senior,High,100.0
+237,51,Hyderabad,Fast Food,Takeaway,7,5.0,2025-03-20 16:00:00,Digital (UPI),0,1277.92,0.8288497730543564,Adult,High,91.0
+238,63,Hyderabad,Fast Food,Dine-in,5,3.6,2025-03-21 00:00:00,Digital (UPI),1,895.06,0.5639460865714602,Senior,Medium,418.0
+239,31,Bengaluru,Chinese,Dine-in,1,5.0,2025-03-21 08:00:00,Card,0,391.81,0.2157436621277538,Young Adult,Low,829.0
+240,63,Mumbai,North Indian,Dine-in,7,4.2,2025-03-21 16:00:00,Card,1,1052.26,0.672713937783682,Senior,High,285.0
+241,16,Mumbai,Chinese,Dine-in,8,4.0,2025-03-22 00:00:00,Cash,1,1385.78,0.90347891066091,Teen,High,27.0
+242,16,Bengaluru,North Indian,Dine-in,5,3.6,2025-03-22 08:00:00,Card,0,930.98,0.5887994021919628,Teen,High,389.0
+243,42,Bengaluru,North Indian,Dine-in,2,3.8,2025-03-22 16:00:00,Cash,1,265.46,0.12832115576220524,Adult,Low,927.0
+244,68,Hyderabad,North Indian,Delivery,5,4.2,2025-03-23 00:00:00,Digital (UPI),1,826.36,0.5164120447248977,Senior,Medium,479.0
+245,37,Mumbai,South Indian,Dine-in,6,4.1,2025-03-23 08:00:00,Digital (UPI),0,991.48,0.6306598029447581,Adult,High,337.0
+246,51,Chennai,Fast Food,Dine-in,4,4.9,2025-03-23 16:00:00,Digital (UPI),0,570.44,0.3393390900033212,Adult,Medium,682.0
+247,46,Hyderabad,Italian,Dine-in,2,3.8,2025-03-24 00:00:00,Digital (UPI),0,378.03,0.2062091774604229,Adult,Low,837.0
+248,47,Bengaluru,Italian,Delivery,6,4.8,2025-03-24 08:00:00,Digital (UPI),0,1069.85,0.6848845898372633,Adult,High,264.0
+249,15,Mumbai,South Indian,Takeaway,6,4.5,2025-03-24 16:00:00,Digital (UPI),0,968.73,0.6149189084468062,Teen,High,351.0
+250,33,Chennai,South Indian,Takeaway,6,3.9,2025-03-25 00:00:00,Card,1,1019.37,0.6499571017380715,Young Adult,High,313.0
+251,16,Chennai,South Indian,Dine-in,1,4.5,2025-03-25 08:00:00,Digital (UPI),0,269.95,0.13142782021476807,Teen,Low,922.0
+252,67,Hyderabad,Fast Food,Takeaway,6,3.7,2025-03-25 16:00:00,Card,0,999.03,0.6358837041957268,Senior,High,330.0
+253,58,Mumbai,North Indian,Dine-in,1,5.0,2025-03-26 00:00:00,Card,0,193.59,0.07859376729768626,Senior,Low,978.0
+254,40,Mumbai,Fast Food,Takeaway,6,2.1,2025-03-26 08:00:00,Digital (UPI),1,1052.71,0.6730252961363888,Adult,High,284.0
+255,46,Bengaluru,Chinese,Delivery,3,4.5,2025-03-26 16:00:00,Card,0,423.04,0.2373519318056017,Adult,Medium,803.0
+256,20,Mumbai,South Indian,Takeaway,8,2.8,2025-03-27 00:00:00,Card,1,1300.69,0.8446045057013174,Young Adult,High,74.0
+257,46,Mumbai,Italian,Delivery,2,3.8,2025-03-27 08:00:00,Digital (UPI),1,510.84,0.2981014059559393,Adult,Medium,727.0
+258,69,Hyderabad,South Indian,Delivery,3,3.9,2025-03-27 16:00:00,Cash,1,514.21,0.30043313406398764,Senior,Medium,724.0
+259,18,Mumbai,Fast Food,Dine-in,6,5.0,2025-03-28 00:00:00,Card,0,941.81,0.5962927598804384,Teen,High,381.0
+260,69,Chennai,Fast Food,Delivery,2,3.5,2025-03-28 08:00:00,Digital (UPI),0,458.04,0.26156869257168164,Senior,Medium,772.0
+261,25,Hyderabad,South Indian,Dine-in,2,4.9,2025-03-28 16:00:00,Digital (UPI),0,413.07,0.2304536145245212,Young Adult,Medium,811.0
+262,31,Hyderabad,North Indian,Takeaway,7,3.2,2025-03-29 00:00:00,Digital (UPI),0,1209.64,0.7816063323369867,Young Adult,High,151.0
+263,52,Bengaluru,Chinese,Dine-in,4,4.9,2025-03-29 08:00:00,Card,1,703.08,0.43111369423225954,Adult,Medium,589.0
+264,38,Mumbai,Fast Food,Dine-in,3,3.7,2025-03-29 16:00:00,Card,1,358.94,0.19300066423115245,Adult,Low,851.0
+265,19,Bengaluru,North Indian,Dine-in,4,4.1,2025-03-30 00:00:00,Digital (UPI),1,794.39,0.49429176353370974,Teen,Medium,511.0
+266,66,Chennai,Chinese,Dine-in,2,3.8,2025-03-30 08:00:00,Digital (UPI),0,565.6,0.33599025794309756,Senior,Medium,686.0
+267,48,Hyderabad,Chinese,Dine-in,1,4.9,2025-03-30 16:00:00,Digital (UPI),0,352.72,0.18869699988929484,Adult,Low,857.0
+268,20,Hyderabad,Italian,Takeaway,2,4.8,2025-03-31 00:00:00,Cash,0,116.89,0.025524465847448247,Young Adult,Low,996.0
+269,36,Hyderabad,North Indian,Dine-in,4,4.0,2025-03-31 08:00:00,Cash,1,736.09,0.4539535591719252,Adult,Medium,561.0
+270,25,Chennai,Italian,Dine-in,3,3.2,2025-03-31 16:00:00,Digital (UPI),1,512.66,0.2993606775157755,Young Adult,Medium,725.0
+271,62,Chennai,Fast Food,Takeaway,6,3.5,2025-04-01 00:00:00,Card,1,913.26,0.5765388021698218,Senior,High,399.0
+272,30,Bengaluru,North Indian,Dine-in,7,3.3,2025-04-01 08:00:00,Digital (UPI),0,1159.82,0.7471355031550979,Young Adult,High,204.0
+273,47,Bengaluru,North Indian,Delivery,7,2.4,2025-04-01 16:00:00,Cash,0,1138.08,0.73209343518211,Adult,High,217.0
+274,23,Bengaluru,Fast Food,Takeaway,7,4.9,2025-04-02 00:00:00,Digital (UPI),0,1190.69,0.7684946861507805,Young Adult,High,162.0
+275,20,Mumbai,North Indian,Delivery,6,3.8,2025-04-02 08:00:00,Digital (UPI),0,1004.53,0.6396891951732536,Young Adult,High,322.0
+276,30,Hyderabad,Fast Food,Takeaway,7,3.8,2025-04-02 16:00:00,Digital (UPI),0,1060.34,0.6783045499833942,Young Adult,High,272.0
+277,43,Hyderabad,South Indian,Dine-in,3,5.0,2025-04-03 00:00:00,Cash,0,503.87,0.29327881102623715,Adult,Medium,733.0
+278,17,Bengaluru,North Indian,Takeaway,6,3.7,2025-04-03 08:00:00,Digital (UPI),1,940.96,0.595704638547548,Teen,High,382.0
+279,34,Hyderabad,Fast Food,Dine-in,7,3.4,2025-04-03 16:00:00,Digital (UPI),0,1012.68,0.6453282408944979,Young Adult,High,317.0
+280,50,Bengaluru,South Indian,Dine-in,6,3.8,2025-04-04 00:00:00,Card,0,890.27,0.5606318498837596,Adult,Medium,421.0
+281,33,Mumbai,South Indian,Delivery,4,3.2,2025-04-04 08:00:00,Digital (UPI),1,683.11,0.4172963024465848,Young Adult,Medium,609.0
+282,40,Mumbai,South Indian,Dine-in,8,4.2,2025-04-04 16:00:00,Digital (UPI),0,1413.9,0.9229353481678292,Adult,High,17.0
+283,17,Chennai,Chinese,Delivery,8,3.7,2025-04-05 00:00:00,Digital (UPI),0,1257.16,0.8144857743828187,Teen,High,110.0
+284,33,Mumbai,North Indian,Delivery,3,3.6,2025-04-05 08:00:00,Digital (UPI),0,489.41,0.28327382929259387,Young Adult,Medium,742.0
+285,34,Bengaluru,South Indian,Delivery,5,4.0,2025-04-05 16:00:00,Cash,0,755.5,0.46738348278534264,Young Adult,Medium,540.0
+286,46,Mumbai,Fast Food,Delivery,1,3.9,2025-04-06 00:00:00,Card,0,252.44,0.11931252075722351,Adult,Low,938.0
+287,21,Chennai,North Indian,Dine-in,7,4.1,2025-04-06 08:00:00,Card,0,1244.34,0.8056155208679286,Young Adult,High,117.0
+288,66,Hyderabad,Chinese,Dine-in,1,3.6,2025-04-06 16:00:00,Digital (UPI),1,410.21,0.22847475921620722,Senior,Medium,815.0
+289,55,Bengaluru,South Indian,Takeaway,6,3.7,2025-04-07 00:00:00,Digital (UPI),1,1022.83,0.6523511015166612,Senior,High,307.0
+290,47,Hyderabad,Italian,Dine-in,1,3.9,2025-04-07 08:00:00,Digital (UPI),1,261.2,0.12537363002324808,Adult,Low,931.0
+291,54,Chennai,North Indian,Takeaway,3,4.0,2025-04-07 16:00:00,Card,1,506.52,0.2951123657699546,Adult,Medium,730.0
+292,53,Chennai,Fast Food,Delivery,3,4.0,2025-04-08 00:00:00,Cash,0,519.87,0.30434933023358796,Adult,Medium,719.0
+293,32,Chennai,South Indian,Takeaway,2,3.5,2025-04-08 08:00:00,Digital (UPI),0,450.33,0.2562340861286394,Young Adult,Medium,778.0
+294,54,Hyderabad,North Indian,Dine-in,8,4.7,2025-04-08 16:00:00,Card,1,1274.81,0.8266979408834274,Adult,High,95.0
+295,15,Hyderabad,North Indian,Dine-in,7,4.0,2025-04-09 00:00:00,Card,0,1137.02,0.7313600132846231,Teen,High,218.0
+296,25,Hyderabad,North Indian,Dine-in,2,3.6,2025-04-09 08:00:00,Digital (UPI),1,397.97,0.22000581202258387,Young Adult,Low,823.0
+297,42,Hyderabad,South Indian,Dine-in,1,4.2,2025-04-09 16:00:00,Cash,1,202.73,0.08491780139488542,Adult,Low,974.0
+298,39,Chennai,South Indian,Delivery,5,3.9,2025-04-10 00:00:00,Card,1,844.0,0.5286172921510018,Adult,Medium,462.0
+299,64,Chennai,Fast Food,Dine-in,2,2.8,2025-04-10 08:00:00,Card,0,238.45,0.10963273552529613,Senior,Low,949.0
+300,37,Bengaluru,South Indian,Dine-in,2,4.2,2025-04-10 16:00:00,Cash,1,443.91,0.25179204029668995,Adult,Medium,785.0
+301,45,Bengaluru,North Indian,Dine-in,3,3.3,2025-04-11 00:00:00,Digital (UPI),0,738.14,0.455371969445367,Adult,Medium,558.0
+302,44,Hyderabad,Chinese,Takeaway,5,4.7,2025-04-11 08:00:00,Card,0,805.84,0.5022141038414702,Adult,Medium,498.0
+303,56,Mumbai,Italian,Takeaway,6,3.8,2025-04-11 16:00:00,Cash,0,1029.91,0.6572498062659139,Senior,High,302.0
+304,49,Mumbai,North Indian,Dine-in,1,4.5,2025-04-12 00:00:00,Card,1,318.13,0.16476392117790326,Adult,Low,885.0
+305,21,Chennai,North Indian,Dine-in,2,3.6,2025-04-12 08:00:00,Digital (UPI),1,502.42,0.292275545223071,Young Adult,Medium,735.0
+306,30,Chennai,North Indian,Dine-in,5,4.0,2025-04-12 16:00:00,Card,1,828.85,0.5181348942765416,Young Adult,Medium,477.0
+307,40,Chennai,Italian,Dine-in,8,4.8,2025-04-13 00:00:00,Digital (UPI),0,1155.73,0.744305601682719,Adult,High,208.0
+308,62,Bengaluru,Chinese,Takeaway,7,3.8,2025-04-13 08:00:00,Cash,1,1171.38,0.7551339532824091,Senior,High,187.0
+309,66,Bengaluru,South Indian,Takeaway,5,3.6,2025-04-13 16:00:00,Cash,0,860.29,0.539888464518986,Senior,Medium,442.0
+310,63,Chennai,Fast Food,Dine-in,8,4.5,2025-04-14 00:00:00,Card,0,1272.35,0.8249958485552972,Senior,High,97.0
+311,16,Chennai,Italian,Dine-in,1,4.4,2025-04-14 08:00:00,Digital (UPI),0,239.32,0.11023469500719583,Teen,Low,947.0
+312,15,Chennai,Chinese,Delivery,5,3.6,2025-04-14 16:00:00,Digital (UPI),0,861.49,0.5407187534595372,Teen,Medium,440.0
+313,62,Mumbai,Fast Food,Dine-in,8,4.0,2025-04-15 00:00:00,Cash,1,1328.94,0.8641508911767962,Senior,High,55.0
+314,26,Bengaluru,North Indian,Takeaway,5,3.6,2025-04-15 08:00:00,Digital (UPI),1,875.58,0.5504677294365106,Young Adult,Medium,430.0
+315,19,Mumbai,North Indian,Dine-in,5,4.5,2025-04-15 16:00:00,Digital (UPI),1,832.59,0.5207226281412598,Teen,Medium,473.0
+316,51,Mumbai,North Indian,Dine-in,7,3.5,2025-04-16 00:00:00,Card,0,1180.74,0.7616102070187092,Adult,High,175.0
+317,46,Chennai,North Indian,Dine-in,8,4.0,2025-04-16 08:00:00,Digital (UPI),1,1277.2,0.8283515996900255,Adult,High,92.0
+318,69,Chennai,Chinese,Takeaway,8,3.5,2025-04-16 16:00:00,Cash,1,1351.36,0.8796634562160964,Senior,High,43.0
+319,23,Hyderabad,Fast Food,Delivery,2,2.6,2025-04-17 00:00:00,Digital (UPI),0,349.8,0.1866766301339533,Young Adult,Low,860.0
+320,55,Hyderabad,North Indian,Dine-in,1,4.0,2025-04-17 08:00:00,Digital (UPI),1,255.84,0.12166500608878557,Senior,Low,935.0
+321,49,Mumbai,North Indian,Dine-in,7,4.5,2025-04-17 16:00:00,Digital (UPI),0,1020.1,0.6504621941769069,Adult,High,311.0
+322,33,Bengaluru,South Indian,Dine-in,5,2.3,2025-04-18 00:00:00,Digital (UPI),0,820.41,0.512295195394664,Young Adult,Medium,483.0
+323,62,Chennai,Fast Food,Dine-in,5,4.2,2025-04-18 08:00:00,Card,1,895.4,0.5641813351046164,Senior,Medium,417.0
+324,30,Chennai,South Indian,Dine-in,2,3.2,2025-04-18 16:00:00,Digital (UPI),1,317.3,0.16418963799402192,Young Adult,Low,886.0
+325,17,Mumbai,South Indian,Dine-in,1,4.4,2025-04-19 00:00:00,Card,1,224.39,0.0999045167718366,Teen,Low,958.0
+326,34,Hyderabad,North Indian,Delivery,3,4.5,2025-04-19 08:00:00,Card,0,357.59,0.1920665891730322,Young Adult,Low,852.0
+327,38,Bengaluru,North Indian,Dine-in,7,3.9,2025-04-19 16:00:00,Digital (UPI),0,1040.55,0.6646117015388021,Adult,High,294.0
+328,68,Hyderabad,Fast Food,Dine-in,2,3.9,2025-04-20 00:00:00,Digital (UPI),0,311.48,0.16016273663234806,Senior,Low,896.0
+329,47,Hyderabad,Fast Food,Delivery,1,3.4,2025-04-20 08:00:00,Digital (UPI),0,258.14,0.12325639322484223,Adult,Low,933.0
+330,38,Hyderabad,North Indian,Dine-in,7,3.1,2025-04-20 16:00:00,Card,0,1176.67,0.7587941436953394,Adult,High,177.5
+331,66,Hyderabad,Fast Food,Delivery,5,4.0,2025-04-21 00:00:00,Digital (UPI),1,845.52,0.5296689914757002,Senior,Medium,461.0
+332,25,Chennai,Chinese,Dine-in,1,3.4,2025-04-21 08:00:00,Digital (UPI),1,219.39,0.09644497951953945,Young Adult,Low,964.0
+333,63,Chennai,Fast Food,Delivery,1,5.0,2025-04-21 16:00:00,Cash,0,219.67,0.0966387136056681,Senior,Low,963.0
+334,22,Hyderabad,South Indian,Takeaway,6,3.4,2025-04-22 00:00:00,Card,1,1057.28,0.6761873131849884,Young Adult,High,275.0
+335,50,Bengaluru,South Indian,Delivery,1,4.4,2025-04-22 08:00:00,Card,1,267.03,0.12940745045942653,Adult,Low,924.0
+336,52,Mumbai,South Indian,Delivery,3,3.2,2025-04-22 16:00:00,Card,0,523.28,0.3067087346396546,Adult,Medium,714.0
+337,54,Bengaluru,Chinese,Dine-in,1,4.4,2025-04-23 00:00:00,Digital (UPI),0,353.46,0.18920901140263477,Adult,Low,856.0
+338,34,Bengaluru,North Indian,Delivery,3,3.8,2025-04-23 08:00:00,Digital (UPI),0,706.0,0.433134063987601,Young Adult,Medium,588.0
+339,49,Bengaluru,North Indian,Dine-in,5,3.8,2025-04-23 16:00:00,Digital (UPI),0,750.34,0.46381324034097204,Adult,Medium,544.0
+340,62,Hyderabad,South Indian,Dine-in,3,4.4,2025-04-24 00:00:00,Digital (UPI),1,591.8,0.35411823314513446,Senior,Medium,673.0
+341,39,Chennai,Italian,Dine-in,7,3.7,2025-04-24 08:00:00,Digital (UPI),0,1397.19,0.911373574670652,Adult,High,23.0
+342,49,Bengaluru,North Indian,Takeaway,5,3.0,2025-04-24 16:00:00,Digital (UPI),1,872.42,0.5482813018930588,Adult,Medium,433.0
+343,39,Hyderabad,Chinese,Dine-in,5,4.5,2025-04-25 00:00:00,Card,1,859.24,0.5391619616960036,Adult,Medium,444.0
+344,43,Bengaluru,Fast Food,Takeaway,3,3.2,2025-04-25 08:00:00,Digital (UPI),0,545.54,0.3221105944868814,Adult,Medium,703.0
+345,32,Bengaluru,North Indian,Takeaway,8,4.0,2025-04-25 16:00:00,Cash,1,1339.21,0.8712567806930146,Young Adult,High,48.0
+346,60,Hyderabad,Chinese,Delivery,2,4.7,2025-04-26 00:00:00,Digital (UPI),0,460.39,0.2631946750802613,Senior,Medium,768.0
+347,32,Chennai,South Indian,Delivery,4,3.7,2025-04-26 08:00:00,Card,1,600.42,0.36008247536809473,Young Adult,Medium,661.0
+348,16,Chennai,Fast Food,Dine-in,8,4.8,2025-04-26 16:00:00,Card,0,1297.88,0.8426602457655264,Teen,High,75.0
+349,68,Mumbai,North Indian,Dine-in,1,4.3,2025-04-27 00:00:00,Digital (UPI),0,80.0,0.0,Senior,Low,998.5
+350,49,Hyderabad,Chinese,Dine-in,6,3.5,2025-04-27 08:00:00,Card,0,983.25,0.6249654046274771,Adult,High,342.0
+351,30,Mumbai,Fast Food,Dine-in,4,5.0,2025-04-27 16:00:00,Digital (UPI),0,627.78,0.37901306321266465,Young Adult,Medium,642.0
+352,55,Mumbai,Fast Food,Dine-in,1,3.2,2025-04-28 00:00:00,Card,1,277.13,0.13639571570906675,Senior,Low,916.0
+353,50,Mumbai,Chinese,Dine-in,8,3.7,2025-04-28 08:00:00,Digital (UPI),0,1167.49,0.7524424333001218,Adult,High,193.0
+354,47,Chennai,South Indian,Dine-in,8,3.9,2025-04-28 16:00:00,Card,0,1259.01,0.8157658031661685,Adult,High,108.0
+355,18,Hyderabad,Chinese,Delivery,1,4.4,2025-04-29 00:00:00,Cash,1,327.32,0.17112255064762538,Teen,Low,877.0
+356,47,Mumbai,Fast Food,Takeaway,5,4.8,2025-04-29 08:00:00,Card,0,795.89,0.4953296247093989,Adult,Medium,508.0
+357,28,Hyderabad,Chinese,Dine-in,1,4.7,2025-04-29 16:00:00,Card,0,97.61,0.012184490202590501,Young Adult,Low,997.0
+358,35,Hyderabad,North Indian,Takeaway,6,4.2,2025-04-30 00:00:00,Cash,1,1020.6,0.6508081479021366,Adult,High,310.0
+359,62,Chennai,Fast Food,Dine-in,8,3.8,2025-04-30 08:00:00,Digital (UPI),0,1253.08,0.8116627919849441,Senior,High,111.0
+360,34,Mumbai,Chinese,Dine-in,1,2.7,2025-04-30 16:00:00,Card,1,235.13,0.10733560278977083,Young Adult,Low,953.0
+361,22,Mumbai,Chinese,Takeaway,3,3.1,2025-05-01 00:00:00,Cash,0,491.61,0.28479602568360457,Young Adult,Medium,741.0
+362,21,Hyderabad,North Indian,Dine-in,4,5.0,2025-05-01 08:00:00,Digital (UPI),1,857.95,0.538269401084911,Young Adult,Medium,447.0
+363,17,Bengaluru,Chinese,Dine-in,3,2.7,2025-05-01 16:00:00,Digital (UPI),0,425.35,0.23895023801616297,Teen,Medium,798.0
+364,31,Chennai,South Indian,Delivery,6,3.5,2025-05-02 00:00:00,Cash,0,1226.68,0.7933964352928153,Young Adult,High,131.0
+365,47,Chennai,Chinese,Delivery,1,4.8,2025-05-02 08:00:00,Digital (UPI),0,218.75,0.09600215875124543,Adult,Low,965.0
+366,62,Chennai,North Indian,Takeaway,7,4.1,2025-05-02 16:00:00,Digital (UPI),0,1164.68,0.7504981733643309,Senior,High,197.0
+367,26,Chennai,Chinese,Takeaway,6,4.6,2025-05-03 00:00:00,Card,0,954.02,0.6047409498505479,Young Adult,High,370.0
+368,65,Mumbai,Fast Food,Takeaway,5,4.4,2025-05-03 08:00:00,Digital (UPI),0,800.67,0.4986369423225949,Senior,Medium,502.0
+369,36,Mumbai,North Indian,Dine-in,3,5.0,2025-05-03 16:00:00,Card,1,487.21,0.28175163290158306,Adult,Medium,746.0
+370,69,Bengaluru,Fast Food,Dine-in,3,4.2,2025-05-04 00:00:00,Digital (UPI),0,598.1,0.35847725008302894,Senior,Medium,667.0
+371,36,Chennai,South Indian,Dine-in,2,4.5,2025-05-04 08:00:00,Cash,0,287.14,0.14332170928816562,Adult,Low,910.0
+372,60,Chennai,Fast Food,Dine-in,1,3.5,2025-05-04 16:00:00,Digital (UPI),0,279.13,0.1377795306099856,Senior,Low,914.0
+373,44,Hyderabad,Italian,Takeaway,5,4.4,2025-05-05 00:00:00,Digital (UPI),0,675.24,0.4118509908114691,Adult,Medium,614.0
+374,52,Mumbai,Chinese,Dine-in,7,3.7,2025-05-05 08:00:00,Cash,0,1171.88,0.7554799070076388,Adult,High,186.0
+375,52,Chennai,Italian,Delivery,3,3.7,2025-05-05 16:00:00,Card,0,617.93,0.3721977748256393,Adult,Medium,651.0
+376,59,Bengaluru,Fast Food,Delivery,3,4.6,2025-05-06 00:00:00,Digital (UPI),0,448.04,0.25464961806708736,Senior,Medium,782.0
+377,65,Bengaluru,South Indian,Delivery,5,4.0,2025-05-06 08:00:00,Card,1,904.3,0.5703393114137053,Senior,High,406.0
+378,68,Mumbai,South Indian,Takeaway,6,5.0,2025-05-06 16:00:00,Digital (UPI),0,1004.11,0.6393985940440607,Senior,High,323.0
+379,22,Bengaluru,Chinese,Delivery,6,5.0,2025-05-07 00:00:00,Digital (UPI),0,1127.87,0.7250290601129192,Young Adult,High,222.0
+380,41,Bengaluru,Italian,Dine-in,1,4.6,2025-05-07 08:00:00,Digital (UPI),0,181.58,0.07028395881766857,Adult,Low,982.0
+381,41,Mumbai,Italian,Delivery,8,2.8,2025-05-07 16:00:00,Digital (UPI),0,1525.28,1.0,Adult,High,1.0
+382,48,Chennai,Italian,Dine-in,2,5.0,2025-05-08 00:00:00,Digital (UPI),1,208.74,0.08907616517214659,Adult,Low,969.0
+383,35,Chennai,South Indian,Delivery,3,4.6,2025-05-08 08:00:00,Digital (UPI),0,523.64,0.30695782132182,Adult,Medium,713.0
+384,44,Bengaluru,Italian,Dine-in,8,3.5,2025-05-08 16:00:00,Card,0,1164.11,0.7501037861175689,Adult,High,198.0
+385,47,Bengaluru,North Indian,Delivery,8,4.5,2025-05-09 00:00:00,Card,1,1448.08,0.9465847448245323,Adult,High,10.0
+386,42,Chennai,Chinese,Delivery,2,3.3,2025-05-09 08:00:00,Card,0,379.06,0.2069218421343961,Adult,Low,835.0
+387,61,Mumbai,North Indian,Dine-in,8,4.4,2025-05-09 16:00:00,Digital (UPI),1,1286.27,0.8346272002656925,Senior,High,83.0
+388,47,Bengaluru,South Indian,Dine-in,8,3.1,2025-05-10 00:00:00,Digital (UPI),1,1335.46,0.8686621277537917,Adult,High,50.0
+389,19,Hyderabad,South Indian,Delivery,6,3.4,2025-05-10 08:00:00,Cash,1,999.62,0.6362919295914978,Teen,High,329.0
+390,62,Mumbai,South Indian,Dine-in,6,4.5,2025-05-10 16:00:00,Digital (UPI),0,952.5,0.6036892505258497,Senior,High,373.0
+391,33,Bengaluru,Chinese,Delivery,4,4.8,2025-05-11 00:00:00,Card,0,599.47,0.35942516329015833,Young Adult,Medium,665.0
+392,18,Bengaluru,South Indian,Takeaway,7,4.2,2025-05-11 08:00:00,Cash,0,1163.48,0.7496678844237795,Teen,High,200.0
+393,49,Hyderabad,South Indian,Dine-in,1,3.8,2025-05-11 16:00:00,Digital (UPI),0,280.31,0.13859598140152773,Adult,Low,913.0
+394,63,Hyderabad,North Indian,Dine-in,8,2.5,2025-05-12 00:00:00,Card,0,1355.63,0.8826179010295584,Senior,High,38.0
+395,31,Chennai,South Indian,Dine-in,4,3.9,2025-05-12 08:00:00,Digital (UPI),1,853.02,0.5348582973541459,Young Adult,Medium,452.0
+396,58,Mumbai,North Indian,Delivery,7,4.4,2025-05-12 16:00:00,Card,1,976.1,0.6200182663566921,Senior,High,346.0
+397,42,Mumbai,North Indian,Dine-in,4,3.8,2025-05-13 00:00:00,Digital (UPI),0,694.58,0.4252324809033544,Adult,Medium,597.0
+398,44,Chennai,Chinese,Takeaway,4,4.0,2025-05-13 08:00:00,Digital (UPI),1,795.34,0.4949490756116462,Adult,Medium,510.0
+399,43,Mumbai,Chinese,Dine-in,1,3.9,2025-05-13 16:00:00,Cash,0,240.04,0.11073286837152663,Adult,Low,946.0
+400,60,Mumbai,Chinese,Takeaway,1,3.8,2025-05-14 00:00:00,Digital (UPI),0,80.0,0.0,Senior,Low,998.5
+401,67,Mumbai,South Indian,Delivery,5,4.1,2025-05-14 08:00:00,Digital (UPI),0,746.72,0.4613085353703089,Senior,Medium,549.0
+402,20,Mumbai,South Indian,Delivery,2,3.8,2025-05-14 16:00:00,Card,0,426.29,0.23960063101959483,Young Adult,Medium,797.0
+403,49,Mumbai,Fast Food,Dine-in,2,5.0,2025-05-15 00:00:00,Card,1,423.38,0.2375871803387579,Adult,Medium,801.0
+404,55,Hyderabad,South Indian,Delivery,5,2.5,2025-05-15 08:00:00,Digital (UPI),1,903.8,0.5699933576884756,Senior,High,408.0
+405,51,Mumbai,South Indian,Delivery,5,4.0,2025-05-15 16:00:00,Card,0,787.52,0.4895383593490535,Adult,Medium,517.0
+406,38,Hyderabad,North Indian,Takeaway,6,3.4,2025-05-16 00:00:00,Cash,0,1020.79,0.6509396103177238,Adult,High,309.0
+407,43,Mumbai,South Indian,Delivery,7,4.2,2025-05-16 08:00:00,Cash,0,1074.33,0.6879843352153215,Adult,High,261.0
+408,63,Chennai,South Indian,Dine-in,4,4.1,2025-05-16 16:00:00,Card,1,720.8,0.4433742942544005,Senior,Medium,577.0
+409,60,Bengaluru,South Indian,Dine-in,8,5.0,2025-05-17 00:00:00,Digital (UPI),0,1304.26,0.8470746152994576,Senior,High,70.0
+410,67,Hyderabad,Chinese,Delivery,5,5.0,2025-05-17 08:00:00,Card,0,784.33,0.4873311745820879,Senior,Medium,520.0
+411,45,Mumbai,Chinese,Dine-in,3,3.5,2025-05-17 16:00:00,Card,0,674.65,0.41144276541569796,Adult,Medium,615.0
+412,49,Chennai,Chinese,Delivery,2,4.0,2025-05-18 00:00:00,Cash,1,263.55,0.12699961253182776,Adult,Low,929.0
+413,47,Bengaluru,Italian,Delivery,5,4.1,2025-05-18 08:00:00,Card,0,838.67,0.5249294254400532,Adult,Medium,467.0
+414,66,Hyderabad,Italian,Dine-in,3,3.4,2025-05-18 16:00:00,Digital (UPI),0,482.57,0.27854118233145136,Senior,Medium,750.0
+415,35,Bengaluru,Italian,Delivery,3,4.4,2025-05-19 00:00:00,Card,1,696.74,0.42672700099634675,Adult,Medium,595.0
+416,46,Chennai,Fast Food,Dine-in,3,3.8,2025-05-19 08:00:00,Digital (UPI),0,597.87,0.3583181113694232,Adult,Medium,669.0
+417,37,Hyderabad,North Indian,Takeaway,6,3.3,2025-05-19 16:00:00,Card,0,948.06,0.6006171814458098,Adult,High,377.0
+418,47,Bengaluru,North Indian,Takeaway,6,3.8,2025-05-20 00:00:00,Cash,0,977.62,0.6210699656813905,Adult,High,344.0
+419,17,Mumbai,North Indian,Delivery,8,3.3,2025-05-20 08:00:00,Digital (UPI),0,1448.9,0.9471521089339091,Teen,High,9.0
+420,32,Hyderabad,Chinese,Dine-in,8,4.7,2025-05-20 16:00:00,Card,1,1224.3,0.7917496955607218,Young Adult,High,138.0
+421,39,Bengaluru,Fast Food,Dine-in,3,5.0,2025-05-21 00:00:00,Digital (UPI),0,408.84,0.2275268460090778,Adult,Medium,817.0
+422,56,Chennai,North Indian,Takeaway,7,4.2,2025-05-21 08:00:00,Digital (UPI),0,1173.28,0.7564485774382819,Senior,High,183.0
+423,45,Chennai,Fast Food,Delivery,6,4.1,2025-05-21 16:00:00,Cash,0,1025.09,0.6539148123546994,Adult,High,305.0
+424,68,Hyderabad,North Indian,Takeaway,4,4.1,2025-05-22 00:00:00,Cash,0,753.28,0.4658474482453227,Senior,Medium,541.0
+425,17,Bengaluru,Fast Food,Dine-in,3,4.8,2025-05-22 08:00:00,Digital (UPI),0,603.81,0.3624280416251522,Teen,Medium,656.0
+426,54,Hyderabad,South Indian,Dine-in,4,4.8,2025-05-22 16:00:00,Card,1,841.66,0.5269982287169268,Adult,Medium,463.0
+427,60,Hyderabad,North Indian,Dine-in,4,3.9,2025-05-23 00:00:00,Cash,0,562.55,0.33387994021919626,Senior,Medium,688.0
+428,38,Bengaluru,South Indian,Delivery,3,4.2,2025-05-23 08:00:00,Digital (UPI),0,453.78,0.25862116683272446,Adult,Medium,775.0
+429,64,Bengaluru,North Indian,Dine-in,2,4.5,2025-05-23 16:00:00,Cash,1,452.98,0.25806764087235695,Senior,Medium,776.0
+430,46,Mumbai,South Indian,Dine-in,7,3.2,2025-05-24 00:00:00,Digital (UPI),0,1061.55,0.6791417579984501,Adult,High,271.0
+431,61,Bengaluru,South Indian,Delivery,3,4.8,2025-05-24 08:00:00,Cash,0,433.47,0.24456852651389352,Senior,Medium,789.0
+432,36,Chennai,Italian,Dine-in,8,5.0,2025-05-24 16:00:00,Card,0,1449.27,0.947408114690579,Adult,High,8.0
+433,37,Hyderabad,Chinese,Delivery,3,4.8,2025-05-25 00:00:00,Digital (UPI),1,420.4,0.23552529613638878,Adult,Medium,807.0
+434,16,Hyderabad,South Indian,Takeaway,6,3.1,2025-05-25 08:00:00,Card,0,971.9,0.6171122550647625,Teen,High,349.0
+435,41,Chennai,Chinese,Delivery,3,2.6,2025-05-25 16:00:00,Cash,1,545.25,0.32190994132624823,Adult,Medium,704.0
+436,56,Bengaluru,Italian,Dine-in,2,4.5,2025-05-26 00:00:00,Digital (UPI),0,504.73,0.29387385143363226,Senior,Medium,732.0
+437,16,Chennai,North Indian,Dine-in,6,3.5,2025-05-26 08:00:00,Cash,0,850.5,0.5331146905789882,Teen,Medium,457.0
+438,40,Chennai,South Indian,Delivery,8,4.2,2025-05-26 16:00:00,Digital (UPI),0,1333.24,0.8671260932137718,Adult,High,51.0
+439,31,Mumbai,North Indian,Delivery,1,5.0,2025-05-27 00:00:00,Digital (UPI),0,178.77,0.06833969888187758,Young Adult,Low,985.0
+440,54,Chennai,North Indian,Delivery,1,3.5,2025-05-27 08:00:00,Card,0,300.21,0.1523649396656703,Adult,Low,900.0
+441,47,Hyderabad,Chinese,Dine-in,4,4.0,2025-05-27 16:00:00,Digital (UPI),0,627.46,0.3787916528285177,Adult,Medium,645.0
+442,23,Chennai,North Indian,Delivery,7,4.2,2025-05-28 00:00:00,Card,0,1275.78,0.827369091110373,Young Adult,High,93.0
+443,57,Hyderabad,South Indian,Delivery,4,3.1,2025-05-28 08:00:00,Card,0,627.92,0.379109930255729,Senior,Medium,641.0
+444,68,Hyderabad,Italian,Takeaway,2,3.5,2025-05-28 16:00:00,Digital (UPI),0,203.04,0.08513229270452784,Senior,Low,973.0
+445,62,Hyderabad,North Indian,Delivery,5,4.0,2025-05-29 00:00:00,Digital (UPI),0,786.89,0.48910245765526406,Senior,Medium,519.0
+446,53,Bengaluru,Chinese,Delivery,8,3.8,2025-05-29 08:00:00,Card,0,1279.1,0.8296662238458983,Adult,High,90.0
+447,43,Mumbai,North Indian,Takeaway,7,4.4,2025-05-29 16:00:00,Digital (UPI),0,1236.59,0.8002532381268681,Adult,High,124.0
+448,56,Hyderabad,Fast Food,Dine-in,8,5.0,2025-05-30 00:00:00,Digital (UPI),0,1199.33,0.7744727665227499,Senior,High,158.0
+449,69,Hyderabad,South Indian,Dine-in,1,4.1,2025-05-30 08:00:00,Digital (UPI),1,150.91,0.049063157312077936,Senior,Low,993.0
+450,40,Bengaluru,Italian,Dine-in,4,3.4,2025-05-30 16:00:00,Digital (UPI),1,776.85,0.4821557068526514,Adult,Medium,526.0
+451,49,Hyderabad,Chinese,Dine-in,8,5.0,2025-05-31 00:00:00,Card,0,1189.98,0.7680034318609543,Adult,High,164.0
+452,64,Chennai,North Indian,Dine-in,1,2.9,2025-05-31 08:00:00,Card,0,235.68,0.10771615188752354,Senior,Low,952.0
+453,39,Chennai,Chinese,Dine-in,2,3.0,2025-05-31 16:00:00,Digital (UPI),0,387.31,0.2126300786006864,Adult,Low,832.0
+454,38,Mumbai,Fast Food,Dine-in,2,3.6,2025-06-01 00:00:00,Cash,0,417.41,0.23345649285951514,Adult,Medium,809.0
+455,27,Hyderabad,Chinese,Dine-in,5,3.8,2025-06-01 08:00:00,Digital (UPI),1,790.01,0.49126120890069747,Young Adult,Medium,516.0
+456,21,Bengaluru,Italian,Delivery,8,3.6,2025-06-01 16:00:00,Card,0,1225.84,0.7928152330344292,Young Adult,High,135.5
+457,50,Chennai,Fast Food,Delivery,5,4.0,2025-06-02 00:00:00,Card,0,876.79,0.5513049374515665,Adult,Medium,429.0
+458,59,Bengaluru,North Indian,Dine-in,6,4.2,2025-06-02 08:00:00,Card,0,928.32,0.5869589283737408,Senior,High,391.0
+459,34,Bengaluru,North Indian,Delivery,7,4.7,2025-06-02 16:00:00,Digital (UPI),0,1041.2,0.6650614413816008,Young Adult,High,293.0
+460,15,Chennai,Chinese,Takeaway,8,4.1,2025-06-03 00:00:00,Cash,1,1398.22,0.9120862393446253,Teen,High,22.0
+461,22,Bengaluru,South Indian,Dine-in,2,3.6,2025-06-03 08:00:00,Digital (UPI),1,439.05,0.2484293700874571,Young Adult,Medium,787.0
+462,60,Chennai,Fast Food,Dine-in,4,4.7,2025-06-03 16:00:00,Cash,0,841.4,0.5268183327798074,Senior,Medium,464.0
+463,30,Bengaluru,Fast Food,Takeaway,1,3.4,2025-06-04 00:00:00,Cash,0,312.72,0.16102070187091777,Young Adult,Low,892.0
+464,28,Chennai,South Indian,Delivery,3,2.9,2025-06-04 08:00:00,Card,0,448.55,0.25500249086682164,Young Adult,Medium,781.0
+465,26,Hyderabad,North Indian,Delivery,5,4.8,2025-06-04 16:00:00,Digital (UPI),1,857.71,0.5381033432968007,Young Adult,Medium,448.0
+466,65,Mumbai,Italian,Dine-in,3,4.8,2025-06-05 00:00:00,Card,1,468.75,0.2689790213661021,Senior,Medium,761.0
+467,37,Chennai,North Indian,Dine-in,8,3.4,2025-06-05 08:00:00,Card,0,1167.87,0.7527053581312962,Adult,High,191.0
+468,29,Chennai,Fast Food,Dine-in,4,3.7,2025-06-05 16:00:00,Cash,0,664.22,0.4042261707074062,Young Adult,Medium,620.0
+469,42,Mumbai,South Indian,Dine-in,5,3.4,2025-06-06 00:00:00,Card,0,928.52,0.5870973098638326,Adult,High,390.0
+470,48,Chennai,Chinese,Dine-in,3,4.2,2025-06-06 08:00:00,Digital (UPI),1,571.99,0.3404115465515333,Adult,Medium,680.0
+471,16,Chennai,North Indian,Dine-in,7,5.0,2025-06-06 16:00:00,Digital (UPI),0,1038.73,0.663352429978966,Teen,High,295.0
+472,46,Bengaluru,Chinese,Delivery,4,4.5,2025-06-07 00:00:00,Card,1,661.41,0.4022819107716152,Adult,Medium,623.0
+473,37,Mumbai,South Indian,Delivery,1,4.7,2025-06-07 08:00:00,Digital (UPI),1,238.57,0.10971576441935127,Adult,Low,948.0
+474,36,Hyderabad,Chinese,Dine-in,7,4.6,2025-06-07 16:00:00,Digital (UPI),0,1014.87,0.6468435182110042,Adult,High,315.0
+475,65,Chennai,North Indian,Delivery,4,4.0,2025-06-08 00:00:00,Cash,1,757.05,0.4684559393335547,Senior,Medium,538.0
+476,39,Mumbai,Italian,Dine-in,6,4.8,2025-06-08 08:00:00,Digital (UPI),1,981.7,0.623892948079265,Adult,High,343.0
+477,36,Bengaluru,Fast Food,Dine-in,5,4.5,2025-06-08 16:00:00,Digital (UPI),0,738.75,0.45579403299014726,Adult,Medium,557.0
+478,36,Hyderabad,North Indian,Dine-in,2,5.0,2025-06-09 00:00:00,Cash,0,284.23,0.1413082586073287,Adult,Low,911.0
+479,63,Mumbai,North Indian,Takeaway,1,3.7,2025-06-09 08:00:00,Cash,0,338.05,0.17854671759105503,Senior,Low,870.0
+480,66,Hyderabad,North Indian,Delivery,8,2.8,2025-06-09 16:00:00,Digital (UPI),0,1269.53,0.8230446695450017,Senior,High,98.0
+481,56,Hyderabad,Chinese,Takeaway,7,4.7,2025-06-10 00:00:00,Digital (UPI),1,1245.23,0.8062313184988377,Senior,High,115.0
+482,20,Hyderabad,Chinese,Dine-in,7,4.2,2025-06-10 08:00:00,Cash,1,1275.77,0.8273621720358685,Young Adult,High,94.0
+483,29,Chennai,Chinese,Takeaway,3,3.8,2025-06-10 16:00:00,Card,0,631.8,0.38179453116351153,Young Adult,Medium,637.0
+484,68,Chennai,North Indian,Dine-in,5,3.8,2025-06-11 00:00:00,Card,0,807.33,0.5032450459426547,Senior,Medium,496.0
+485,57,Bengaluru,South Indian,Delivery,8,5.0,2025-06-11 08:00:00,Digital (UPI),0,1100.17,0.7058632237351933,Senior,High,240.0
+486,51,Bengaluru,Chinese,Takeaway,2,3.6,2025-06-11 16:00:00,Digital (UPI),1,425.04,0.23873574670652056,Adult,Medium,799.0
+487,47,Mumbai,South Indian,Dine-in,4,3.4,2025-06-12 00:00:00,Digital (UPI),0,867.33,0.5447594929702203,Adult,Medium,435.0
+488,22,Bengaluru,Fast Food,Takeaway,2,4.1,2025-06-12 08:00:00,Card,1,397.17,0.21945228606221634,Young Adult,Low,824.0
+489,67,Hyderabad,North Indian,Takeaway,5,4.8,2025-06-12 16:00:00,Digital (UPI),0,690.81,0.4226239898151223,Senior,Medium,603.0
+490,58,Hyderabad,Chinese,Dine-in,5,5.0,2025-06-13 00:00:00,Digital (UPI),0,796.01,0.495412653603454,Senior,Medium,507.0
+491,58,Chennai,South Indian,Takeaway,6,4.5,2025-06-13 08:00:00,Card,0,985.3,0.6263838149009189,Senior,High,341.0
+492,19,Hyderabad,South Indian,Dine-in,6,3.1,2025-06-13 16:00:00,Cash,0,912.16,0.5757777039743164,Teen,High,401.0
+493,53,Mumbai,Italian,Delivery,2,5.0,2025-06-14 00:00:00,Digital (UPI),0,194.88,0.07948632790877892,Adult,Low,976.0
+494,18,Hyderabad,Chinese,Delivery,4,4.0,2025-06-14 08:00:00,Digital (UPI),0,692.17,0.4235649839477471,Teen,Medium,599.0
+495,20,Hyderabad,Fast Food,Delivery,2,3.4,2025-06-14 16:00:00,Card,0,337.21,0.17796551533266908,Young Adult,Low,871.0
+496,59,Mumbai,North Indian,Takeaway,5,3.2,2025-06-15 00:00:00,Digital (UPI),1,991.82,0.6308950514779144,Senior,High,335.0
+497,46,Bengaluru,North Indian,Takeaway,5,4.6,2025-06-15 08:00:00,Card,0,858.08,0.5383593490534706,Adult,Medium,446.0
+498,66,Bengaluru,Italian,Dine-in,3,4.2,2025-06-15 16:00:00,Digital (UPI),1,587.57,0.3511914646296912,Senior,Medium,676.0
+499,44,Mumbai,Chinese,Delivery,6,4.2,2025-06-16 00:00:00,Digital (UPI),0,990.47,0.6299609764197941,Adult,High,339.0
+500,61,Chennai,North Indian,Dine-in,8,4.9,2025-06-16 08:00:00,Digital (UPI),0,1307.5,0.8493163954389461,Senior,High,69.0
+501,49,Hyderabad,North Indian,Dine-in,8,3.4,2025-06-16 16:00:00,Digital (UPI),0,1167.82,0.7526707627587733,Adult,High,192.0
+502,69,Mumbai,North Indian,Dine-in,8,5.0,2025-06-17 00:00:00,Digital (UPI),0,1216.79,0.7865534706077715,Senior,High,145.0
+503,54,Hyderabad,Fast Food,Dine-in,3,3.6,2025-06-17 08:00:00,Card,1,637.09,0.38545472157644195,Adult,Medium,636.0
+504,66,Chennai,North Indian,Takeaway,1,5.0,2025-06-17 16:00:00,Digital (UPI),0,266.76,0.1292206354478025,Senior,Low,925.0
+505,30,Hyderabad,South Indian,Dine-in,8,4.4,2025-06-18 00:00:00,Cash,0,1268.12,0.8220690800398538,Young Adult,High,101.0
+506,27,Mumbai,North Indian,Delivery,5,3.4,2025-06-18 08:00:00,Card,0,888.89,0.5596770176021255,Young Adult,Medium,422.0
+507,64,Hyderabad,South Indian,Dine-in,3,2.6,2025-06-18 16:00:00,Card,1,590.47,0.3531979962360235,Senior,Medium,674.0
+508,56,Bengaluru,North Indian,Dine-in,2,4.6,2025-06-19 00:00:00,Card,0,559.27,0.33161048378168934,Senior,Medium,693.0
+509,44,Chennai,South Indian,Takeaway,6,3.7,2025-06-19 08:00:00,Digital (UPI),0,1013.05,0.6455842466511679,Adult,High,316.0
+510,33,Chennai,North Indian,Dine-in,6,4.0,2025-06-19 16:00:00,Card,1,915.0,0.5777427211336211,Young Adult,High,398.0
+511,31,Chennai,Italian,Dine-in,4,4.5,2025-06-20 00:00:00,Digital (UPI),1,690.74,0.42257555629359017,Young Adult,Medium,604.0
+512,33,Mumbai,North Indian,Delivery,2,4.7,2025-06-20 08:00:00,Digital (UPI),0,448.61,0.25504400531384924,Young Adult,Medium,780.0
+513,42,Chennai,Chinese,Dine-in,4,4.9,2025-06-20 16:00:00,Card,0,779.65,0.4840930477139378,Adult,Medium,524.0
+514,69,Bengaluru,Fast Food,Delivery,3,4.0,2025-06-21 00:00:00,Digital (UPI),0,420.8,0.2358020591165726,Senior,Medium,806.0
+515,40,Mumbai,Chinese,Dine-in,7,5.0,2025-06-21 08:00:00,Card,0,1170.3,0.7543866932359128,Adult,High,188.0
+516,51,Bengaluru,Chinese,Dine-in,8,3.6,2025-06-21 16:00:00,Card,0,1228.22,0.7944619727665228,Adult,High,128.0
+517,40,Hyderabad,South Indian,Delivery,1,2.4,2025-06-22 00:00:00,Digital (UPI),0,204.67,0.08626010184877671,Adult,Low,970.0
+518,67,Hyderabad,South Indian,Dine-in,2,3.2,2025-06-22 08:00:00,Card,1,467.67,0.2682317613196059,Senior,Medium,764.0
+519,37,Hyderabad,Chinese,Dine-in,2,4.2,2025-06-22 16:00:00,Cash,1,459.7,0.26271725893944425,Adult,Medium,771.0
+520,23,Hyderabad,Fast Food,Dine-in,2,3.3,2025-06-23 00:00:00,Digital (UPI),0,345.75,0.18387440495959262,Young Adult,Low,865.0
+521,26,Bengaluru,Chinese,Dine-in,4,3.9,2025-06-23 08:00:00,Digital (UPI),0,687.37,0.4202438281855419,Young Adult,Medium,607.0
+522,67,Mumbai,Chinese,Delivery,3,4.2,2025-06-23 16:00:00,Card,0,507.11,0.2955205911657257,Senior,Medium,729.0
+523,15,Mumbai,Italian,Dine-in,2,3.9,2025-06-24 00:00:00,Digital (UPI),0,631.34,0.3814762537363003,Teen,Medium,638.0
+524,15,Chennai,South Indian,Delivery,7,3.7,2025-06-24 08:00:00,Digital (UPI),1,1172.27,0.7557497509133179,Teen,High,185.0
+525,61,Bengaluru,North Indian,Delivery,2,3.1,2025-06-24 16:00:00,Digital (UPI),0,332.84,0.1749418797741614,Senior,Low,872.0
+526,48,Hyderabad,Chinese,Dine-in,6,4.0,2025-06-25 00:00:00,Cash,1,1105.77,0.7097379054577659,Adult,High,238.0
+527,46,Bengaluru,Fast Food,Delivery,8,2.6,2025-06-25 08:00:00,Digital (UPI),0,1408.6,0.9192682386803941,Adult,High,19.0
+528,68,Chennai,North Indian,Dine-in,1,3.5,2025-06-25 16:00:00,Digital (UPI),0,393.33,0.21679536145245212,Senior,Low,827.0
+529,62,Chennai,Chinese,Delivery,8,3.4,2025-06-26 00:00:00,Digital (UPI),0,1467.04,0.959703310085243,Senior,High,5.0
+530,39,Bengaluru,North Indian,Dine-in,6,3.8,2025-06-26 08:00:00,Digital (UPI),0,1056.62,0.6757306542676851,Adult,High,277.0
+531,54,Bengaluru,Chinese,Takeaway,6,3.9,2025-06-26 16:00:00,Card,1,972.01,0.6171883648843131,Adult,High,348.0
+532,59,Bengaluru,North Indian,Dine-in,1,4.7,2025-06-27 00:00:00,Cash,0,233.79,0.1064084468061552,Senior,Low,954.0
+533,67,Mumbai,South Indian,Dine-in,7,4.0,2025-06-27 08:00:00,Card,1,1126.63,0.7241710948743497,Senior,High,224.0
+534,15,Hyderabad,Italian,Takeaway,3,3.2,2025-06-27 16:00:00,Card,0,517.7,0.30284789106609106,Teen,Medium,721.0
+535,30,Bengaluru,South Indian,Delivery,6,5.0,2025-06-28 00:00:00,Digital (UPI),0,1099.19,0.705185154433743,Young Adult,High,241.0
+536,53,Bengaluru,Chinese,Dine-in,3,3.5,2025-06-28 08:00:00,Card,0,550.06,0.325238016162958,Adult,Medium,698.0
+537,19,Bengaluru,Italian,Dine-in,6,4.1,2025-06-28 16:00:00,Digital (UPI),0,1077.71,0.6903229823978745,Teen,High,257.0
+538,36,Chennai,Fast Food,Delivery,5,4.4,2025-06-29 00:00:00,Digital (UPI),1,904.12,0.5702147680726226,Adult,High,407.0
+539,43,Chennai,North Indian,Takeaway,1,5.0,2025-06-29 08:00:00,Card,0,162.11,0.056812520757223525,Adult,Low,987.0
+540,69,Mumbai,South Indian,Delivery,6,3.6,2025-06-29 16:00:00,Card,1,862.63,0.541507527953061,Senior,Medium,437.0
+541,17,Hyderabad,North Indian,Delivery,5,2.7,2025-06-30 00:00:00,Digital (UPI),0,751.07,0.46431833277980744,Teen,Medium,543.0
+542,26,Mumbai,Fast Food,Delivery,8,5.0,2025-06-30 08:00:00,Digital (UPI),1,1265.86,0.8205053692018155,Young Adult,High,103.0
+543,40,Hyderabad,Fast Food,Delivery,4,4.0,2025-06-30 16:00:00,Card,1,710.75,0.4364206243772833,Adult,Medium,585.0
+544,30,Chennai,Chinese,Dine-in,5,3.7,2025-07-01 00:00:00,Card,0,798.14,0.4968864164729326,Young Adult,Medium,505.0
+545,65,Chennai,Fast Food,Dine-in,2,4.0,2025-07-01 08:00:00,Digital (UPI),0,456.25,0.26033017823535926,Senior,Medium,773.0
+546,51,Chennai,South Indian,Delivery,6,3.7,2025-07-01 16:00:00,Digital (UPI),1,957.79,0.60734944093878,Adult,High,364.0
+547,36,Mumbai,Chinese,Takeaway,5,3.4,2025-07-02 00:00:00,Card,0,870.56,0.5469943540352042,Adult,Medium,434.0
+548,43,Bengaluru,North Indian,Dine-in,3,4.5,2025-07-02 08:00:00,Digital (UPI),0,559.41,0.33170735082475367,Adult,Medium,691.0
+549,28,Bengaluru,Italian,Dine-in,4,4.1,2025-07-02 16:00:00,Cash,0,838.75,0.5249847780360899,Young Adult,Medium,466.0
+550,42,Chennai,North Indian,Delivery,7,3.5,2025-07-03 00:00:00,Cash,1,1071.98,0.686358352706742,Adult,High,263.0
+551,19,Bengaluru,Fast Food,Takeaway,6,4.7,2025-07-03 08:00:00,Card,0,1176.67,0.7587941436953394,Teen,High,177.5
+552,61,Bengaluru,Italian,Dine-in,2,4.2,2025-07-03 16:00:00,Card,0,352.45,0.18851018487767077,Senior,Low,858.0
+553,63,Mumbai,Italian,Dine-in,7,2.7,2025-07-04 00:00:00,Card,0,1042.8,0.6661684933023359,Senior,High,290.0
+554,44,Hyderabad,North Indian,Dine-in,5,4.6,2025-07-04 08:00:00,Digital (UPI),0,832.65,0.5207641425882874,Adult,Medium,472.0
+555,60,Chennai,South Indian,Dine-in,7,4.1,2025-07-04 16:00:00,Card,0,1409.21,0.9196903022251744,Senior,High,18.0
+556,66,Chennai,North Indian,Dine-in,7,5.0,2025-07-05 00:00:00,Cash,0,1221.62,0.7898953835934904,Senior,High,140.0
+557,19,Mumbai,South Indian,Dine-in,4,4.1,2025-07-05 08:00:00,Card,0,748.24,0.4623602346950072,Teen,Medium,547.0
+558,26,Mumbai,North Indian,Delivery,8,3.4,2025-07-05 16:00:00,Digital (UPI),1,1363.61,0.8881393224842244,Young Adult,High,34.0
+559,30,Bengaluru,Fast Food,Dine-in,7,3.9,2025-07-06 00:00:00,Card,1,1088.43,0.6977402302667995,Young Adult,High,251.0
+560,40,Chennai,Chinese,Delivery,7,4.6,2025-07-06 08:00:00,Card,0,1176.08,0.7583859182995683,Adult,High,180.0
+561,40,Hyderabad,South Indian,Delivery,6,3.5,2025-07-06 16:00:00,Digital (UPI),1,1000.2,0.6366932359127644,Adult,High,328.0
+562,62,Mumbai,South Indian,Dine-in,8,3.7,2025-07-07 00:00:00,Digital (UPI),0,1444.73,0.9442668548654932,Senior,High,11.0
+563,35,Hyderabad,South Indian,Takeaway,4,3.8,2025-07-07 08:00:00,Card,0,691.3,0.42296302446584744,Adult,Medium,601.0
+564,53,Hyderabad,Chinese,Dine-in,2,3.2,2025-07-07 16:00:00,Digital (UPI),1,369.74,0.20047326469611426,Adult,Low,847.0
+565,50,Chennai,South Indian,Delivery,5,3.5,2025-07-08 00:00:00,Digital (UPI),0,756.82,0.4682968006199491,Adult,Medium,539.0
+566,47,Chennai,Fast Food,Dine-in,4,4.1,2025-07-08 08:00:00,Digital (UPI),0,711.2,0.4367319827299901,Adult,Medium,584.0
+567,44,Mumbai,South Indian,Takeaway,4,4.8,2025-07-08 16:00:00,Cash,0,723.44,0.4452009299236135,Adult,Medium,574.0
+568,51,Chennai,Fast Food,Takeaway,1,4.2,2025-07-09 00:00:00,Digital (UPI),0,153.87,0.05111120336543784,Adult,Low,991.0
+569,37,Chennai,Fast Food,Dine-in,4,4.0,2025-07-09 08:00:00,Cash,0,736.25,0.45406426436399866,Adult,Medium,559.0
+570,24,Chennai,North Indian,Dine-in,8,3.4,2025-07-09 16:00:00,Digital (UPI),0,1318.65,0.8570311635115687,Young Adult,High,60.0
+571,68,Hyderabad,Fast Food,Takeaway,1,4.8,2025-07-10 00:00:00,Digital (UPI),0,331.08,0.17372412266135281,Senior,Low,874.0
+572,19,Mumbai,North Indian,Delivery,5,4.3,2025-07-10 08:00:00,Card,0,946.99,0.5998768404738183,Teen,High,378.0
+573,50,Bengaluru,Italian,Dine-in,7,3.5,2025-07-10 16:00:00,Digital (UPI),1,1157.54,0.7455579541680505,Adult,High,206.0
+574,48,Hyderabad,South Indian,Takeaway,6,4.6,2025-07-11 00:00:00,Cash,1,917.09,0.5791888077050814,Adult,High,396.0
+575,66,Chennai,Fast Food,Dine-in,6,4.4,2025-07-11 08:00:00,Digital (UPI),0,933.55,0.5905776043396435,Senior,High,387.0
+576,45,Hyderabad,Fast Food,Delivery,5,3.4,2025-07-11 16:00:00,Card,1,990.97,0.6303069301450238,Adult,High,338.0
+577,24,Chennai,Italian,Dine-in,5,3.9,2025-07-12 00:00:00,Card,1,863.24,0.5419295914978413,Young Adult,Medium,436.0
+578,33,Chennai,Italian,Delivery,8,3.7,2025-07-12 08:00:00,Cash,0,1439.69,0.9407796413151778,Young Adult,High,13.0
+579,46,Hyderabad,South Indian,Dine-in,3,5.0,2025-07-12 16:00:00,Digital (UPI),1,589.89,0.352796689914757,Adult,Medium,675.0
+580,15,Mumbai,North Indian,Dine-in,7,4.4,2025-07-13 00:00:00,Cash,0,1210.3,0.7820629912542898,Teen,High,150.0
+581,19,Chennai,South Indian,Dine-in,5,4.1,2025-07-13 08:00:00,Cash,0,925.1,0.5847309863832614,Teen,High,393.0
+582,59,Mumbai,North Indian,Dine-in,4,4.3,2025-07-13 16:00:00,Card,0,602.15,0.36127947525738957,Senior,Medium,660.0
+583,18,Bengaluru,Chinese,Takeaway,8,5.0,2025-07-14 00:00:00,Digital (UPI),0,1324.56,0.8611203365437838,Teen,High,57.0
+584,30,Chennai,South Indian,Dine-in,6,3.9,2025-07-14 08:00:00,Digital (UPI),1,901.04,0.5680836931252076,Young Adult,High,412.0
+585,38,Mumbai,Fast Food,Delivery,2,3.6,2025-07-14 16:00:00,Cash,0,377.21,0.20564181335104614,Adult,Low,839.0
+586,30,Mumbai,Chinese,Dine-in,8,4.6,2025-07-15 00:00:00,Card,0,1351.21,0.8795596700985276,Young Adult,High,44.0
+587,69,Bengaluru,Fast Food,Dine-in,6,3.9,2025-07-15 08:00:00,Card,0,917.97,0.5797976862614856,Senior,High,394.0
+588,16,Mumbai,North Indian,Dine-in,1,3.3,2025-07-15 16:00:00,Card,0,294.75,0.14858712498616186,Teen,Low,904.0
+589,63,Mumbai,Fast Food,Dine-in,8,3.1,2025-07-16 00:00:00,Digital (UPI),1,1180.13,0.761188143473929,Senior,High,176.0
+590,42,Bengaluru,Fast Food,Dine-in,6,5.0,2025-07-16 08:00:00,Digital (UPI),0,1091.47,0.6998436289161962,Adult,High,248.0
+591,46,Chennai,South Indian,Dine-in,3,4.1,2025-07-16 16:00:00,Card,1,496.85,0.28842162072401195,Adult,Medium,738.0
+592,41,Mumbai,Chinese,Dine-in,8,3.6,2025-07-17 00:00:00,Card,0,1217.83,0.7872730543562493,Adult,High,144.0
+593,34,Mumbai,Italian,Dine-in,8,3.8,2025-07-17 08:00:00,Card,0,1185.17,0.7646753570242445,Young Adult,High,169.0
+594,38,Mumbai,North Indian,Takeaway,7,4.6,2025-07-17 16:00:00,Digital (UPI),1,1103.65,0.7082710616627921,Adult,High,239.0
+595,26,Hyderabad,South Indian,Takeaway,5,3.8,2025-07-18 00:00:00,Digital (UPI),1,697.39,0.42717674083914536,Young Adult,Medium,593.0
+596,64,Bengaluru,South Indian,Dine-in,7,3.0,2025-07-18 08:00:00,Digital (UPI),1,1106.13,0.7099869921399314,Senior,High,237.0
+597,49,Hyderabad,North Indian,Dine-in,8,4.2,2025-07-18 16:00:00,Card,0,1387.96,0.9049872689029116,Adult,High,26.0
+598,47,Bengaluru,South Indian,Delivery,5,4.8,2025-07-19 00:00:00,Cash,0,834.9,0.5223209343518211,Adult,Medium,471.0
+599,47,Chennai,North Indian,Takeaway,6,4.8,2025-07-19 08:00:00,Card,1,905.8,0.5713771725893945,Adult,High,405.0
+600,65,Chennai,North Indian,Takeaway,2,3.6,2025-07-19 16:00:00,Card,0,418.1,0.23393390900033215,Senior,Medium,808.0
+601,57,Mumbai,North Indian,Dine-in,2,4.9,2025-07-20 00:00:00,Digital (UPI),1,411.03,0.22904212332558396,Senior,Medium,814.0
+602,51,Bengaluru,Fast Food,Delivery,8,4.1,2025-07-20 08:00:00,Digital (UPI),0,1456.53,0.9524313627809144,Adult,High,7.0
+603,26,Chennai,Chinese,Delivery,3,4.0,2025-07-20 16:00:00,Digital (UPI),1,613.26,0.3689665670319938,Young Adult,Medium,654.0
+604,17,Bengaluru,Fast Food,Takeaway,1,4.4,2025-07-21 00:00:00,Digital (UPI),0,274.45,0.13454140374183549,Teen,Low,918.0
+605,15,Chennai,South Indian,Delivery,6,2.9,2025-07-21 08:00:00,Card,0,1072.41,0.6866558729104396,Teen,High,262.0
+606,47,Hyderabad,South Indian,Dine-in,5,5.0,2025-07-21 16:00:00,Digital (UPI),0,839.25,0.5253307317613196,Adult,Medium,465.0
+607,54,Chennai,South Indian,Dine-in,8,4.0,2025-07-22 00:00:00,Card,0,1293.97,0.8399548876342301,Adult,High,79.0
+608,24,Hyderabad,South Indian,Delivery,6,4.4,2025-07-22 08:00:00,Cash,0,1132.72,0.7283848112476475,Young Adult,High,219.0
+609,57,Chennai,North Indian,Delivery,8,3.1,2025-07-22 16:00:00,Digital (UPI),0,1169.15,0.7535909996678845,Senior,High,189.0
+610,58,Mumbai,Chinese,Dine-in,3,4.4,2025-07-23 00:00:00,Cash,0,627.44,0.3787778146795085,Senior,Medium,646.0
+611,43,Hyderabad,North Indian,Dine-in,4,4.8,2025-07-23 08:00:00,Card,0,691.14,0.4228523192737739,Adult,Medium,602.0
+612,27,Chennai,Chinese,Dine-in,4,5.0,2025-07-23 16:00:00,Card,0,676.68,0.4128473375401306,Young Adult,Medium,613.0
+613,26,Mumbai,Chinese,Dine-in,3,5.0,2025-07-24 00:00:00,Digital (UPI),1,505.77,0.29459343518211,Young Adult,Medium,731.0
+614,45,Hyderabad,North Indian,Delivery,5,4.4,2025-07-24 08:00:00,Digital (UPI),0,862.29,0.5412722794199047,Adult,Medium,438.0
+615,60,Mumbai,North Indian,Takeaway,7,2.9,2025-07-24 16:00:00,Card,1,1146.52,0.7379331340639876,Senior,High,213.0
+616,16,Bengaluru,Italian,Dine-in,3,4.1,2025-07-25 00:00:00,Digital (UPI),0,516.82,0.30223901250968677,Teen,Medium,722.0
+617,65,Bengaluru,South Indian,Dine-in,8,3.6,2025-07-25 08:00:00,Card,0,1243.79,0.805234971770176,Senior,High,118.0
+618,64,Hyderabad,North Indian,Dine-in,5,4.2,2025-07-25 16:00:00,Card,0,697.57,0.4273012841802281,Senior,Medium,592.0
+619,49,Chennai,Fast Food,Dine-in,2,3.1,2025-07-26 00:00:00,Digital (UPI),1,342.1,0.18134894276541572,Adult,Low,867.0
+620,37,Hyderabad,North Indian,Takeaway,3,3.9,2025-07-26 08:00:00,Digital (UPI),1,509.02,0.2968421343961032,Adult,Medium,728.0
+621,31,Mumbai,Chinese,Delivery,5,3.6,2025-07-26 16:00:00,Digital (UPI),0,862.1,0.5411408170043175,Young Adult,Medium,439.0
+622,40,Chennai,Fast Food,Delivery,3,3.6,2025-07-27 00:00:00,Card,0,707.05,0.4338605668105834,Adult,Medium,587.0
+623,22,Bengaluru,North Indian,Dine-in,3,3.6,2025-07-27 08:00:00,Digital (UPI),0,500.72,0.29109930255728994,Young Adult,Medium,736.0
+624,43,Chennai,North Indian,Delivery,7,3.9,2025-07-27 16:00:00,Digital (UPI),0,1068.1,0.6836737517989593,Adult,High,267.0
+625,40,Bengaluru,North Indian,Delivery,7,4.2,2025-07-28 00:00:00,Digital (UPI),0,1092.84,0.7007915421233255,Adult,High,245.0
+626,24,Chennai,South Indian,Delivery,8,2.3,2025-07-28 08:00:00,Cash,0,1312.27,0.8526167939776376,Young Adult,High,65.0
+627,40,Chennai,North Indian,Dine-in,5,2.3,2025-07-28 16:00:00,Digital (UPI),1,897.09,0.5653506586958928,Adult,Medium,415.0
+628,48,Chennai,Chinese,Dine-in,5,4.0,2025-07-29 00:00:00,Digital (UPI),0,908.27,0.5730861839920293,Adult,High,403.0
+629,65,Mumbai,North Indian,Dine-in,1,3.9,2025-07-29 08:00:00,Card,1,316.22,0.16344237794752575,Senior,Low,888.0
+630,55,Mumbai,South Indian,Dine-in,3,4.1,2025-07-29 16:00:00,Card,0,627.54,0.3788470054245544,Senior,Medium,643.0
+631,21,Hyderabad,Fast Food,Dine-in,4,3.5,2025-07-30 00:00:00,Card,1,677.69,0.4135461640650947,Young Adult,Medium,612.0
+632,18,Hyderabad,Italian,Dine-in,3,4.0,2025-07-30 08:00:00,Digital (UPI),0,714.25,0.4388423004538913,Teen,Medium,581.0
+633,67,Bengaluru,Chinese,Dine-in,3,4.1,2025-07-30 16:00:00,Digital (UPI),1,521.62,0.305560168271892,Senior,Medium,718.0
+634,64,Mumbai,South Indian,Delivery,5,3.5,2025-07-31 00:00:00,Digital (UPI),1,858.75,0.5388229270452785,Senior,Medium,445.0
+635,59,Bengaluru,Chinese,Dine-in,3,4.7,2025-07-31 08:00:00,Digital (UPI),0,653.67,0.3969265471050592,Senior,Medium,625.0
+636,25,Hyderabad,South Indian,Dine-in,6,4.1,2025-07-31 16:00:00,Digital (UPI),1,1045.31,0.667905181002989,Young Adult,High,288.0
+637,43,Bengaluru,South Indian,Delivery,3,4.4,2025-08-01 00:00:00,Cash,1,370.73,0.2011582530720691,Adult,Low,844.0
+638,50,Hyderabad,North Indian,Delivery,6,4.0,2025-08-01 08:00:00,Card,0,1000.45,0.6368662127753792,Adult,High,326.0
+639,39,Mumbai,Fast Food,Delivery,7,5.0,2025-08-01 16:00:00,Card,1,1218.96,0.7880549097752685,Adult,High,142.0
+640,35,Chennai,South Indian,Delivery,4,4.4,2025-08-02 00:00:00,Card,1,592.52,0.3546164065094653,Adult,Medium,672.0
+641,50,Mumbai,North Indian,Takeaway,8,3.7,2025-08-02 08:00:00,Cash,0,1360.06,0.8856830510350935,Adult,High,36.0
+642,24,Bengaluru,South Indian,Delivery,5,4.6,2025-08-02 16:00:00,Digital (UPI),0,881.21,0.5543631683825971,Young Adult,Medium,427.0
+643,51,Bengaluru,South Indian,Dine-in,3,2.9,2025-08-03 00:00:00,Card,0,644.71,0.3907270563489428,Adult,Medium,631.0
+644,23,Mumbai,Fast Food,Dine-in,6,4.1,2025-08-03 08:00:00,Card,0,944.65,0.5982577770397431,Young Adult,High,380.0
+645,38,Mumbai,Italian,Dine-in,6,4.2,2025-08-03 16:00:00,Card,0,1079.67,0.691679121000775,Adult,High,255.0
+646,49,Hyderabad,Italian,Dine-in,7,4.1,2025-08-04 00:00:00,Cash,1,1162.77,0.7491766301339533,Adult,High,202.0
+647,63,Bengaluru,North Indian,Dine-in,6,3.8,2025-08-04 08:00:00,Digital (UPI),0,1141.28,0.7343075390235801,Senior,High,214.0
+648,49,Bengaluru,South Indian,Takeaway,8,3.3,2025-08-04 16:00:00,Digital (UPI),0,1522.88,0.9983394221188975,Adult,High,2.0
+649,62,Mumbai,South Indian,Delivery,2,3.4,2025-08-05 00:00:00,Digital (UPI),0,523.07,0.30656343407505815,Senior,Medium,715.0
+650,50,Chennai,North Indian,Takeaway,1,4.1,2025-08-05 08:00:00,Cash,0,288.44,0.14422118897376288,Adult,Low,909.0
+651,32,Bengaluru,North Indian,Dine-in,8,3.2,2025-08-05 16:00:00,Digital (UPI),1,1485.68,0.9726004649618067,Young Adult,High,3.0
+652,63,Chennai,Italian,Delivery,4,5.0,2025-08-06 00:00:00,Digital (UPI),0,748.28,0.46238791099302556,Senior,Medium,546.0
+653,53,Mumbai,North Indian,Takeaway,8,2.2,2025-08-06 08:00:00,Digital (UPI),0,1227.36,0.7938669323591276,Adult,High,129.0
+654,46,Mumbai,Chinese,Dine-in,7,3.8,2025-08-06 16:00:00,Cash,0,1146.86,0.7381683825971438,Adult,High,212.0
+655,38,Hyderabad,North Indian,Takeaway,7,4.0,2025-08-07 00:00:00,Digital (UPI),1,1210.93,0.7824988929480793,Adult,High,149.0
+656,37,Bengaluru,North Indian,Dine-in,8,4.4,2025-08-07 08:00:00,Digital (UPI),1,1366.08,0.8898483338868592,Adult,High,32.0
+657,46,Chennai,North Indian,Dine-in,3,3.4,2025-08-07 16:00:00,Digital (UPI),1,459.98,0.2629109930255729,Adult,Medium,770.0
+658,51,Hyderabad,Fast Food,Delivery,2,4.8,2025-08-08 00:00:00,Digital (UPI),0,312.52,0.16088232038082584,Adult,Low,893.0
+659,26,Bengaluru,Italian,Dine-in,3,3.0,2025-08-08 08:00:00,Card,1,522.7,0.3063074283183882,Young Adult,Medium,716.0
+660,63,Hyderabad,Fast Food,Dine-in,3,3.6,2025-08-08 16:00:00,Digital (UPI),1,592.76,0.35478246429757554,Senior,Medium,671.0
+661,69,Mumbai,South Indian,Delivery,8,4.4,2025-08-09 00:00:00,Cash,0,1353.01,0.8808051035093546,Senior,High,41.0
+662,27,Bengaluru,North Indian,Delivery,5,4.7,2025-08-09 08:00:00,Digital (UPI),1,861.3,0.54058729104395,Young Adult,Medium,441.0
+663,37,Hyderabad,Chinese,Dine-in,5,3.0,2025-08-09 16:00:00,Cash,0,783.25,0.48658391453559174,Adult,Medium,522.0
+664,39,Hyderabad,South Indian,Dine-in,5,5.0,2025-08-10 00:00:00,Digital (UPI),0,988.96,0.6289161961696004,Adult,High,340.0
+665,49,Chennai,Fast Food,Dine-in,2,3.4,2025-08-10 08:00:00,Card,0,314.24,0.16207240119561608,Adult,Low,891.0
+666,55,Hyderabad,North Indian,Takeaway,3,3.1,2025-08-10 16:00:00,Digital (UPI),0,654.19,0.39728633897929816,Senior,Medium,624.0
+667,44,Bengaluru,South Indian,Dine-in,1,4.4,2025-08-11 00:00:00,Cash,0,309.11,0.15852291597475923,Adult,Low,897.0
+668,31,Bengaluru,North Indian,Dine-in,4,3.8,2025-08-11 08:00:00,Digital (UPI),0,802.43,0.4998546994354035,Young Adult,Medium,501.0
+669,63,Chennai,South Indian,Delivery,5,3.7,2025-08-11 16:00:00,Digital (UPI),1,814.45,0.5081714269899259,Senior,Medium,490.0
+670,34,Bengaluru,Italian,Takeaway,5,4.4,2025-08-12 00:00:00,Cash,1,838.59,0.5248740728440164,Young Adult,Medium,468.0
+671,62,Mumbai,South Indian,Dine-in,7,2.9,2025-08-12 08:00:00,Cash,1,1154.4,0.743385364773608,Senior,High,209.0
+672,39,Bengaluru,South Indian,Takeaway,3,2.8,2025-08-12 16:00:00,Cash,0,511.89,0.29882790877892174,Adult,Medium,726.0
+673,36,Bengaluru,South Indian,Takeaway,3,3.6,2025-08-13 00:00:00,Digital (UPI),0,568.02,0.3376646739732093,Adult,Medium,684.0
+674,27,Hyderabad,South Indian,Dine-in,2,4.8,2025-08-13 08:00:00,Digital (UPI),0,526.33,0.3088190523635559,Young Adult,Medium,711.0
+675,33,Hyderabad,Italian,Dine-in,2,3.6,2025-08-13 16:00:00,Card,0,296.25,0.149624986161851,Young Adult,Low,902.0
+676,63,Bengaluru,Fast Food,Delivery,5,5.0,2025-08-14 00:00:00,Cash,1,797.42,0.4963882431086018,Senior,Medium,506.0
+677,50,Chennai,Fast Food,Dine-in,3,4.8,2025-08-14 08:00:00,Digital (UPI),0,488.74,0.282810251300786,Adult,Medium,744.0
+678,26,Hyderabad,Italian,Takeaway,1,4.2,2025-08-14 16:00:00,Digital (UPI),0,242.45,0.11240036532713384,Young Adult,Low,943.0
+679,55,Chennai,South Indian,Dine-in,4,4.2,2025-08-15 00:00:00,Digital (UPI),1,689.16,0.4214823425218643,Senior,Medium,605.0
+680,33,Bengaluru,Chinese,Dine-in,8,4.2,2025-08-15 08:00:00,Digital (UPI),0,1361.79,0.8868800509243884,Young Adult,High,35.0
+681,26,Bengaluru,South Indian,Dine-in,3,4.1,2025-08-15 16:00:00,Cash,1,552.7,0.327064651832171,Young Adult,Medium,697.0
+682,23,Mumbai,North Indian,Dine-in,7,3.7,2025-08-16 00:00:00,Cash,0,1174.23,0.7571058895162184,Young Adult,High,181.0
+683,21,Hyderabad,Fast Food,Dine-in,8,3.8,2025-08-16 08:00:00,Cash,0,1331.88,0.866185099081147,Young Adult,High,53.0
+684,42,Bengaluru,North Indian,Dine-in,3,3.3,2025-08-16 16:00:00,Card,1,569.63,0.338778644968449,Adult,Medium,683.0
+685,28,Mumbai,Fast Food,Delivery,6,2.5,2025-08-17 00:00:00,Cash,0,1056.27,0.6754884866600244,Young Adult,High,278.0
+686,45,Hyderabad,South Indian,Delivery,2,4.8,2025-08-17 08:00:00,Card,1,390.21,0.21463661020701869,Adult,Low,830.0
+687,66,Bengaluru,Chinese,Delivery,7,4.1,2025-08-17 16:00:00,Card,0,1281.71,0.8314721022915975,Senior,High,84.0
+688,33,Bengaluru,Chinese,Delivery,4,4.0,2025-08-18 00:00:00,Digital (UPI),0,903.33,0.5696681611867597,Young Adult,High,409.0
+689,61,Hyderabad,Fast Food,Dine-in,5,4.3,2025-08-18 08:00:00,Digital (UPI),1,906.5,0.571861507804716,Senior,High,404.0
+690,30,Hyderabad,Chinese,Delivery,7,3.4,2025-08-18 16:00:00,Digital (UPI),0,1168.24,0.7529613638879664,Young Adult,High,190.0
+691,67,Hyderabad,Chinese,Dine-in,3,3.3,2025-08-19 00:00:00,Digital (UPI),0,599.97,0.35977111701538805,Senior,Medium,663.0
+692,19,Bengaluru,North Indian,Delivery,5,3.8,2025-08-19 08:00:00,Cash,0,761.92,0.47182552861729216,Teen,Medium,535.0
+693,49,Bengaluru,South Indian,Delivery,3,5.0,2025-08-19 16:00:00,Digital (UPI),1,564.41,0.3351668880770508,Adult,Medium,687.0
+694,26,Mumbai,North Indian,Delivery,5,3.2,2025-08-20 00:00:00,Card,0,791.49,0.4922852319273774,Young Adult,Medium,514.0
+695,39,Chennai,Italian,Delivery,4,2.2,2025-08-20 08:00:00,Digital (UPI),0,740.8,0.45721244326358906,Adult,Medium,553.0
+696,66,Hyderabad,South Indian,Takeaway,2,3.6,2025-08-20 16:00:00,Card,1,341.89,0.18120364220081922,Senior,Low,868.0
+697,35,Bengaluru,Chinese,Dine-in,4,4.8,2025-08-21 00:00:00,Digital (UPI),1,672.42,0.40989981180117346,Adult,Medium,616.0
+698,50,Bengaluru,North Indian,Dine-in,6,2.8,2025-08-21 08:00:00,Card,1,850.24,0.5329347946418688,Adult,Medium,458.0
+699,67,Hyderabad,North Indian,Takeaway,1,3.2,2025-08-21 16:00:00,Card,0,156.14,0.052681833277980726,Senior,Low,990.0
+700,37,Chennai,Italian,Dine-in,2,4.2,2025-08-22 00:00:00,Digital (UPI),1,428.39,0.24105363666555962,Adult,Medium,792.0
+701,30,Hyderabad,North Indian,Takeaway,4,5.0,2025-08-22 08:00:00,Cash,0,630.49,0.38088813240340974,Young Adult,Medium,640.0
+702,53,Chennai,North Indian,Delivery,6,3.0,2025-08-22 16:00:00,Digital (UPI),0,1085.1,0.6954361784567695,Adult,High,252.0
+703,59,Bengaluru,North Indian,Dine-in,1,3.0,2025-08-23 00:00:00,Digital (UPI),0,173.69,0.06482480903354368,Senior,Low,986.0
+704,67,Chennai,Fast Food,Delivery,6,4.2,2025-08-23 08:00:00,Digital (UPI),0,1036.26,0.6616434185763312,Senior,High,298.0
+705,56,Mumbai,Italian,Delivery,3,4.8,2025-08-23 16:00:00,Digital (UPI),0,489.05,0.2830247426104284,Senior,Medium,743.0
+706,53,Bengaluru,South Indian,Delivery,8,3.6,2025-08-24 00:00:00,Digital (UPI),0,1330.84,0.865465515332669,Adult,High,54.0
+707,28,Mumbai,South Indian,Delivery,3,2.9,2025-08-24 08:00:00,Cash,1,427.22,0.2402441049485221,Young Adult,Medium,793.0
+708,45,Hyderabad,South Indian,Takeaway,5,4.3,2025-08-24 16:00:00,Digital (UPI),1,813.75,0.5076870917746042,Adult,Medium,492.0
+709,19,Hyderabad,Italian,Delivery,2,4.4,2025-08-25 00:00:00,Digital (UPI),0,332.3,0.17456824975091334,Teen,Low,873.0
+710,49,Hyderabad,Chinese,Delivery,3,5.0,2025-08-25 08:00:00,Digital (UPI),1,620.66,0.37408668216539354,Adult,Medium,650.0
+711,37,Chennai,North Indian,Dine-in,7,4.5,2025-08-25 16:00:00,Cash,0,1186.98,0.765927709509576,Adult,High,167.0
+712,43,Bengaluru,North Indian,Dine-in,6,4.6,2025-08-26 00:00:00,Digital (UPI),0,901.39,0.5683258607328684,Adult,High,411.0
+713,57,Hyderabad,North Indian,Delivery,2,3.8,2025-08-26 08:00:00,Digital (UPI),1,383.75,0.2101668880770508,Senior,Low,834.0
+714,25,Hyderabad,Chinese,Dine-in,8,5.0,2025-08-26 16:00:00,Digital (UPI),0,1238.21,0.8013741281966125,Young Adult,High,121.0
+715,32,Bengaluru,Italian,Takeaway,7,3.7,2025-08-27 00:00:00,Card,0,1226.02,0.792939776375512,Young Adult,High,134.0
+716,61,Hyderabad,North Indian,Takeaway,3,3.6,2025-08-27 08:00:00,Cash,0,651.72,0.39557732757666336,Senior,Medium,626.0
+717,26,Mumbai,North Indian,Dine-in,5,5.0,2025-08-27 16:00:00,Card,0,734.67,0.4529710505922728,Young Adult,Medium,564.0
+718,23,Bengaluru,North Indian,Takeaway,4,3.0,2025-08-28 00:00:00,Digital (UPI),0,766.14,0.4747453780582309,Young Adult,Medium,531.5
+719,24,Bengaluru,Fast Food,Delivery,5,2.7,2025-08-28 08:00:00,Digital (UPI),1,784.14,0.4871997121665006,Young Adult,Medium,521.0
+720,58,Bengaluru,South Indian,Dine-in,7,4.1,2025-08-28 16:00:00,Card,0,1129.77,0.7263436842687923,Senior,High,220.0
+721,31,Mumbai,Italian,Dine-in,1,4.0,2025-08-29 00:00:00,Cash,0,252.58,0.11940938780028784,Young Adult,Low,937.0
+722,52,Bengaluru,Chinese,Dine-in,3,3.8,2025-08-29 08:00:00,Card,0,695.33,0.425751411491199,Adult,Medium,596.0
+723,21,Mumbai,South Indian,Dine-in,7,4.7,2025-08-29 16:00:00,Card,1,1069.69,0.68477388464519,Young Adult,High,265.0
+724,60,Bengaluru,North Indian,Delivery,1,3.4,2025-08-30 00:00:00,Digital (UPI),1,316.78,0.163829846119783,Senior,Low,887.0
+725,27,Chennai,North Indian,Dine-in,1,4.0,2025-08-30 08:00:00,Digital (UPI),0,156.28,0.052778700321045056,Young Adult,Low,989.0
+726,54,Hyderabad,Chinese,Takeaway,6,3.7,2025-08-30 16:00:00,Card,0,900.75,0.5678830399645743,Adult,High,413.0
+727,56,Chennai,Italian,Dine-in,2,3.4,2025-08-31 00:00:00,Digital (UPI),1,402.28,0.22298793313406398,Senior,Medium,821.0
+728,23,Hyderabad,Chinese,Dine-in,6,4.0,2025-08-31 08:00:00,Cash,0,1001.74,0.6377587733864718,Young Adult,High,325.0
+729,64,Mumbai,Chinese,Delivery,3,4.6,2025-08-31 16:00:00,Digital (UPI),0,323.41,0.16841719251632903,Senior,Low,880.0
+730,41,Chennai,North Indian,Delivery,1,5.0,2025-09-01 00:00:00,Digital (UPI),0,342.77,0.1818125207572235,Adult,Low,866.0
+731,16,Bengaluru,Fast Food,Dine-in,8,4.4,2025-09-01 08:00:00,Card,1,1128.87,0.7257209675633787,Teen,High,221.0
+732,19,Hyderabad,Italian,Dine-in,7,2.2,2025-09-01 16:00:00,Card,1,1138.33,0.7322664120447249,Teen,High,216.0
+733,43,Hyderabad,South Indian,Dine-in,4,4.0,2025-09-02 00:00:00,Digital (UPI),1,806.21,0.5024701095981402,Adult,Medium,497.0
+734,51,Chennai,Fast Food,Dine-in,1,4.0,2025-09-02 08:00:00,Digital (UPI),0,426.73,0.23990507029779698,Adult,Medium,795.0
+735,52,Mumbai,Chinese,Takeaway,7,4.7,2025-09-02 16:00:00,Digital (UPI),0,1120.96,0.7202479796302447,Adult,High,225.0
+736,33,Chennai,Chinese,Dine-in,8,4.0,2025-09-03 00:00:00,Card,0,1185.36,0.7648068194398316,Young Adult,High,168.0
+737,22,Mumbai,Italian,Dine-in,4,4.0,2025-09-03 08:00:00,Card,0,803.24,0.5004151444702757,Young Adult,Medium,500.0
+738,62,Mumbai,Italian,Dine-in,6,4.3,2025-09-03 16:00:00,Cash,0,1069.21,0.6844417690689694,Senior,High,266.0
+739,59,Hyderabad,Chinese,Delivery,6,5.0,2025-09-04 00:00:00,Digital (UPI),0,960.88,0.6094874349606997,Senior,High,359.0
+740,15,Chennai,North Indian,Delivery,2,3.7,2025-09-04 08:00:00,Cash,0,350.74,0.18732702313738514,Teen,Low,859.0
+741,36,Chennai,South Indian,Dine-in,7,4.1,2025-09-04 16:00:00,Digital (UPI),1,1092.61,0.7006324034097199,Adult,High,246.0
+742,66,Mumbai,Fast Food,Delivery,1,4.6,2025-09-05 00:00:00,Digital (UPI),1,222.43,0.09854837816893613,Senior,Low,961.0
+743,31,Chennai,North Indian,Dine-in,5,3.6,2025-09-05 08:00:00,Digital (UPI),0,875.29,0.5502670762758773,Young Adult,Medium,431.0
+744,21,Bengaluru,South Indian,Dine-in,6,3.4,2025-09-05 16:00:00,Card,0,954.72,0.6052252850658696,Young Adult,High,369.0
+745,39,Bengaluru,South Indian,Delivery,6,3.6,2025-09-06 00:00:00,Card,1,964.83,0.6122204693900144,Adult,High,355.0
+746,59,Chennai,South Indian,Delivery,2,3.5,2025-09-06 08:00:00,Cash,0,451.3,0.2569052363555851,Senior,Medium,777.0
+747,18,Chennai,Chinese,Delivery,4,4.0,2025-09-06 16:00:00,Digital (UPI),0,581.41,0.34692931473486105,Teen,Medium,677.0
+748,50,Mumbai,Fast Food,Takeaway,2,2.7,2025-09-07 00:00:00,Digital (UPI),1,369.93,0.20060472711170155,Adult,Low,846.0
+749,20,Bengaluru,North Indian,Dine-in,8,2.9,2025-09-07 08:00:00,Card,1,1165.92,0.7513561386029005,Young Adult,High,194.0
+750,45,Bengaluru,North Indian,Delivery,1,5.0,2025-09-07 16:00:00,Card,1,258.67,0.12362310417358575,Adult,Low,932.0
+751,33,Hyderabad,North Indian,Dine-in,7,3.5,2025-09-08 00:00:00,Digital (UPI),0,994.85,0.6329915310528064,Young Adult,High,333.0
+752,58,Mumbai,Fast Food,Takeaway,3,4.1,2025-09-08 08:00:00,Digital (UPI),1,621.2,0.3744603121886417,Senior,Medium,649.0
+753,68,Hyderabad,Chinese,Dine-in,3,3.0,2025-09-08 16:00:00,Card,0,444.83,0.2524285951511126,Senior,Medium,784.0
+754,53,Bengaluru,South Indian,Takeaway,7,4.1,2025-09-09 00:00:00,Digital (UPI),0,1008.19,0.6422215764419352,Adult,High,318.0
+755,41,Mumbai,Italian,Dine-in,4,4.0,2025-09-09 08:00:00,Cash,0,670.91,0.40885503155097974,Adult,Medium,618.0
+756,24,Chennai,Fast Food,Dine-in,8,2.9,2025-09-09 16:00:00,Cash,1,1436.89,0.9388423004538914,Young Adult,High,15.0
+757,40,Mumbai,Fast Food,Delivery,6,4.9,2025-09-10 00:00:00,Digital (UPI),0,1056.9,0.6759243883538139,Adult,High,276.0
+758,33,Chennai,Fast Food,Dine-in,4,4.8,2025-09-10 08:00:00,Digital (UPI),0,546.21,0.3225741724786893,Young Adult,Medium,701.0
+759,53,Chennai,North Indian,Takeaway,6,3.9,2025-09-10 16:00:00,Digital (UPI),0,892.55,0.562209398870807,Adult,Medium,420.0
+760,17,Mumbai,Italian,Dine-in,6,4.7,2025-09-11 00:00:00,Cash,0,968.35,0.6146559836156316,Teen,High,353.0
+761,59,Chennai,South Indian,Dine-in,3,5.0,2025-09-11 08:00:00,Digital (UPI),1,729.07,0.44909636886970006,Senior,Medium,569.0
+762,27,Hyderabad,Fast Food,Dine-in,4,4.5,2025-09-11 16:00:00,Card,0,624.88,0.37700653160633235,Young Adult,Medium,647.0
+763,64,Bengaluru,Italian,Dine-in,8,4.3,2025-09-12 00:00:00,Card,0,1225.53,0.7926007417247869,Senior,High,137.0
+764,42,Chennai,Italian,Delivery,2,4.1,2025-09-12 08:00:00,Digital (UPI),0,522.19,0.30595455551865386,Adult,Medium,717.0
+765,34,Hyderabad,Chinese,Dine-in,6,4.5,2025-09-12 16:00:00,Cash,0,1015.59,0.6473416915753349,Young Adult,High,314.0
+766,42,Chennai,North Indian,Delivery,5,3.7,2025-09-13 00:00:00,Digital (UPI),0,934.24,0.5910550204804605,Adult,High,386.0
+767,22,Bengaluru,Chinese,Takeaway,5,3.8,2025-09-13 08:00:00,Digital (UPI),1,791.83,0.49252048046053365,Young Adult,Medium,513.0
+768,55,Hyderabad,Fast Food,Dine-in,2,4.3,2025-09-13 16:00:00,Cash,0,391.87,0.21578517657478136,Senior,Low,828.0
+769,53,Bengaluru,Fast Food,Takeaway,5,3.7,2025-09-14 00:00:00,Cash,0,955.25,0.6055919960146131,Adult,High,368.0
+770,15,Bengaluru,North Indian,Takeaway,1,3.7,2025-09-14 08:00:00,Cash,0,238.41,0.10960505922727776,Teen,Low,950.0
+771,17,Hyderabad,North Indian,Delivery,6,4.0,2025-09-14 16:00:00,Cash,1,1089.84,0.6987158197719473,Teen,High,249.0
+772,27,Hyderabad,North Indian,Dine-in,2,4.0,2025-09-15 00:00:00,Digital (UPI),0,430.98,0.24284567696224954,Young Adult,Medium,791.0
+773,42,Hyderabad,Italian,Dine-in,4,3.2,2025-09-15 08:00:00,Digital (UPI),0,616.83,0.37143667663013397,Adult,Medium,652.0
+774,63,Mumbai,Italian,Delivery,6,4.5,2025-09-15 16:00:00,Cash,1,998.69,0.6356484556625707,Senior,High,331.0
+775,39,Hyderabad,North Indian,Delivery,2,4.6,2025-09-16 00:00:00,Cash,0,478.51,0.27573203808258606,Adult,Medium,754.0
+776,47,Hyderabad,South Indian,Delivery,3,4.6,2025-09-16 08:00:00,Digital (UPI),0,603.55,0.36224814568803276,Adult,Medium,658.0
+777,52,Hyderabad,Fast Food,Dine-in,8,3.4,2025-09-16 16:00:00,Digital (UPI),0,1296.78,0.841899147570021,Adult,High,76.0
+778,67,Hyderabad,Italian,Delivery,4,2.8,2025-09-17 00:00:00,Card,0,548.66,0.3242693457323148,Senior,Medium,700.0
+779,20,Chennai,Chinese,Dine-in,8,4.4,2025-09-17 08:00:00,Card,0,1156.32,0.74471382707849,Young Adult,High,207.0
+780,58,Mumbai,Chinese,Dine-in,3,4.1,2025-09-17 16:00:00,Digital (UPI),1,423.34,0.2375595040407395,Senior,Medium,802.0
+781,59,Bengaluru,South Indian,Dine-in,6,4.7,2025-09-18 00:00:00,Card,0,959.16,0.6082973541459095,Senior,High,363.0
+782,46,Hyderabad,South Indian,Takeaway,4,3.5,2025-09-18 08:00:00,Cash,0,669.83,0.4081077715044836,Adult,Medium,619.0
+783,59,Chennai,Chinese,Dine-in,8,4.5,2025-09-18 16:00:00,Digital (UPI),0,1181.97,0.7624612531827744,Senior,High,172.0
+784,61,Chennai,Chinese,Dine-in,5,4.7,2025-09-19 00:00:00,Digital (UPI),0,931.8,0.5893667663013396,Senior,High,388.0
+785,35,Chennai,Fast Food,Delivery,8,3.9,2025-09-19 08:00:00,Digital (UPI),0,1198.9,0.7741752463190524,Adult,High,159.0
+786,30,Bengaluru,Chinese,Dine-in,2,4.3,2025-09-19 16:00:00,Digital (UPI),1,290.36,0.14554965127864497,Young Adult,Low,906.0
+787,68,Hyderabad,Italian,Dine-in,6,4.3,2025-09-20 00:00:00,Digital (UPI),0,1007.06,0.6414397210229159,Senior,High,319.0
+788,35,Mumbai,North Indian,Dine-in,1,3.4,2025-09-20 08:00:00,Card,1,327.91,0.17153077604339645,Adult,Low,875.0
+789,25,Mumbai,South Indian,Delivery,8,4.4,2025-09-20 16:00:00,Card,1,1464.39,0.9578697553415256,Young Adult,High,6.0
+790,51,Chennai,North Indian,Takeaway,4,5.0,2025-09-21 00:00:00,Cash,1,746.6,0.46122550647625377,Adult,Medium,550.0
+791,50,Bengaluru,North Indian,Dine-in,4,4.0,2025-09-21 08:00:00,Cash,0,826.39,0.5164328019484113,Adult,Medium,478.0
+792,49,Bengaluru,Italian,Delivery,7,3.0,2025-09-21 16:00:00,Digital (UPI),1,1053.04,0.6732536255950404,Adult,High,282.0
+793,33,Bengaluru,Fast Food,Delivery,8,3.5,2025-09-22 00:00:00,Digital (UPI),1,1472.78,0.9636748588508801,Young Adult,High,4.0
+794,34,Mumbai,North Indian,Dine-in,6,2.8,2025-09-22 08:00:00,Digital (UPI),1,851.08,0.5335159969002546,Young Adult,Medium,455.0
+795,32,Chennai,South Indian,Takeaway,6,4.9,2025-09-22 16:00:00,Digital (UPI),1,959.69,0.608664065094653,Young Adult,High,361.0
+796,61,Hyderabad,Italian,Delivery,3,4.5,2025-09-23 00:00:00,Cash,0,594.85,0.35622855086903576,Senior,Medium,670.0
+797,55,Mumbai,North Indian,Takeaway,7,4.0,2025-09-23 08:00:00,Digital (UPI),0,1021.58,0.6514862172035869,Senior,High,308.0
+798,63,Chennai,Chinese,Dine-in,8,3.0,2025-09-23 16:00:00,Digital (UPI),1,1225.84,0.7928152330344292,Senior,High,135.5
+799,28,Chennai,Italian,Delivery,5,3.4,2025-09-24 00:00:00,Digital (UPI),0,763.13,0.4726627366323481,Young Adult,Medium,533.0
+800,29,Hyderabad,Chinese,Takeaway,3,3.6,2025-09-24 08:00:00,Digital (UPI),0,525.18,0.3080233587955275,Young Adult,Medium,712.0
+801,45,Hyderabad,North Indian,Dine-in,7,4.1,2025-09-24 16:00:00,Digital (UPI),0,1263.73,0.8190316063323371,Adult,High,104.0
+802,15,Hyderabad,South Indian,Dine-in,8,4.1,2025-09-25 00:00:00,Digital (UPI),1,1301.35,0.8450611646186206,Teen,High,73.0
+803,67,Bengaluru,Italian,Dine-in,8,4.9,2025-09-25 08:00:00,Digital (UPI),0,1262.95,0.8184919185209787,Senior,High,106.0
+804,68,Hyderabad,Chinese,Dine-in,3,3.5,2025-09-25 16:00:00,Cash,1,319.25,0.16553885752241781,Senior,Low,883.0
+805,68,Chennai,North Indian,Delivery,5,2.9,2025-09-26 00:00:00,Digital (UPI),1,887.34,0.5586045610539134,Senior,Medium,423.0
+806,17,Hyderabad,Italian,Dine-in,7,3.2,2025-09-26 08:00:00,Digital (UPI),1,1213.2,0.7840695228606223,Teen,High,148.0
+807,30,Chennai,North Indian,Dine-in,8,4.0,2025-09-26 16:00:00,Card,0,1164.0,0.7500276762980184,Young Adult,High,199.0
+808,37,Mumbai,Italian,Takeaway,8,3.5,2025-09-27 00:00:00,Digital (UPI),1,1294.64,0.840418465626038,Adult,High,77.0
+809,25,Bengaluru,North Indian,Dine-in,7,4.0,2025-09-27 08:00:00,Card,1,1165.44,0.75102402302668,Young Adult,High,195.0
+810,26,Mumbai,Fast Food,Delivery,1,3.7,2025-09-27 16:00:00,Digital (UPI),1,327.17,0.17101876453005646,Young Adult,Low,878.0
+811,24,Mumbai,South Indian,Dine-in,3,4.0,2025-09-28 00:00:00,Cash,0,492.02,0.28507970773829294,Young Adult,Medium,740.0
+812,46,Chennai,South Indian,Dine-in,3,3.6,2025-09-28 08:00:00,Digital (UPI),0,479.97,0.27674222296025686,Adult,Medium,752.0
+813,30,Mumbai,North Indian,Dine-in,4,3.7,2025-09-28 16:00:00,Cash,1,663.48,0.4037141591940662,Young Adult,Medium,621.0
+814,22,Chennai,South Indian,Dine-in,5,4.5,2025-09-29 00:00:00,Digital (UPI),0,952.75,0.6038622273884645,Young Adult,High,372.0
+815,52,Hyderabad,Fast Food,Dine-in,2,3.6,2025-09-29 08:00:00,Cash,0,483.51,0.2791915753348832,Adult,Medium,749.0
+816,26,Hyderabad,Fast Food,Delivery,1,4.3,2025-09-29 16:00:00,Card,0,248.29,0.11644110483781689,Young Adult,Low,939.0
+817,38,Chennai,South Indian,Delivery,7,4.0,2025-09-30 00:00:00,Card,1,1231.58,0.7967867818000663,Adult,High,127.0
+818,42,Hyderabad,South Indian,Dine-in,7,4.1,2025-09-30 08:00:00,Digital (UPI),0,960.5,0.609224510129525,Adult,High,360.0
+819,67,Bengaluru,Italian,Takeaway,7,3.2,2025-09-30 16:00:00,Card,1,1213.33,0.7841594708291818,Senior,High,147.0
+820,22,Mumbai,Fast Food,Delivery,1,4.9,2025-10-01 00:00:00,Cash,0,160.5,0.05569854976198384,Young Adult,Low,988.0
+821,42,Bengaluru,Chinese,Delivery,8,5.0,2025-10-01 08:00:00,Digital (UPI),1,1441.36,0.9419351267574448,Adult,High,12.0
+822,50,Mumbai,South Indian,Dine-in,7,4.0,2025-10-01 16:00:00,Digital (UPI),0,1064.86,0.6814319716594708,Adult,High,269.0
+823,40,Hyderabad,South Indian,Dine-in,7,3.3,2025-10-02 00:00:00,Digital (UPI),0,1081.78,0.6931390457212443,Adult,High,254.0
+824,22,Bengaluru,Chinese,Dine-in,5,4.0,2025-10-02 08:00:00,Cash,0,894.99,0.563897653049928,Young Adult,Medium,419.0
+825,64,Hyderabad,North Indian,Delivery,6,4.7,2025-10-02 16:00:00,Digital (UPI),1,1052.72,0.6730322152108934,Senior,High,283.0
+826,42,Mumbai,Chinese,Delivery,6,3.6,2025-10-03 00:00:00,Card,0,964.29,0.6118468393667663,Adult,High,356.0
+827,42,Chennai,South Indian,Dine-in,4,3.9,2025-10-03 08:00:00,Cash,1,729.71,0.44953918963799405,Adult,Medium,568.0
+828,51,Chennai,Italian,Dine-in,4,4.2,2025-10-03 16:00:00,Digital (UPI),0,739.63,0.45640291154655155,Adult,Medium,554.0
+829,55,Bengaluru,North Indian,Delivery,7,4.8,2025-10-04 00:00:00,Digital (UPI),0,1181.45,0.7621014613085354,Senior,High,173.0
+830,50,Hyderabad,Chinese,Delivery,5,4.5,2025-10-04 08:00:00,Digital (UPI),0,817.64,0.5103786117568914,Adult,Medium,487.0
+831,41,Hyderabad,South Indian,Delivery,7,4.6,2025-10-04 16:00:00,Card,0,1190.42,0.7683078711391564,Adult,High,163.0
+832,68,Bengaluru,Chinese,Delivery,4,3.7,2025-10-05 00:00:00,Card,0,812.51,0.5068291265360345,Senior,Medium,495.0
+833,31,Chennai,North Indian,Dine-in,1,4.3,2025-10-05 08:00:00,Card,0,151.96,0.04978966013506034,Young Adult,Low,992.0
+834,23,Mumbai,Chinese,Takeaway,1,3.5,2025-10-05 16:00:00,Digital (UPI),0,182.8,0.07112808590722906,Young Adult,Low,981.0
+835,47,Bengaluru,Chinese,Takeaway,8,4.6,2025-10-06 00:00:00,Card,1,1302.18,0.845635447802502,Adult,High,72.0
+836,67,Mumbai,Chinese,Dine-in,2,4.8,2025-10-06 08:00:00,Card,0,315.5,0.16294420458319495,Senior,Low,890.0
+837,34,Chennai,Chinese,Takeaway,6,4.4,2025-10-06 16:00:00,Card,0,855.73,0.536733366544891,Young Adult,Medium,450.0
+838,27,Hyderabad,Chinese,Delivery,5,3.7,2025-10-07 00:00:00,Digital (UPI),0,937.45,0.5932760433964354,Young Adult,High,384.0
+839,42,Chennai,Italian,Dine-in,3,3.9,2025-10-07 08:00:00,Card,1,371.7,0.20182940329901472,Adult,Low,843.0
+840,62,Bengaluru,North Indian,Delivery,6,5.0,2025-10-07 16:00:00,Digital (UPI),0,967.81,0.6142823535923835,Senior,High,354.0
+841,43,Hyderabad,Fast Food,Takeaway,3,3.8,2025-10-08 00:00:00,Card,0,610.72,0.36720912210782686,Adult,Medium,655.0
+842,27,Bengaluru,South Indian,Delivery,2,4.7,2025-10-08 08:00:00,Digital (UPI),0,421.34,0.23617568913982065,Young Adult,Medium,804.0
+843,60,Bengaluru,North Indian,Dine-in,2,4.2,2025-10-08 16:00:00,Cash,0,369.02,0.19997509133178346,Senior,Low,848.0
+844,49,Chennai,North Indian,Dine-in,7,3.8,2025-10-09 00:00:00,Digital (UPI),0,1062.2,0.6795914978412488,Adult,High,270.0
+845,20,Bengaluru,South Indian,Takeaway,4,3.1,2025-10-09 08:00:00,Digital (UPI),0,727.51,0.4480169932469833,Young Adult,Medium,570.0
+846,32,Chennai,Italian,Dine-in,2,4.1,2025-10-09 16:00:00,Cash,1,320.93,0.16670126203918964,Young Adult,Low,882.0
+847,65,Hyderabad,Italian,Delivery,2,4.1,2025-10-10 00:00:00,Digital (UPI),1,421.27,0.23612725561828848,Senior,Medium,805.0
+848,19,Chennai,Italian,Delivery,3,5.0,2025-10-10 08:00:00,Card,0,561.27,0.3329942986826082,Teen,Medium,690.0
+849,61,Hyderabad,South Indian,Dine-in,4,3.4,2025-10-10 16:00:00,Digital (UPI),0,712.08,0.4373408612863944,Senior,Medium,583.0
+850,39,Chennai,South Indian,Takeaway,2,5.0,2025-10-11 00:00:00,Digital (UPI),0,348.77,0.18596396545998006,Adult,Low,861.0
+851,16,Mumbai,North Indian,Takeaway,6,4.3,2025-10-11 08:00:00,Card,0,1162.8,0.749197387357467,Teen,High,201.0
+852,24,Mumbai,South Indian,Dine-in,8,4.3,2025-10-11 16:00:00,Cash,1,1328.66,0.8639571570906677,Young Adult,High,56.0
+853,44,Bengaluru,South Indian,Delivery,2,3.6,2025-10-12 00:00:00,Card,0,377.7,0.20598084800177127,Adult,Low,838.0
+854,64,Chennai,North Indian,Delivery,8,4.2,2025-10-12 08:00:00,Cash,1,1321.14,0.8587540130632128,Senior,High,59.0
+855,59,Chennai,North Indian,Takeaway,4,4.0,2025-10-12 16:00:00,Cash,1,638.04,0.38611203365437835,Senior,Medium,635.0
+856,19,Hyderabad,Chinese,Delivery,7,4.7,2025-10-13 00:00:00,Cash,0,1119.1,0.7189610317723901,Teen,High,227.0
+857,69,Bengaluru,Italian,Dine-in,5,3.3,2025-10-13 08:00:00,Card,1,1041.35,0.6651652274991696,Senior,High,292.0
+858,47,Chennai,Fast Food,Delivery,4,5.0,2025-10-13 16:00:00,Digital (UPI),0,638.61,0.3865064209011403,Adult,Medium,633.0
+859,68,Bengaluru,Fast Food,Takeaway,3,4.3,2025-10-14 00:00:00,Cash,0,543.78,0.3208928373740728,Senior,Medium,705.0
+860,15,Mumbai,Chinese,Delivery,5,4.4,2025-10-14 08:00:00,Cash,0,813.51,0.507521033986494,Teen,Medium,494.0
+861,32,Chennai,South Indian,Delivery,6,3.8,2025-10-14 16:00:00,Digital (UPI),1,916.83,0.579008911767962,Young Adult,High,397.0
+862,46,Chennai,Chinese,Dine-in,1,4.0,2025-10-15 00:00:00,Cash,1,283.69,0.1409346285840806,Adult,Low,912.0
+863,61,Bengaluru,Italian,Delivery,8,4.1,2025-10-15 08:00:00,Cash,1,1302.92,0.846147459315842,Senior,High,71.0
+864,63,Chennai,North Indian,Dine-in,8,4.1,2025-10-15 16:00:00,Cash,0,1372.88,0.8945533045499835,Senior,High,29.0
+865,25,Bengaluru,South Indian,Dine-in,8,3.0,2025-10-16 00:00:00,Digital (UPI),0,1364.85,0.8889972877227942,Young Adult,High,33.0
+866,35,Chennai,Fast Food,Dine-in,4,4.6,2025-10-16 08:00:00,Digital (UPI),0,772.06,0.4788414701649507,Adult,Medium,528.0
+867,40,Hyderabad,South Indian,Delivery,8,4.7,2025-10-16 16:00:00,Card,1,1226.54,0.7932995682497509,Adult,High,132.0
+868,39,Bengaluru,Chinese,Delivery,7,3.5,2025-10-17 00:00:00,Digital (UPI),0,1201.28,0.7758219860511458,Adult,High,155.0
+869,36,Chennai,Chinese,Delivery,8,3.3,2025-10-17 08:00:00,Digital (UPI),1,1353.22,0.8809504040739511,Adult,High,40.0
+870,41,Mumbai,North Indian,Delivery,3,3.8,2025-10-17 16:00:00,Digital (UPI),1,468.31,0.2686745820878999,Adult,Medium,763.0
+871,63,Chennai,South Indian,Takeaway,6,4.0,2025-10-18 00:00:00,Digital (UPI),0,974.51,0.6189181335104617,Senior,High,347.0
+872,27,Mumbai,South Indian,Delivery,8,3.8,2025-10-18 08:00:00,Digital (UPI),0,1183.51,0.7635267906564818,Young Adult,High,171.0
+873,47,Mumbai,North Indian,Dine-in,8,4.0,2025-10-18 16:00:00,Card,1,1353.57,0.8811925716816118,Adult,High,39.0
+874,48,Hyderabad,North Indian,Dine-in,5,4.2,2025-10-19 00:00:00,Cash,1,903.2,0.5695782132182,Adult,High,410.0
+875,55,Bengaluru,Fast Food,Dine-in,6,3.0,2025-10-19 08:00:00,Card,0,1114.43,0.7157298239787446,Senior,High,232.0
+876,49,Chennai,North Indian,Delivery,8,3.1,2025-10-19 16:00:00,Digital (UPI),1,1281.7,0.831465183217093,Adult,High,85.0
+877,15,Hyderabad,South Indian,Delivery,4,2.1,2025-10-20 00:00:00,Digital (UPI),1,736.12,0.45397431639543895,Teen,Medium,560.0
+878,35,Chennai,South Indian,Dine-in,2,4.7,2025-10-20 08:00:00,Digital (UPI),0,479.02,0.2760849108823204,Adult,Medium,753.0
+879,62,Mumbai,Fast Food,Dine-in,7,4.0,2025-10-20 16:00:00,Digital (UPI),0,1089.69,0.6986120336543784,Senior,High,250.0
+880,69,Bengaluru,North Indian,Delivery,4,4.7,2025-10-21 00:00:00,Cash,0,627.52,0.3788331672755452,Senior,Medium,644.0
+881,20,Chennai,South Indian,Dine-in,1,3.2,2025-10-21 08:00:00,Digital (UPI),0,192.17,0.07761125871803387,Young Adult,Low,979.0
+882,42,Chennai,Fast Food,Delivery,4,4.0,2025-10-21 16:00:00,Digital (UPI),0,672.06,0.4096507251190081,Adult,Medium,617.0
+883,31,Mumbai,Fast Food,Delivery,5,4.2,2025-10-22 00:00:00,Digital (UPI),1,780.36,0.484584302003764,Young Adult,Medium,523.0
+884,19,Chennai,North Indian,Dine-in,5,3.6,2025-10-22 08:00:00,Digital (UPI),0,795.61,0.49513589062327024,Teen,Medium,509.0
+885,45,Chennai,Italian,Dine-in,8,2.9,2025-10-22 16:00:00,Digital (UPI),0,1370.47,0.8928858075943762,Adult,High,30.0
+886,19,Mumbai,South Indian,Delivery,4,5.0,2025-10-23 00:00:00,Card,1,692.29,0.42364801284180226,Teen,Medium,598.0
+887,52,Hyderabad,South Indian,Delivery,5,5.0,2025-10-23 08:00:00,Digital (UPI),0,874.54,0.5497481456880328,Adult,Medium,432.0
+888,17,Mumbai,North Indian,Takeaway,2,3.7,2025-10-23 16:00:00,Cash,1,355.94,0.19092494187977416,Teen,Low,854.0
+889,67,Hyderabad,North Indian,Delivery,6,4.4,2025-10-24 00:00:00,Digital (UPI),1,950.69,0.6024368980405181,Senior,High,374.0
+890,37,Bengaluru,Italian,Dine-in,4,3.7,2025-10-24 08:00:00,Digital (UPI),1,722.84,0.4447857854533378,Adult,Medium,575.0
+891,51,Hyderabad,South Indian,Takeaway,7,3.3,2025-10-24 16:00:00,Card,0,1160.08,0.7473153990922173,Adult,High,203.0
+892,67,Hyderabad,South Indian,Delivery,2,5.0,2025-10-25 00:00:00,Digital (UPI),0,462.24,0.2644747038636112,Senior,Medium,767.0
+893,51,Bengaluru,Italian,Delivery,8,2.8,2025-10-25 08:00:00,Card,0,1404.13,0.9161754123768405,Adult,High,20.0
+894,24,Hyderabad,Italian,Dine-in,6,3.8,2025-10-25 16:00:00,Card,0,944.69,0.5982854533377616,Young Adult,High,379.0
+895,24,Mumbai,North Indian,Delivery,7,4.1,2025-10-26 00:00:00,Card,1,1218.89,0.7880064762537364,Young Adult,High,143.0
+896,33,Hyderabad,Chinese,Takeaway,8,5.0,2025-10-26 08:00:00,Digital (UPI),1,1213.62,0.784360123989815,Young Adult,High,146.0
+897,31,Bengaluru,North Indian,Dine-in,7,4.6,2025-10-26 16:00:00,Digital (UPI),1,1315.9,0.8551284180228054,Young Adult,High,63.0
+898,35,Mumbai,Italian,Dine-in,8,2.8,2025-10-27 00:00:00,Digital (UPI),1,1237.1,0.8006061109266024,Adult,High,123.0
+899,28,Bengaluru,Chinese,Delivery,7,4.0,2025-10-27 08:00:00,Cash,1,1205.25,0.7785688586294698,Young Adult,High,152.0
+900,23,Bengaluru,Fast Food,Dine-in,6,4.0,2025-10-27 16:00:00,Digital (UPI),0,913.02,0.5763727443817115,Young Adult,High,400.0
+901,60,Chennai,North Indian,Dine-in,2,3.8,2025-10-28 00:00:00,Digital (UPI),0,387.83,0.21298987047492526,Senior,Low,831.0
+902,15,Chennai,North Indian,Dine-in,7,4.4,2025-10-28 08:00:00,Card,0,1273.66,0.8259022473153992,Teen,High,96.0
+903,65,Bengaluru,South Indian,Delivery,7,3.0,2025-10-28 16:00:00,Cash,1,1084.58,0.6950763865825307,Senior,High,253.0
+904,59,Bengaluru,North Indian,Takeaway,3,3.7,2025-10-29 00:00:00,Card,0,726.33,0.4472005424554412,Senior,Medium,572.0
+905,27,Bengaluru,North Indian,Delivery,4,4.3,2025-10-29 08:00:00,Digital (UPI),1,699.58,0.42869201815565156,Young Adult,Medium,591.0
+906,18,Chennai,Fast Food,Dine-in,6,4.5,2025-10-29 16:00:00,Digital (UPI),1,1078.06,0.6905651500055352,Teen,High,256.0
+907,15,Chennai,North Indian,Takeaway,8,4.1,2025-10-30 00:00:00,Digital (UPI),0,1332.24,0.8664341857633123,Teen,High,52.0
+908,63,Hyderabad,North Indian,Takeaway,6,3.8,2025-10-30 08:00:00,Card,0,1036.56,0.661850990811469,Senior,High,297.0
+909,54,Hyderabad,Italian,Delivery,5,3.9,2025-10-30 16:00:00,Digital (UPI),1,735.91,0.45382901583084245,Adult,Medium,562.0
+910,46,Bengaluru,South Indian,Delivery,8,4.5,2025-10-31 00:00:00,Cash,0,1262.17,0.8179522307096203,Adult,High,107.0
+911,48,Mumbai,Italian,Dine-in,6,4.0,2025-10-31 08:00:00,Card,1,1095.68,0.7027565592826304,Adult,High,244.0
+912,42,Mumbai,North Indian,Takeaway,2,3.3,2025-10-31 16:00:00,Digital (UPI),0,372.45,0.2023483338868593,Adult,Low,842.0
+913,45,Chennai,South Indian,Dine-in,8,3.1,2025-11-01 00:00:00,Cash,0,1311.11,0.8518141813351046,Adult,High,67.0
+914,22,Chennai,North Indian,Takeaway,8,3.0,2025-11-01 08:00:00,Digital (UPI),0,1176.21,0.758475866268128,Young Adult,High,179.0
+915,53,Chennai,North Indian,Dine-in,6,5.0,2025-11-01 16:00:00,Card,1,956.99,0.6067959149784125,Adult,High,366.0
+916,40,Bengaluru,Fast Food,Dine-in,8,4.6,2025-11-02 00:00:00,Digital (UPI),0,1389.84,0.9062880549097753,Adult,High,24.0
+917,48,Mumbai,North Indian,Dine-in,3,3.9,2025-11-02 08:00:00,Digital (UPI),0,447.39,0.2541998782242887,Adult,Medium,783.0
+918,68,Hyderabad,Chinese,Takeaway,4,3.7,2025-11-02 16:00:00,Digital (UPI),0,757.37,0.46867734971770175,Senior,Medium,537.0
+919,68,Bengaluru,South Indian,Dine-in,8,3.6,2025-11-03 00:00:00,Cash,1,1314.22,0.8539660135060335,Senior,High,64.0
+920,17,Hyderabad,South Indian,Delivery,4,4.8,2025-11-03 08:00:00,Cash,0,681.12,0.4159194066201705,Teen,Medium,611.0
+921,64,Hyderabad,Fast Food,Dine-in,6,5.0,2025-11-03 16:00:00,Digital (UPI),0,977.61,0.6210630466068859,Senior,High,345.0
+922,26,Bengaluru,North Indian,Dine-in,7,3.6,2025-11-04 00:00:00,Card,0,1110.72,0.7131628473375402,Young Adult,High,233.0
+923,15,Hyderabad,Chinese,Delivery,1,4.8,2025-11-04 08:00:00,Digital (UPI),0,217.84,0.09537252297132735,Teen,Low,966.0
+924,68,Mumbai,Fast Food,Dine-in,1,4.0,2025-11-04 16:00:00,Digital (UPI),0,324.38,0.16908834274327467,Senior,Low,879.0
+925,58,Hyderabad,Chinese,Dine-in,7,3.9,2025-11-05 00:00:00,Card,0,1115.44,0.7164286505037086,Senior,High,231.0
+926,19,Mumbai,Fast Food,Takeaway,7,5.0,2025-11-05 08:00:00,Card,0,1294.61,0.840397708402524,Teen,High,78.0
+927,44,Mumbai,North Indian,Dine-in,7,4.0,2025-11-05 16:00:00,Digital (UPI),1,1173.96,0.7569190745045943,Adult,High,182.0
+928,44,Mumbai,South Indian,Dine-in,2,4.2,2025-11-06 00:00:00,Digital (UPI),0,353.9,0.18951345068083691,Adult,Low,855.0
+929,31,Chennai,North Indian,Dine-in,1,4.2,2025-11-06 08:00:00,Digital (UPI),1,327.87,0.17150309974537806,Young Adult,Low,876.0
+930,62,Hyderabad,Italian,Delivery,7,2.9,2025-11-06 16:00:00,Digital (UPI),0,1199.91,0.7748740728440164,Senior,High,157.0
+931,61,Bengaluru,Fast Food,Takeaway,2,4.2,2025-11-07 00:00:00,Digital (UPI),1,267.67,0.12985027122772058,Senior,Low,923.0
+932,37,Bengaluru,North Indian,Takeaway,5,3.6,2025-11-07 08:00:00,Cash,0,767.24,0.4755064762537363,Adult,Medium,529.0
+933,29,Hyderabad,Chinese,Takeaway,8,3.0,2025-11-07 16:00:00,Digital (UPI),1,1290.77,0.8377407837927598,Young Adult,High,80.0
+934,51,Chennai,North Indian,Dine-in,2,3.6,2025-11-08 00:00:00,Digital (UPI),1,273.31,0.13375262924831174,Adult,Low,921.0
+935,35,Chennai,Chinese,Dine-in,1,3.6,2025-11-08 08:00:00,Cash,0,417.24,0.233338868592937,Adult,Medium,810.0
+936,28,Mumbai,South Indian,Delivery,6,4.7,2025-11-08 16:00:00,Card,1,1065.78,0.6820685265138935,Young Adult,High,268.0
+937,16,Hyderabad,Fast Food,Dine-in,5,3.3,2025-11-09 00:00:00,Cash,1,848.93,0.5320283958817669,Teen,Medium,459.0
+938,25,Hyderabad,Chinese,Dine-in,1,3.4,2025-11-09 08:00:00,Card,1,222.58,0.09865216428650504,Young Adult,Low,960.0
+939,65,Bengaluru,South Indian,Dine-in,8,4.2,2025-11-09 16:00:00,Digital (UPI),0,1252.03,0.8109362891619617,Senior,High,112.0
+940,53,Hyderabad,North Indian,Dine-in,2,3.1,2025-11-10 00:00:00,Card,0,242.88,0.11269788553083139,Adult,Low,942.0
+941,52,Chennai,North Indian,Delivery,3,3.5,2025-11-10 08:00:00,Cash,0,411.37,0.22927737185874017,Adult,Medium,812.0
+942,48,Hyderabad,North Indian,Dine-in,4,2.8,2025-11-10 16:00:00,Card,0,852.09,0.5342148234252186,Adult,Medium,454.0
+943,52,Bengaluru,North Indian,Takeaway,8,4.6,2025-11-11 00:00:00,Digital (UPI),0,1425.89,0.9312313184988377,Adult,High,16.0
+944,64,Mumbai,Fast Food,Dine-in,1,3.8,2025-11-11 08:00:00,Digital (UPI),1,203.94,0.08575500940994132,Senior,Low,971.0
+945,48,Bengaluru,Chinese,Delivery,7,4.0,2025-11-11 16:00:00,Card,1,1222.64,0.7906011291929592,Adult,High,139.0
+946,32,Bengaluru,South Indian,Dine-in,2,4.6,2025-11-12 00:00:00,Cash,0,440.51,0.24943955496512787,Young Adult,Medium,786.0
+947,44,Mumbai,North Indian,Dine-in,7,3.5,2025-11-12 08:00:00,Digital (UPI),1,1199.94,0.7748948300675302,Adult,High,156.0
+948,29,Bengaluru,Fast Food,Delivery,7,3.8,2025-11-12 16:00:00,Digital (UPI),1,1035.99,0.6614566035647073,Young Adult,High,299.0
+949,41,Bengaluru,Italian,Delivery,7,3.3,2025-11-13 00:00:00,Card,0,1005.35,0.6402565592826304,Adult,High,321.0
+950,65,Hyderabad,North Indian,Dine-in,7,3.3,2025-11-13 08:00:00,Cash,0,1244.61,0.8058023358795527,Senior,High,116.0
+951,48,Hyderabad,Italian,Dine-in,7,3.4,2025-11-13 16:00:00,Cash,1,991.66,0.6307843462858408,Adult,High,336.0
+952,66,Mumbai,Chinese,Dine-in,5,3.7,2025-11-14 00:00:00,Cash,1,838.14,0.5245627144913096,Senior,Medium,469.0
+953,52,Hyderabad,North Indian,Dine-in,1,3.7,2025-11-14 08:00:00,Digital (UPI),0,220.58,0.09726834938558619,Adult,Low,962.0
+954,47,Hyderabad,South Indian,Dine-in,8,4.2,2025-11-14 16:00:00,Digital (UPI),0,1263.19,0.818657976309089,Adult,High,105.0
+955,38,Bengaluru,South Indian,Dine-in,1,3.4,2025-11-15 00:00:00,Card,0,275.16,0.1350326580316617,Adult,Low,917.0
+956,29,Chennai,North Indian,Dine-in,8,4.2,2025-11-15 08:00:00,Digital (UPI),0,1245.79,0.8066187866710949,Young Adult,High,114.0
+957,44,Hyderabad,Fast Food,Dine-in,4,4.3,2025-11-15 16:00:00,Card,0,731.66,0.4508884091663899,Adult,Medium,567.0
+958,69,Chennai,Fast Food,Takeaway,2,4.0,2025-11-16 00:00:00,Digital (UPI),0,411.29,0.22922201926270344,Senior,Medium,813.0
+959,56,Hyderabad,Chinese,Delivery,3,3.4,2025-11-16 08:00:00,Digital (UPI),0,717.9,0.4413677626480682,Senior,Medium,580.0
+960,65,Hyderabad,South Indian,Takeaway,5,4.1,2025-11-16 16:00:00,Cash,1,739.17,0.4560846341193402,Senior,Medium,556.0
+961,31,Mumbai,South Indian,Dine-in,2,3.9,2025-11-17 00:00:00,Card,0,402.34,0.22302944758109153,Young Adult,Medium,820.0
+962,19,Mumbai,Chinese,Dine-in,5,4.0,2025-11-17 08:00:00,Digital (UPI),1,884.51,0.5566464629691132,Teen,Medium,425.0
+963,43,Mumbai,Chinese,Delivery,8,5.0,2025-11-17 16:00:00,Cash,1,1279.49,0.8299360677515776,Adult,High,88.0
+964,18,Chennai,North Indian,Dine-in,1,4.0,2025-11-18 00:00:00,Card,0,143.03,0.043610926602457654,Teen,Low,994.0
+965,24,Bengaluru,South Indian,Dine-in,7,3.6,2025-11-18 08:00:00,Digital (UPI),0,1250.57,0.8099261042842909,Young Adult,High,113.0
+966,31,Hyderabad,Italian,Takeaway,4,3.4,2025-11-18 16:00:00,Digital (UPI),0,726.95,0.44762952507472603,Young Adult,Medium,571.0
+967,24,Hyderabad,South Indian,Takeaway,4,3.4,2025-11-19 00:00:00,Card,1,598.65,0.3588577991807816,Young Adult,Medium,666.0
+968,31,Hyderabad,North Indian,Takeaway,6,3.0,2025-11-19 08:00:00,Digital (UPI),0,1035.09,0.6608338868592937,Young Adult,High,300.0
+969,34,Chennai,Italian,Dine-in,3,4.7,2025-11-19 16:00:00,Card,0,686.13,0.4193858629469722,Young Adult,Medium,608.0
+970,38,Mumbai,North Indian,Dine-in,4,2.4,2025-11-20 00:00:00,Digital (UPI),0,697.09,0.4269691686040076,Adult,Medium,594.0
+971,19,Bengaluru,North Indian,Delivery,7,4.3,2025-11-20 08:00:00,Digital (UPI),1,1149.82,0.7402164286505036,Teen,High,210.0
+972,48,Chennai,North Indian,Dine-in,1,3.4,2025-11-20 16:00:00,Digital (UPI),0,375.44,0.20441713716373297,Adult,Low,841.0
+973,20,Mumbai,South Indian,Takeaway,3,3.6,2025-11-21 00:00:00,Card,0,472.37,0.2714837263367652,Young Adult,Medium,759.0
+974,67,Chennai,Italian,Delivery,8,3.4,2025-11-21 08:00:00,Digital (UPI),1,1438.2,0.9397486992139932,Senior,High,14.0
+975,16,Bengaluru,South Indian,Takeaway,2,5.0,2025-11-21 16:00:00,Digital (UPI),0,477.83,0.27526154101627365,Teen,Medium,755.0
+976,27,Mumbai,North Indian,Dine-in,8,4.0,2025-11-22 00:00:00,Card,0,1226.06,0.7929674526735304,Young Adult,High,133.0
+977,57,Chennai,Fast Food,Dine-in,7,4.6,2025-11-22 08:00:00,Cash,1,1096.54,0.7033515996900255,Senior,High,242.0
+978,57,Bengaluru,Fast Food,Takeaway,7,4.9,2025-11-22 16:00:00,Cash,1,1108.01,0.7112877781467951,Senior,High,235.0
+979,62,Hyderabad,Fast Food,Delivery,4,4.1,2025-11-23 00:00:00,Cash,1,553.31,0.3274867153769511,Senior,Medium,696.0
+980,25,Bengaluru,North Indian,Delivery,3,3.2,2025-11-23 08:00:00,Digital (UPI),0,570.84,0.33961585298350494,Young Adult,Medium,681.0
+981,65,Hyderabad,South Indian,Dine-in,1,3.8,2025-11-23 16:00:00,Card,1,179.68,0.06896933466179564,Senior,Low,984.0
+982,61,Chennai,Fast Food,Dine-in,8,3.5,2025-11-24 00:00:00,Card,0,1323.72,0.860539134285398,Senior,High,58.0
+983,37,Mumbai,Italian,Delivery,6,3.6,2025-11-24 08:00:00,Digital (UPI),0,896.72,0.5650946529392229,Adult,Medium,416.0
+984,69,Mumbai,North Indian,Delivery,8,3.9,2025-11-24 16:00:00,Card,0,1373.84,0.8952175357024243,Senior,High,28.0
+985,30,Chennai,North Indian,Delivery,5,3.9,2025-11-25 00:00:00,Digital (UPI),1,909.01,0.5735981955053692,Young Adult,High,402.0
+986,45,Mumbai,South Indian,Dine-in,5,4.3,2025-11-25 08:00:00,Cash,1,793.53,0.49369672312631463,Adult,Medium,512.0
+987,25,Mumbai,Fast Food,Takeaway,1,4.4,2025-11-25 16:00:00,Digital (UPI),0,278.77,0.1375304439278202,Young Adult,Low,915.0
+988,68,Hyderabad,Chinese,Delivery,1,3.9,2025-11-26 00:00:00,Digital (UPI),0,256.63,0.12221161297464851,Senior,Low,934.0
+989,30,Chennai,South Indian,Takeaway,5,4.3,2025-11-26 08:00:00,Digital (UPI),0,968.58,0.6148151223292373,Young Adult,High,352.0
+990,22,Bengaluru,North Indian,Dine-in,6,3.6,2025-11-26 16:00:00,Card,1,917.4,0.5794032990147238,Young Adult,High,395.0
+991,18,Hyderabad,Chinese,Dine-in,3,4.9,2025-11-27 00:00:00,Digital (UPI),1,537.82,0.3167690689693347,Teen,Medium,708.0
+992,54,Chennai,Fast Food,Takeaway,5,3.6,2025-11-27 08:00:00,Cash,0,798.75,0.49730848001771283,Adult,Medium,504.0
+993,18,Hyderabad,South Indian,Dine-in,1,4.8,2025-11-27 16:00:00,Cash,1,253.59,0.12010821432525186,Teen,Low,936.0
+994,39,Bengaluru,Italian,Dine-in,4,3.0,2025-11-28 00:00:00,Cash,0,742.66,0.45849939112144356,Adult,Medium,552.0
+995,17,Bengaluru,Fast Food,Delivery,2,3.7,2025-11-28 08:00:00,Digital (UPI),0,347.86,0.185334329680062,Teen,Low,863.0
+996,46,Chennai,North Indian,Dine-in,6,3.8,2025-11-28 16:00:00,Card,1,970.87,0.6163995903907894,Adult,High,350.0
+997,17,Bengaluru,South Indian,Delivery,7,4.2,2025-11-29 00:00:00,Digital (UPI),0,1227.28,0.7938115797630909,Teen,High,130.0
+998,41,Hyderabad,South Indian,Dine-in,6,4.6,2025-11-29 08:00:00,Cash,0,1108.59,0.7116890844680616,Adult,High,234.0
+999,43,Bengaluru,Italian,Takeaway,4,3.1,2025-11-29 16:00:00,Card,1,739.48,0.45629912542898265,Adult,Medium,555.0
+1000,46,Hyderabad,Chinese,Delivery,4,3.2,2025-11-30 00:00:00,Digital (UPI),0,688.96,0.4213439610317724,Adult,Medium,606.0

@@ -1,0 +1,1016 @@
+customer_id,age,city,cuisine,order_mode,party_size,rating,visit_date,payment_mode,loyalty_member,bill_amount
+1,53,Bengaluru,North Indian,Takeaway,1,2.5,2025-01-01 00:00:00,UPI,No,181.38
+2,66,Hyderabad,Italian,Delivery,2,4.6,2025-01-01 08:00:00,Card,No,274.09
+3,43,Bengaluru,South Indian,Dine-in,2,,2025-01-01 16:00:00,Cash,Yes,424.45
+4,29,Chennai,North Indian,Delivery,3,4.3,2025-01-02 00:00:00,UPI,No,449.7
+5,57,Chennai,Fast Food,Takeaway,6,3.1,2025-01-02 08:00:00,UPI,No,1000.32
+6,22,Hyderabad,Fast Food,Dine-in,2,4.2,2025-01-02 16:00:00,Card,Yes,9000.0
+7,35,Hyderabad,Fast Food,Takeaway,3,3.4,2025-01-03 00:00:00,Cash,Yes,566.64
+8,53,Bengaluru,Fast Food,Delivery,4,3.5,2025-01-03 08:00:00,Cash,No,642.15
+9,33,Mumbai,North Indian,Dine-in,3,4.3,2025-01-03 16:00:00,Card,No,622.7
+10,37,Bengaluru,South Indian,Delivery,5,3.7,2025-01-04 00:00:00,Card,No,817.36
+11,25,Hyderabad,Italian,Delivery,7,4.3,2025-01-04 08:00:00,UPI,Yes,1043.27
+12,25,Bengaluru,Chinese,Dine-in,1,3.9,2025-01-04 16:00:00,UPI,No,227.3
+13,38,Hyderabad,North Indian,Delivery,4,4.0,2025-01-05 00:00:00,UPI,No,746.94
+14,67,Bengaluru,Italian,Dine-in,7,4.3,2025-01-05 08:00:00,Card,No,1096.05
+15,50,Hyderabad,North Indian,Dine-in,7,3.8,2025-01-05 16:00:00,UPI,No,1220.25
+16,54,Hyderabad,North Indian,Dine-in,4,3.3,2025-01-06 00:00:00,Card,Yes,638.37
+17,38,Hyderabad,Chinese,Delivery,5,3.6,2025-01-06 08:00:00,Card,No,799.26
+18,17,Mumbai,Chinese,Takeaway,3,4.8,2025-01-06 16:00:00,UPI,No,466.31
+19,36,Bengaluru,Chinese,Dine-in,1,4.1,2025-01-07 00:00:00,,No,304.7
+20,67,Bengaluru,North Indian,Dine-in,3,3.4,2025-01-07 08:00:00,Cash,No,545.74
+21,16,Bengaluru,Fast Food,Takeaway,2,4.3,2025-01-07 16:00:00,UPI,No,321.62
+22,38,Hyderabad,North Indian,Dine-in,3,4.3,2025-01-08 00:00:00,Card,No,518.3
+23,58,Bengaluru,North Indian,Delivery,8,4.4,2025-01-08 08:00:00,UPI,No,1054.31
+24,44,Bengaluru,Fast Food,Delivery,4,3.3,2025-01-08 16:00:00,Cash,No,762.24
+25,52,Hyderabad,Fast Food,Takeaway,1,3.5,2025-01-09 00:00:00,UPI,No,236.34
+26,16,Chennai,Fast Food,Delivery,3,3.5,2025-01-09 08:00:00,Card,No,357.5
+27,35,Hyderabad,Italian,Dine-in,1,3.7,2025-01-09 16:00:00,Cash,No,133.47
+28,47,Bengaluru,Chinese,Delivery,1,4.4,2025-01-10 00:00:00,UPI,No,216.27
+29,26,Hyderabad,Chinese,Takeaway,2,4.2,2025-01-10 08:00:00,Card,Yes,294.87
+30,36,Chennai,North Indian,Takeaway,2,4.3,2025-01-10 16:00:00,Card,No,463.47
+31,58,Hyderabad,South Indian,Dine-in,4,4.9,2025-01-11 00:00:00,Cash,Yes,733.49
+32,39,Bengaluru,South Indian,Delivery,5,4.5,2025-01-11 08:00:00,Cash,No,878.76
+33,63,Chennai,North Indian,Dine-in,8,3.9,2025-01-11 16:00:00,Card,Yes,1091.65
+34,41,Mumbai,Italian,Dine-in,7,3.2,2025-01-12 00:00:00,Cash,No,1107.96
+35,56,Bengaluru,South Indian,Dine-in,1,3.5,2025-01-12 08:00:00,UPI,No,194.19
+36,42,Chennai,North Indian,Takeaway,5,3.8,2025-01-12 16:00:00,Cash,No,773.68
+37,30,Chennai,North Indian,Takeaway,7,4.6,2025-01-13 00:00:00,Card,No,1116.79
+38,29,Mumbai,Chinese,Delivery,7,4.0,2025-01-13 08:00:00,Cash,Yes,1059.9
+39,61,Hyderabad,North Indian,Delivery,8,3.5,2025-01-13 16:00:00,Card,No,1317.22
+40,65,Hyderabad,Fast Food,Dine-in,4,3.5,2025-01-14 00:00:00,UPI,Yes,761.32
+41,58,Bengaluru,South Indian,Delivery,7,4.0,2025-01-14 08:00:00,,No,1204.43
+42,69,Mumbai,South Indian,Dine-in,8,4.6,2025-01-14 16:00:00,UPI,No,1288.97
+43,66,Hyderabad,Chinese,Delivery,7,5.0,2025-01-15 00:00:00,Card,No,1309.94
+44,17,Mumbai,Fast Food,Delivery,1,3.9,2025-01-15 08:00:00,UPI,Yes,341.2
+45,51,Hyderabad,South Indian,Takeaway,1,4.0,2025-01-15 16:00:00,UPI,Yes,241.88
+46,65,Chennai,Chinese,Delivery,6,3.2,2025-01-16 00:00:00,UPI,No,961.42
+47,21,Hyderabad,Chinese,Dine-in,5,5.0,2025-01-16 08:00:00,UPI,No,957.04
+48,35,Mumbai,North Indian,Dine-in,3,3.0,2025-01-16 16:00:00,UPI,No,630.61
+49,23,Chennai,Fast Food,Delivery,8,4.8,2025-01-17 00:00:00,Cash,No,1187.17
+50,53,Chennai,Italian,Dine-in,2,3.7,2025-01-17 08:00:00,Cash,No,486.87
+51,32,Chennai,Chinese,Dine-in,8,3.6,2025-01-17 16:00:00,UPI,Yes,1287.65
+52,18,Mumbai,Fast Food,Dine-in,3,3.2,2025-01-18 00:00:00,Card,No,481.13
+53,39,Bengaluru,Fast Food,Delivery,5,5.0,2025-01-18 08:00:00,Card,No,691.66
+54,28,Bengaluru,Italian,Dine-in,2,4.2,2025-01-18 16:00:00,UPI,Yes,378.49
+55,64,Bengaluru,Fast Food,Dine-in,3,4.0,2025-01-19 00:00:00,Card,No,549.02
+56,23,Mumbai,Chinese,Delivery,6,4.6,2025-01-19 08:00:00,UPI,Yes,1126.99
+57,40,Chennai,Chinese,Delivery,2,3.5,2025-01-19 16:00:00,UPI,No,476.58
+58,67,Bengaluru,Chinese,Dine-in,1,4.0,2025-01-20 00:00:00,UPI,Yes,203.37
+59,16,Mumbai,Italian,Dine-in,3,4.0,2025-01-20 08:00:00,UPI,No,581.15
+60,34,Bengaluru,North Indian,Dine-in,8,3.6,2025-01-20 16:00:00,Cash,Yes,1366.1
+61,42,Hyderabad,Fast Food,Dine-in,2,4.8,2025-01-21 00:00:00,Card,No,406.88
+62,61,Bengaluru,Fast Food,Dine-in,6,3.8,2025-01-21 08:00:00,Card,No,953.03
+63,21,Bengaluru,North Indian,Delivery,8,2.9,2025-01-21 16:00:00,Card,No,1257.43
+64,58,Chennai,Fast Food,Takeaway,7,3.8,2025-01-22 00:00:00,UPI,No,1180.84
+65,22,Mumbai,North Indian,Takeaway,2,4.2,2025-01-22 08:00:00,UPI,No,433.04
+66,61,Chennai,South Indian,Dine-in,2,3.4,2025-01-22 16:00:00,Card,Yes,376.56
+67,49,Chennai,Italian,Delivery,6,3.4,2025-01-23 00:00:00,Card,Yes,790.47
+68,28,Chennai,North Indian,Dine-in,7,3.6,2025-01-23 08:00:00,UPI,Yes,1046.76
+69,31,Chennai,Italian,Delivery,3,4.9,2025-01-23 16:00:00,Card,No,599.58
+70,50,Chennai,Fast Food,Takeaway,4,,2025-01-24 00:00:00,Card,No,529.53
+71,64,Bengaluru,South Indian,Dine-in,3,5.0,2025-01-24 08:00:00,Card,No,644.73
+72,54,Chennai,North Indian,Takeaway,7,3.6,2025-01-24 16:00:00,UPI,No,1232.89
+73,18,Chennai,South Indian,Dine-in,5,4.2,2025-01-25 00:00:00,UPI,Yes,853.29
+74,16,Mumbai,Chinese,Takeaway,8,3.7,2025-01-25 08:00:00,UPI,Yes,1347.83
+75,20,Hyderabad,Fast Food,Dine-in,6,4.5,2025-01-25 16:00:00,UPI,Yes,1042.3
+76,68,Bengaluru,Chinese,Dine-in,3,3.2,2025-01-26 00:00:00,,No,540.65
+77,56,Bengaluru,North Indian,Delivery,2,4.5,2025-01-26 08:00:00,Card,Yes,290.09
+78,18,Bengaluru,Chinese,Dine-in,6,4.1,2025-01-26 16:00:00,UPI,Yes,1077.38
+79,68,Chennai,Chinese,Delivery,1,3.6,2025-01-27 00:00:00,,No,362.58
+80,43,Chennai,Italian,Dine-in,7,3.9,2025-01-27 08:00:00,UPI,No,1053.31
+81,32,Chennai,North Indian,Takeaway,8,5.0,2025-01-27 16:00:00,UPI,Yes,1187.1
+82,40,Mumbai,Italian,Takeaway,3,4.1,2025-01-28 00:00:00,UPI,Yes,539.06
+83,58,Hyderabad,Chinese,Takeaway,6,3.5,2025-01-28 08:00:00,UPI,Yes,949.9
+84,48,Chennai,Fast Food,Dine-in,8,3.2,2025-01-28 16:00:00,UPI,No,1311.6
+85,24,Hyderabad,South Indian,Dine-in,3,4.4,2025-01-29 00:00:00,UPI,No,646.64
+86,50,Mumbai,Chinese,Dine-in,6,4.1,2025-01-29 08:00:00,Card,Yes,820.35
+87,28,Bengaluru,Fast Food,Dine-in,2,4.5,2025-01-29 16:00:00,Cash,Yes,526.5
+88,45,Chennai,North Indian,Takeaway,1,3.0,2025-01-30 00:00:00,Card,No,217.47
+89,62,Hyderabad,Fast Food,Delivery,1,3.2,2025-01-30 08:00:00,UPI,No,290.94
+90,29,Hyderabad,Chinese,Delivery,5,4.8,2025-01-30 16:00:00,Card,Yes,899.5
+91,22,Chennai,North Indian,Delivery,6,4.2,2025-01-31 00:00:00,UPI,No,1058.83
+92,28,Bengaluru,South Indian,Delivery,3,4.4,2025-01-31 08:00:00,,Yes,554.95
+93,37,Bengaluru,Italian,Takeaway,1,3.3,2025-01-31 16:00:00,UPI,No,273.64
+94,54,Bengaluru,North Indian,Dine-in,7,3.3,2025-02-01 00:00:00,Cash,No,1173.12
+95,35,Mumbai,Chinese,Delivery,1,4.7,2025-02-01 08:00:00,UPI,No,199.58
+96,30,Hyderabad,South Indian,Takeaway,4,4.7,2025-02-01 16:00:00,UPI,No,559.36
+97,59,Hyderabad,Chinese,Takeaway,4,3.2,2025-02-02 00:00:00,Card,No,602.47
+98,32,Hyderabad,North Indian,Dine-in,1,3.1,2025-02-02 08:00:00,,No,241.66
+99,61,Mumbai,Fast Food,Dine-in,6,3.9,2025-02-02 16:00:00,UPI,No,937.06
+100,67,Hyderabad,Fast Food,Dine-in,5,3.4,2025-02-03 00:00:00,Card,No,787.24
+101,38,Mumbai,Fast Food,Delivery,1,3.4,2025-02-03 08:00:00,Card,No,393.94
+102,40,Bengaluru,Italian,Takeaway,2,3.1,2025-02-03 16:00:00,UPI,No,468.71
+103,39,Chennai,North Indian,Dine-in,8,3.7,2025-02-04 00:00:00,UPI,Yes,1279.83
+104,59,Hyderabad,Italian,Delivery,3,3.2,2025-02-04 08:00:00,UPI,No,603.76
+105,55,Hyderabad,North Indian,Dine-in,5,3.2,2025-02-04 16:00:00,Card,No,816.38
+106,43,Bengaluru,North Indian,Dine-in,2,4.2,2025-02-05 00:00:00,Card,No,408.86
+107,29,Chennai,South Indian,Dine-in,5,4.0,2025-02-05 08:00:00,UPI,Yes,885.33
+108,59,Mumbai,South Indian,Delivery,2,4.3,2025-02-05 16:00:00,UPI,No,366.59
+109,15,Chennai,Italian,Delivery,3,2.8,2025-02-06 00:00:00,UPI,No,495.18
+110,39,Bengaluru,Chinese,Dine-in,3,4.0,2025-02-06 08:00:00,Card,Yes,647.91
+111,21,Bengaluru,South Indian,Delivery,4,5.0,2025-02-06 16:00:00,Card,No,749.13
+112,23,Chennai,North Indian,Dine-in,6,3.7,2025-02-07 00:00:00,Cash,Yes,819.63
+113,38,Mumbai,Fast Food,Delivery,2,4.6,2025-02-07 08:00:00,Card,Yes,346.55
+114,15,Mumbai,South Indian,Delivery,8,4.6,2025-02-07 16:00:00,Cash,No,1237.5
+115,58,Hyderabad,South Indian,Delivery,4,4.6,2025-02-08 00:00:00,Cash,No,650.31
+116,22,Mumbai,North Indian,Dine-in,2,4.1,2025-02-08 08:00:00,UPI,No,468.99
+117,38,Chennai,Italian,Delivery,4,4.4,2025-02-08 16:00:00,Card,Yes,701.54
+118,25,Bengaluru,Chinese,Delivery,3,4.5,2025-02-09 00:00:00,UPI,No,438.83
+119,65,Hyderabad,North Indian,Dine-in,5,4.4,2025-02-09 08:00:00,UPI,Yes,819.34
+120,31,Hyderabad,North Indian,Delivery,7,3.2,2025-02-09 16:00:00,UPI,Yes,1193.34
+121,22,Bengaluru,Chinese,Dine-in,4,2.8,2025-02-10 00:00:00,Cash,Yes,682.43
+122,49,Mumbai,Chinese,Delivery,2,2.9,2025-02-10 08:00:00,UPI,No,348.43
+123,49,Bengaluru,North Indian,Dine-in,2,3.8,2025-02-10 16:00:00,UPI,No,426.5
+124,47,Mumbai,Fast Food,Delivery,7,,2025-02-11 00:00:00,UPI,No,1279.46
+125,19,Bengaluru,North Indian,Takeaway,6,3.2,2025-02-11 08:00:00,UPI,No,1036.91
+126,56,Chennai,South Indian,Dine-in,8,4.6,2025-02-11 16:00:00,UPI,Yes,1404.08
+127,53,Mumbai,Fast Food,Dine-in,3,3.6,2025-02-12 00:00:00,UPI,No,503.79
+128,55,Chennai,South Indian,Dine-in,2,3.7,2025-02-12 08:00:00,Card,No,399.33
+129,42,Hyderabad,Chinese,Dine-in,1,3.4,2025-02-12 16:00:00,UPI,No,247.72
+130,21,Bengaluru,South Indian,Dine-in,5,2.7,2025-02-13 00:00:00,,Yes,859.49
+131,23,Hyderabad,North Indian,Takeaway,4,4.2,2025-02-13 08:00:00,UPI,No,735.24
+132,22,Hyderabad,Fast Food,Dine-in,6,5.0,2025-02-13 16:00:00,Cash,No,926.48
+133,26,Hyderabad,South Indian,Dine-in,8,4.0,2025-02-14 00:00:00,Card,No,1351.79
+134,48,Hyderabad,Fast Food,Delivery,7,2.7,2025-02-14 08:00:00,UPI,No,1019.77
+135,47,Bengaluru,North Indian,Dine-in,5,4.5,2025-02-14 16:00:00,UPI,Yes,743.14
+136,62,Hyderabad,North Indian,Delivery,3,2.9,2025-02-15 00:00:00,Card,No,720.85
+137,69,Bengaluru,North Indian,Delivery,6,3.2,2025-02-15 08:00:00,Card,Yes,959.19
+138,37,Bengaluru,Chinese,Takeaway,8,3.8,2025-02-15 16:00:00,UPI,No,1358.36
+139,38,Chennai,South Indian,Takeaway,4,4.1,2025-02-16 00:00:00,Card,No,835.86
+140,51,Mumbai,Fast Food,Delivery,4,3.3,2025-02-16 08:00:00,UPI,Yes,514.84
+141,49,Mumbai,South Indian,Dine-in,7,3.8,2025-02-16 16:00:00,Cash,No,1240.1
+142,58,Bengaluru,Fast Food,Dine-in,1,4.5,2025-02-17 00:00:00,UPI,No,301.92
+143,54,Chennai,North Indian,Dine-in,7,4.6,2025-02-17 08:00:00,UPI,Yes,1281.23
+144,36,Bengaluru,Fast Food,Delivery,3,4.9,2025-02-17 16:00:00,Cash,No,455.48
+145,41,Bengaluru,Italian,Dine-in,6,5.0,2025-02-18 00:00:00,Card,Yes,1116.1
+146,49,Bengaluru,Italian,Takeaway,6,4.6,2025-02-18 08:00:00,Cash,No,940.85
+147,15,Chennai,Fast Food,Delivery,2,3.8,2025-02-18 16:00:00,UPI,No,484.38
+148,49,Mumbai,Italian,Delivery,1,4.6,2025-02-19 00:00:00,UPI,No,247.12
+149,51,Chennai,Chinese,Takeaway,1,4.3,2025-02-19 08:00:00,UPI,No,311.66
+150,61,Hyderabad,North Indian,Dine-in,6,4.4,2025-02-19 16:00:00,Cash,No,1003.91
+151,28,Chennai,North Indian,Delivery,6,4.1,2025-02-20 00:00:00,Card,No,852.85
+152,17,Chennai,Fast Food,Takeaway,5,3.4,2025-02-20 08:00:00,Cash,Yes,600.36
+153,15,Chennai,Chinese,Dine-in,8,,2025-02-20 16:00:00,Card,No,1316.79
+154,19,Chennai,Italian,Dine-in,5,3.9,2025-02-21 00:00:00,UPI,No,828.9
+155,40,Mumbai,South Indian,Delivery,5,4.1,2025-02-21 08:00:00,UPI,Yes,881.86
+156,69,Hyderabad,North Indian,Takeaway,1,3.5,2025-02-21 16:00:00,UPI,No,229.83
+157,28,Mumbai,North Indian,Delivery,2,4.3,2025-02-22 00:00:00,Card,No,561.45
+158,53,Mumbai,Chinese,Delivery,4,5.0,2025-02-22 08:00:00,UPI,No,718.44
+159,41,Chennai,South Indian,Takeaway,5,2.8,2025-02-22 16:00:00,UPI,Yes,814.24
+160,23,Bengaluru,North Indian,Takeaway,2,4.4,2025-02-23 00:00:00,UPI,Yes,426.99
+161,29,Bengaluru,South Indian,Dine-in,7,4.0,2025-02-23 08:00:00,UPI,Yes,1115.71
+162,29,Mumbai,North Indian,Dine-in,3,4.3,2025-02-23 16:00:00,Card,No,557.43
+163,40,Mumbai,Chinese,Dine-in,5,3.7,2025-02-24 00:00:00,Cash,Yes,752.6
+164,56,Chennai,North Indian,Delivery,7,3.9,2025-02-24 08:00:00,,No,1149.31
+165,27,Mumbai,Italian,Takeaway,4,4.1,2025-02-24 16:00:00,Cash,Yes,661.77
+166,65,Chennai,South Indian,Delivery,3,3.8,2025-02-25 00:00:00,Card,No,460.18
+167,46,Bengaluru,South Indian,Dine-in,3,2.9,2025-02-25 08:00:00,UPI,No,708.06
+168,53,Bengaluru,North Indian,Takeaway,4,3.8,2025-02-25 16:00:00,UPI,No,613.3
+169,63,Hyderabad,North Indian,Takeaway,5,3.0,2025-02-26 00:00:00,UPI,Yes,850.56
+170,66,Bengaluru,South Indian,Takeaway,1,4.5,2025-02-26 08:00:00,Cash,No,185.78
+171,46,Mumbai,South Indian,Delivery,4,2.7,2025-02-26 16:00:00,Card,Yes,723.76
+172,18,Bengaluru,Chinese,Dine-in,4,4.7,2025-02-27 00:00:00,UPI,No,598.05
+173,44,Chennai,South Indian,Takeaway,4,4.3,2025-02-27 08:00:00,UPI,No,767.23
+174,51,Bengaluru,Chinese,Dine-in,3,4.3,2025-02-27 16:00:00,UPI,Yes,712.89
+175,37,Hyderabad,Fast Food,Dine-in,8,2.5,2025-02-28 00:00:00,UPI,No,1232.84
+176,53,Bengaluru,Italian,Dine-in,2,3.8,2025-02-28 08:00:00,UPI,No,497.36
+177,59,Chennai,North Indian,Takeaway,7,4.8,2025-02-28 16:00:00,UPI,Yes,1119.45
+178,29,Chennai,South Indian,Delivery,1,3.6,2025-03-01 00:00:00,Cash,No,370.46
+179,57,Mumbai,North Indian,Takeaway,5,3.2,2025-03-01 08:00:00,UPI,Yes,1025.08
+180,43,Bengaluru,North Indian,Delivery,5,3.6,2025-03-01 16:00:00,UPI,No,831.3
+181,50,Chennai,Fast Food,Takeaway,7,4.0,2025-03-02 00:00:00,UPI,No,1028.38
+182,27,Hyderabad,North Indian,Takeaway,2,3.4,2025-03-02 08:00:00,Card,Yes,475.85
+183,46,Mumbai,South Indian,Dine-in,4,4.9,2025-03-02 16:00:00,UPI,No,717.95
+184,21,Hyderabad,Chinese,Dine-in,8,4.0,2025-03-03 00:00:00,Card,No,1340.14
+185,65,Bengaluru,Italian,Dine-in,1,3.6,2025-03-03 08:00:00,UPI,No,222.81
+186,36,Bengaluru,Chinese,Dine-in,5,3.1,2025-03-03 16:00:00,Cash,No,779.24
+187,42,Bengaluru,North Indian,Dine-in,7,4.3,2025-03-04 00:00:00,UPI,No,1242.83
+188,16,Mumbai,South Indian,Dine-in,6,4.3,2025-03-04 08:00:00,Cash,No,1025.58
+189,56,Chennai,South Indian,Dine-in,8,3.4,2025-03-04 16:00:00,Cash,No,1184.52
+190,59,Mumbai,North Indian,Delivery,7,2.4,2025-03-05 00:00:00,Card,No,1204.95
+191,67,Hyderabad,South Indian,Dine-in,8,4.3,2025-03-05 08:00:00,UPI,No,1338.89
+192,20,Mumbai,North Indian,Dine-in,5,3.9,2025-03-05 16:00:00,Card,No,823.98
+193,42,Hyderabad,North Indian,Dine-in,4,4.2,2025-03-06 00:00:00,Card,No,829.59
+194,42,Mumbai,South Indian,Takeaway,6,5.0,2025-03-06 08:00:00,UPI,No,950.55
+195,58,Chennai,North Indian,Dine-in,2,4.0,2025-03-06 16:00:00,Card,No,386.48
+196,58,Hyderabad,Chinese,Dine-in,1,3.6,2025-03-07 00:00:00,UPI,No,311.49
+197,34,Bengaluru,Chinese,Takeaway,2,3.2,2025-03-07 08:00:00,UPI,Yes,406.14
+198,44,Bengaluru,Italian,Dine-in,2,3.8,2025-03-07 16:00:00,UPI,No,289.25
+199,25,Mumbai,North Indian,Dine-in,7,4.1,2025-03-08 00:00:00,Card,No,1164.7
+200,69,Bengaluru,North Indian,Dine-in,8,4.0,2025-03-08 08:00:00,UPI,Yes,1266.85
+201,42,Hyderabad,North Indian,Dine-in,1,5.0,2025-03-08 16:00:00,Cash,No,318.56
+202,39,Bengaluru,Chinese,Dine-in,1,4.3,2025-03-09 00:00:00,Card,No,262.1
+203,53,Chennai,Italian,Dine-in,5,3.9,2025-03-09 08:00:00,Card,Yes,857.56
+204,47,Chennai,North Indian,Delivery,5,3.5,2025-03-09 16:00:00,UPI,Yes,766.14
+205,15,Mumbai,Fast Food,Takeaway,1,4.2,2025-03-10 00:00:00,Cash,Yes,231.6
+206,41,Hyderabad,North Indian,Takeaway,6,3.4,2025-03-10 08:00:00,UPI,No,1077.61
+207,66,Chennai,Chinese,Dine-in,3,4.1,2025-03-10 16:00:00,UPI,Yes,487.88
+208,27,Chennai,Italian,Delivery,5,4.3,2025-03-11 00:00:00,Card,Yes,847.4
+209,55,Hyderabad,Fast Food,Dine-in,3,3.8,2025-03-11 08:00:00,Cash,No,475.08
+210,17,Bengaluru,Italian,Dine-in,7,3.6,2025-03-11 16:00:00,UPI,Yes,1055.29
+211,53,Bengaluru,Italian,Takeaway,6,2.5,2025-03-12 00:00:00,UPI,Yes,993.21
+212,20,Mumbai,South Indian,Dine-in,1,4.8,2025-03-12 08:00:00,UPI,Yes,263.9
+213,22,Bengaluru,Italian,Dine-in,6,4.3,2025-03-12 16:00:00,,No,1159.51
+214,41,Hyderabad,North Indian,Takeaway,5,4.3,2025-03-13 00:00:00,Card,No,813.56
+215,23,Chennai,Fast Food,Delivery,2,2.9,2025-03-13 08:00:00,Card,No,395.99
+216,51,Bengaluru,Chinese,Dine-in,7,5.0,2025-03-13 16:00:00,Cash,No,1049.99
+217,47,Mumbai,Italian,Delivery,1,3.7,2025-03-14 00:00:00,Cash,No,298.98
+218,65,Bengaluru,South Indian,Delivery,4,3.8,2025-03-14 08:00:00,UPI,No,731.85
+219,56,Hyderabad,Chinese,Dine-in,7,3.3,2025-03-14 16:00:00,Card,Yes,1269.07
+220,58,Mumbai,South Indian,Dine-in,8,2.7,2025-03-15 00:00:00,,Yes,1388.93
+221,38,Bengaluru,Italian,Dine-in,3,4.8,2025-03-15 08:00:00,UPI,No,578.11
+222,29,Mumbai,North Indian,Dine-in,6,4.9,2025-03-15 16:00:00,UPI,No,962.39
+223,68,Hyderabad,North Indian,Dine-in,1,3.9,2025-03-16 00:00:00,Cash,Yes,266.37
+224,46,Chennai,North Indian,Delivery,7,3.5,2025-03-16 08:00:00,UPI,No,1141.12
+225,46,Hyderabad,North Indian,Delivery,6,3.7,2025-03-16 16:00:00,Cash,Yes,1076.27
+226,38,Hyderabad,Fast Food,Takeaway,1,3.8,2025-03-17 00:00:00,Cash,No,316.1
+227,55,Hyderabad,North Indian,Dine-in,5,3.2,2025-03-17 08:00:00,Cash,No,826.29
+228,66,Hyderabad,Fast Food,Delivery,7,3.8,2025-03-17 16:00:00,UPI,Yes,1033.04
+229,63,Chennai,South Indian,Delivery,5,4.1,2025-03-18 00:00:00,Cash,No,956.67
+230,63,Chennai,North Indian,Delivery,7,4.7,2025-03-18 08:00:00,Cash,Yes,1196.55
+231,66,Mumbai,Italian,Dine-in,5,4.0,2025-03-18 16:00:00,Card,No,824.44
+232,26,Bengaluru,Chinese,Takeaway,8,2.9,2025-03-19 00:00:00,UPI,Yes,1343.43
+233,53,Chennai,South Indian,Dine-in,6,4.2,2025-03-19 08:00:00,Card,No,1005.99
+234,16,Chennai,Chinese,Dine-in,4,3.8,2025-03-19 16:00:00,Card,Yes,805.49
+235,17,Bengaluru,Italian,Dine-in,7,5.0,2025-03-20 00:00:00,Cash,No,995.62
+236,63,Chennai,North Indian,Takeaway,8,5.0,2025-03-20 08:00:00,Card,No,1268.22
+237,51,Hyderabad,Fast Food,Takeaway,7,5.0,2025-03-20 16:00:00,UPI,No,1277.92
+238,63,Hyderabad,Fast Food,Dine-in,5,3.6,2025-03-21 00:00:00,UPI,Yes,895.06
+239,31,Bengaluru,Chinese,Dine-in,1,5.0,2025-03-21 08:00:00,Card,No,391.81
+240,63,Mumbai,North Indian,Dine-in,7,4.2,2025-03-21 16:00:00,Card,Yes,1052.26
+241,16,Mumbai,Chinese,Dine-in,8,,2025-03-22 00:00:00,Cash,Yes,1385.78
+242,16,Bengaluru,North Indian,Dine-in,5,3.6,2025-03-22 08:00:00,Card,No,930.98
+243,42,Bengaluru,North Indian,Dine-in,2,3.8,2025-03-22 16:00:00,Cash,Yes,265.46
+244,68,Hyderabad,North Indian,Delivery,5,4.2,2025-03-23 00:00:00,UPI,Yes,826.36
+245,37,Mumbai,South Indian,Dine-in,6,4.1,2025-03-23 08:00:00,UPI,No,991.48
+246,51,Chennai,Fast Food,Dine-in,4,4.9,2025-03-23 16:00:00,UPI,No,570.44
+247,46,Hyderabad,Italian,Dine-in,2,3.8,2025-03-24 00:00:00,UPI,No,378.03
+248,47,Bengaluru,Italian,Delivery,6,4.8,2025-03-24 08:00:00,UPI,No,1069.85
+249,15,Mumbai,South Indian,Takeaway,6,4.5,2025-03-24 16:00:00,UPI,No,968.73
+250,33,Chennai,South Indian,Takeaway,6,3.9,2025-03-25 00:00:00,Card,Yes,1019.37
+251,16,Chennai,South Indian,Dine-in,1,4.5,2025-03-25 08:00:00,UPI,No,269.95
+252,67,Hyderabad,Fast Food,Takeaway,6,3.7,2025-03-25 16:00:00,Card,No,999.03
+253,58,Mumbai,North Indian,Dine-in,1,5.0,2025-03-26 00:00:00,Card,No,193.59
+254,40,Mumbai,Fast Food,Takeaway,6,2.1,2025-03-26 08:00:00,UPI,Yes,1052.71
+255,46,Bengaluru,Chinese,Delivery,3,4.5,2025-03-26 16:00:00,Card,No,423.04
+256,20,Mumbai,South Indian,Takeaway,8,2.8,2025-03-27 00:00:00,Card,Yes,1300.69
+257,46,Mumbai,Italian,Delivery,2,3.8,2025-03-27 08:00:00,UPI,Yes,510.84
+258,69,Hyderabad,South Indian,Delivery,3,3.9,2025-03-27 16:00:00,Cash,Yes,514.21
+259,18,Mumbai,Fast Food,Dine-in,6,5.0,2025-03-28 00:00:00,Card,No,941.81
+260,69,Chennai,Fast Food,Delivery,2,3.5,2025-03-28 08:00:00,UPI,No,458.04
+261,25,Hyderabad,South Indian,Dine-in,2,4.9,2025-03-28 16:00:00,UPI,No,413.07
+262,31,Hyderabad,North Indian,Takeaway,7,3.2,2025-03-29 00:00:00,UPI,No,1209.64
+263,52,Bengaluru,Chinese,Dine-in,4,4.9,2025-03-29 08:00:00,Card,Yes,703.08
+264,38,Mumbai,Fast Food,Dine-in,3,3.7,2025-03-29 16:00:00,Card,Yes,358.94
+265,19,Bengaluru,North Indian,Dine-in,4,4.1,2025-03-30 00:00:00,UPI,Yes,794.39
+266,66,Chennai,Chinese,Dine-in,2,3.8,2025-03-30 08:00:00,UPI,No,565.6
+267,48,Hyderabad,Chinese,Dine-in,1,4.9,2025-03-30 16:00:00,UPI,No,352.72
+268,20,Hyderabad,Italian,Takeaway,2,4.8,2025-03-31 00:00:00,Cash,No,116.89
+269,36,Hyderabad,North Indian,Dine-in,4,,2025-03-31 08:00:00,Cash,Yes,736.09
+270,25,Chennai,Italian,Dine-in,3,3.2,2025-03-31 16:00:00,UPI,Yes,512.66
+271,62,Chennai,Fast Food,Takeaway,6,3.5,2025-04-01 00:00:00,Card,Yes,913.26
+272,30,Bengaluru,North Indian,Dine-in,7,3.3,2025-04-01 08:00:00,UPI,No,1159.82
+273,47,Bengaluru,North Indian,Delivery,7,2.4,2025-04-01 16:00:00,Cash,No,1138.08
+274,23,Bengaluru,Fast Food,Takeaway,7,4.9,2025-04-02 00:00:00,UPI,No,1190.69
+275,20,Mumbai,North Indian,Delivery,6,3.8,2025-04-02 08:00:00,UPI,No,1004.53
+276,30,Hyderabad,Fast Food,Takeaway,7,3.8,2025-04-02 16:00:00,UPI,No,1060.34
+277,43,Hyderabad,South Indian,Dine-in,3,5.0,2025-04-03 00:00:00,Cash,No,503.87
+278,17,Bengaluru,North Indian,Takeaway,6,3.7,2025-04-03 08:00:00,UPI,Yes,940.96
+279,34,Hyderabad,Fast Food,Dine-in,7,3.4,2025-04-03 16:00:00,UPI,No,1012.68
+280,50,Bengaluru,South Indian,Dine-in,6,3.8,2025-04-04 00:00:00,Card,No,890.27
+281,33,Mumbai,South Indian,Delivery,4,3.2,2025-04-04 08:00:00,UPI,Yes,683.11
+282,40,Mumbai,South Indian,Dine-in,8,4.2,2025-04-04 16:00:00,UPI,No,1413.9
+283,17,Chennai,Chinese,Delivery,8,3.7,2025-04-05 00:00:00,UPI,No,1257.16
+284,33,Mumbai,North Indian,Delivery,3,3.6,2025-04-05 08:00:00,UPI,No,489.41
+285,34,Bengaluru,South Indian,Delivery,5,,2025-04-05 16:00:00,Cash,No,755.5
+286,46,Mumbai,Fast Food,Delivery,1,3.9,2025-04-06 00:00:00,Card,No,252.44
+287,21,Chennai,North Indian,Dine-in,7,4.1,2025-04-06 08:00:00,Card,No,1244.34
+288,66,Hyderabad,Chinese,Dine-in,1,3.6,2025-04-06 16:00:00,UPI,Yes,410.21
+289,55,Bengaluru,South Indian,Takeaway,6,3.7,2025-04-07 00:00:00,UPI,Yes,1022.83
+290,47,Hyderabad,Italian,Dine-in,1,3.9,2025-04-07 08:00:00,UPI,Yes,261.2
+291,54,Chennai,North Indian,Takeaway,3,,2025-04-07 16:00:00,Card,Yes,506.52
+292,53,Chennai,Fast Food,Delivery,3,4.0,2025-04-08 00:00:00,Cash,No,519.87
+293,32,Chennai,South Indian,Takeaway,2,3.5,2025-04-08 08:00:00,UPI,No,450.33
+294,54,Hyderabad,North Indian,Dine-in,8,4.7,2025-04-08 16:00:00,Card,Yes,1274.81
+295,15,Hyderabad,North Indian,Dine-in,7,,2025-04-09 00:00:00,Card,No,1137.02
+296,25,Hyderabad,North Indian,Dine-in,2,3.6,2025-04-09 08:00:00,UPI,Yes,397.97
+297,42,Hyderabad,South Indian,Dine-in,1,4.2,2025-04-09 16:00:00,Cash,Yes,202.73
+298,39,Chennai,South Indian,Delivery,5,3.9,2025-04-10 00:00:00,Card,Yes,844.0
+299,64,Chennai,Fast Food,Dine-in,2,2.8,2025-04-10 08:00:00,Card,No,238.45
+300,37,Bengaluru,South Indian,Dine-in,2,4.2,2025-04-10 16:00:00,Cash,Yes,443.91
+301,45,Bengaluru,North Indian,Dine-in,3,3.3,2025-04-11 00:00:00,UPI,No,738.14
+302,44,Hyderabad,Chinese,Takeaway,5,4.7,2025-04-11 08:00:00,Card,No,805.84
+303,56,Mumbai,Italian,Takeaway,6,3.8,2025-04-11 16:00:00,Cash,No,1029.91
+304,49,Mumbai,North Indian,Dine-in,1,4.5,2025-04-12 00:00:00,Card,Yes,318.13
+305,21,Chennai,North Indian,Dine-in,2,3.6,2025-04-12 08:00:00,UPI,Yes,502.42
+306,30,Chennai,North Indian,Dine-in,5,4.0,2025-04-12 16:00:00,Card,Yes,828.85
+307,40,Chennai,Italian,Dine-in,8,4.8,2025-04-13 00:00:00,UPI,No,1155.73
+308,62,Bengaluru,Chinese,Takeaway,7,3.8,2025-04-13 08:00:00,Cash,Yes,1171.38
+309,66,Bengaluru,South Indian,Takeaway,5,3.6,2025-04-13 16:00:00,Cash,No,860.29
+310,63,Chennai,Fast Food,Dine-in,8,4.5,2025-04-14 00:00:00,Card,No,1272.35
+311,16,Chennai,Italian,Dine-in,1,4.4,2025-04-14 08:00:00,UPI,No,239.32
+312,15,Chennai,Chinese,Delivery,5,3.6,2025-04-14 16:00:00,UPI,No,861.49
+313,62,Mumbai,Fast Food,Dine-in,8,,2025-04-15 00:00:00,Cash,Yes,1328.94
+314,26,Bengaluru,North Indian,Takeaway,5,3.6,2025-04-15 08:00:00,UPI,Yes,875.58
+315,19,Mumbai,North Indian,Dine-in,5,4.5,2025-04-15 16:00:00,UPI,Yes,832.59
+316,51,Mumbai,North Indian,Dine-in,7,3.5,2025-04-16 00:00:00,Card,No,1180.74
+317,46,Chennai,North Indian,Dine-in,8,4.0,2025-04-16 08:00:00,UPI,Yes,1277.2
+318,69,Chennai,Chinese,Takeaway,8,3.5,2025-04-16 16:00:00,Cash,Yes,1351.36
+319,23,Hyderabad,Fast Food,Delivery,2,2.6,2025-04-17 00:00:00,UPI,No,349.8
+320,55,Hyderabad,North Indian,Dine-in,1,,2025-04-17 08:00:00,UPI,Yes,255.84
+321,49,Mumbai,North Indian,Dine-in,7,4.5,2025-04-17 16:00:00,UPI,No,1020.1
+322,33,Bengaluru,South Indian,Dine-in,5,2.3,2025-04-18 00:00:00,UPI,No,820.41
+323,62,Chennai,Fast Food,Dine-in,5,4.2,2025-04-18 08:00:00,Card,Yes,895.4
+324,30,Chennai,South Indian,Dine-in,2,3.2,2025-04-18 16:00:00,UPI,Yes,317.3
+325,17,Mumbai,South Indian,Dine-in,1,4.4,2025-04-19 00:00:00,Card,Yes,224.39
+326,34,Hyderabad,North Indian,Delivery,3,4.5,2025-04-19 08:00:00,Card,No,357.59
+327,38,Bengaluru,North Indian,Dine-in,7,3.9,2025-04-19 16:00:00,UPI,No,1040.55
+328,68,Hyderabad,Fast Food,Dine-in,2,3.9,2025-04-20 00:00:00,UPI,No,311.48
+329,47,Hyderabad,Fast Food,Delivery,1,3.4,2025-04-20 08:00:00,UPI,No,258.14
+330,38,Hyderabad,North Indian,Dine-in,7,3.1,2025-04-20 16:00:00,Card,No,1176.67
+331,66,Hyderabad,Fast Food,Delivery,5,,2025-04-21 00:00:00,UPI,Yes,845.52
+332,25,Chennai,Chinese,Dine-in,1,3.4,2025-04-21 08:00:00,UPI,Yes,219.39
+333,63,Chennai,Fast Food,Delivery,1,5.0,2025-04-21 16:00:00,Cash,No,219.67
+334,22,Hyderabad,South Indian,Takeaway,6,3.4,2025-04-22 00:00:00,Card,Yes,1057.28
+335,50,Bengaluru,South Indian,Delivery,1,4.4,2025-04-22 08:00:00,Card,Yes,267.03
+336,52,Mumbai,South Indian,Delivery,3,3.2,2025-04-22 16:00:00,Card,No,523.28
+337,54,Bengaluru,Chinese,Dine-in,1,4.4,2025-04-23 00:00:00,UPI,No,353.46
+338,34,Bengaluru,North Indian,Delivery,3,3.8,2025-04-23 08:00:00,UPI,No,706.0
+339,49,Bengaluru,North Indian,Dine-in,5,3.8,2025-04-23 16:00:00,UPI,No,750.34
+340,62,Hyderabad,South Indian,Dine-in,3,4.4,2025-04-24 00:00:00,UPI,Yes,591.8
+341,39,Chennai,Italian,Dine-in,7,3.7,2025-04-24 08:00:00,,No,1397.19
+342,49,Bengaluru,North Indian,Takeaway,5,3.0,2025-04-24 16:00:00,UPI,Yes,872.42
+343,39,Hyderabad,Chinese,Dine-in,5,4.5,2025-04-25 00:00:00,Card,Yes,859.24
+344,43,Bengaluru,Fast Food,Takeaway,3,3.2,2025-04-25 08:00:00,UPI,No,545.54
+345,32,Bengaluru,North Indian,Takeaway,8,,2025-04-25 16:00:00,Cash,Yes,1339.21
+346,60,Hyderabad,Chinese,Delivery,2,4.7,2025-04-26 00:00:00,UPI,No,460.39
+347,32,Chennai,South Indian,Delivery,4,3.7,2025-04-26 08:00:00,Card,Yes,600.42
+348,16,Chennai,Fast Food,Dine-in,8,4.8,2025-04-26 16:00:00,Card,No,1297.88
+349,68,Mumbai,North Indian,Dine-in,1,4.3,2025-04-27 00:00:00,UPI,No,80.0
+350,49,Hyderabad,Chinese,Dine-in,6,3.5,2025-04-27 08:00:00,Card,No,983.25
+351,30,Mumbai,Fast Food,Dine-in,4,5.0,2025-04-27 16:00:00,UPI,No,627.78
+352,55,Mumbai,Fast Food,Dine-in,1,3.2,2025-04-28 00:00:00,Card,Yes,277.13
+353,50,Mumbai,Chinese,Dine-in,8,3.7,2025-04-28 08:00:00,UPI,No,1167.49
+354,47,Chennai,South Indian,Dine-in,8,3.9,2025-04-28 16:00:00,Card,No,1259.01
+355,18,Hyderabad,Chinese,Delivery,1,4.4,2025-04-29 00:00:00,Cash,Yes,327.32
+356,47,Mumbai,Fast Food,Takeaway,5,4.8,2025-04-29 08:00:00,Card,No,795.89
+357,28,Hyderabad,Chinese,Dine-in,1,4.7,2025-04-29 16:00:00,Card,No,97.61
+358,35,Hyderabad,North Indian,Takeaway,6,4.2,2025-04-30 00:00:00,Cash,Yes,1020.6
+359,62,Chennai,Fast Food,Dine-in,8,3.8,2025-04-30 08:00:00,,No,1253.08
+360,34,Mumbai,Chinese,Dine-in,1,2.7,2025-04-30 16:00:00,Card,Yes,235.13
+361,22,Mumbai,Chinese,Takeaway,3,3.1,2025-05-01 00:00:00,Cash,No,491.61
+362,21,Hyderabad,North Indian,Dine-in,4,5.0,2025-05-01 08:00:00,UPI,Yes,857.95
+363,17,Bengaluru,Chinese,Dine-in,3,2.7,2025-05-01 16:00:00,UPI,No,425.35
+364,31,Chennai,South Indian,Delivery,6,3.5,2025-05-02 00:00:00,Cash,No,1226.68
+365,47,Chennai,Chinese,Delivery,1,4.8,2025-05-02 08:00:00,UPI,No,218.75
+366,62,Chennai,North Indian,Takeaway,7,4.1,2025-05-02 16:00:00,UPI,No,1164.68
+367,26,Chennai,Chinese,Takeaway,6,4.6,2025-05-03 00:00:00,Card,No,954.02
+368,65,Mumbai,Fast Food,Takeaway,5,4.4,2025-05-03 08:00:00,UPI,No,800.67
+369,36,Mumbai,North Indian,Dine-in,3,5.0,2025-05-03 16:00:00,Card,Yes,487.21
+370,69,Bengaluru,Fast Food,Dine-in,3,4.2,2025-05-04 00:00:00,UPI,No,598.1
+371,36,Chennai,South Indian,Dine-in,2,4.5,2025-05-04 08:00:00,Cash,No,287.14
+372,60,Chennai,Fast Food,Dine-in,1,3.5,2025-05-04 16:00:00,UPI,No,279.13
+373,44,Hyderabad,Italian,Takeaway,5,4.4,2025-05-05 00:00:00,UPI,No,675.24
+374,52,Mumbai,Chinese,Dine-in,7,3.7,2025-05-05 08:00:00,Cash,No,1171.88
+375,52,Chennai,Italian,Delivery,3,3.7,2025-05-05 16:00:00,Card,No,617.93
+376,59,Bengaluru,Fast Food,Delivery,3,4.6,2025-05-06 00:00:00,UPI,No,448.04
+377,65,Bengaluru,South Indian,Delivery,5,,2025-05-06 08:00:00,Card,Yes,904.3
+378,68,Mumbai,South Indian,Takeaway,6,5.0,2025-05-06 16:00:00,UPI,No,1004.11
+379,22,Bengaluru,Chinese,Delivery,6,5.0,2025-05-07 00:00:00,UPI,No,1127.87
+380,41,Bengaluru,Italian,Dine-in,1,4.6,2025-05-07 08:00:00,UPI,No,181.58
+381,41,Mumbai,Italian,Delivery,8,2.8,2025-05-07 16:00:00,UPI,No,1525.28
+382,48,Chennai,Italian,Dine-in,2,5.0,2025-05-08 00:00:00,UPI,Yes,208.74
+383,35,Chennai,South Indian,Delivery,3,4.6,2025-05-08 08:00:00,UPI,No,523.64
+384,44,Bengaluru,Italian,Dine-in,8,3.5,2025-05-08 16:00:00,Card,No,1164.11
+385,47,Bengaluru,North Indian,Delivery,8,4.5,2025-05-09 00:00:00,Card,Yes,1448.08
+386,42,Chennai,Chinese,Delivery,2,3.3,2025-05-09 08:00:00,Card,No,379.06
+387,61,Mumbai,North Indian,Dine-in,8,4.4,2025-05-09 16:00:00,UPI,Yes,1286.27
+388,47,Bengaluru,South Indian,Dine-in,8,3.1,2025-05-10 00:00:00,UPI,Yes,1335.46
+389,19,Hyderabad,South Indian,Delivery,6,3.4,2025-05-10 08:00:00,Cash,Yes,999.62
+390,62,Mumbai,South Indian,Dine-in,6,4.5,2025-05-10 16:00:00,UPI,No,952.5
+391,33,Bengaluru,Chinese,Delivery,4,4.8,2025-05-11 00:00:00,Card,No,599.47
+392,18,Bengaluru,South Indian,Takeaway,7,4.2,2025-05-11 08:00:00,Cash,No,1163.48
+393,49,Hyderabad,South Indian,Dine-in,1,3.8,2025-05-11 16:00:00,UPI,No,280.31
+394,63,Hyderabad,North Indian,Dine-in,8,2.5,2025-05-12 00:00:00,Card,No,1355.63
+395,31,Chennai,South Indian,Dine-in,4,3.9,2025-05-12 08:00:00,UPI,Yes,853.02
+396,58,Mumbai,North Indian,Delivery,7,4.4,2025-05-12 16:00:00,Card,Yes,976.1
+397,42,Mumbai,North Indian,Dine-in,4,3.8,2025-05-13 00:00:00,UPI,No,694.58
+398,44,Chennai,Chinese,Takeaway,4,4.0,2025-05-13 08:00:00,UPI,Yes,795.34
+399,43,Mumbai,Chinese,Dine-in,1,3.9,2025-05-13 16:00:00,Cash,No,240.04
+400,60,Mumbai,Chinese,Takeaway,1,3.8,2025-05-14 00:00:00,UPI,No,80.0
+401,67,Mumbai,South Indian,Delivery,5,4.1,2025-05-14 08:00:00,UPI,No,746.72
+402,20,Mumbai,South Indian,Delivery,2,3.8,2025-05-14 16:00:00,Card,No,426.29
+403,49,Mumbai,Fast Food,Dine-in,2,5.0,2025-05-15 00:00:00,Card,Yes,423.38
+404,55,Hyderabad,South Indian,Delivery,5,2.5,2025-05-15 08:00:00,UPI,Yes,903.8
+405,51,Mumbai,South Indian,Delivery,5,,2025-05-15 16:00:00,Card,No,787.52
+406,38,Hyderabad,North Indian,Takeaway,6,3.4,2025-05-16 00:00:00,Cash,No,1020.79
+407,43,Mumbai,South Indian,Delivery,7,4.2,2025-05-16 08:00:00,Cash,No,1074.33
+408,63,Chennai,South Indian,Dine-in,4,4.1,2025-05-16 16:00:00,Card,Yes,720.8
+409,60,Bengaluru,South Indian,Dine-in,8,5.0,2025-05-17 00:00:00,UPI,No,1304.26
+410,67,Hyderabad,Chinese,Delivery,5,5.0,2025-05-17 08:00:00,Card,No,784.33
+411,45,Mumbai,Chinese,Dine-in,3,3.5,2025-05-17 16:00:00,Card,No,674.65
+412,49,Chennai,Chinese,Delivery,2,4.0,2025-05-18 00:00:00,Cash,Yes,263.55
+413,47,Bengaluru,Italian,Delivery,5,4.1,2025-05-18 08:00:00,Card,No,838.67
+414,66,Hyderabad,Italian,Dine-in,3,3.4,2025-05-18 16:00:00,UPI,No,482.57
+415,35,Bengaluru,Italian,Delivery,3,4.4,2025-05-19 00:00:00,Card,Yes,696.74
+416,46,Chennai,Fast Food,Dine-in,3,3.8,2025-05-19 08:00:00,UPI,No,597.87
+417,37,Hyderabad,North Indian,Takeaway,6,3.3,2025-05-19 16:00:00,Card,No,948.06
+418,47,Bengaluru,North Indian,Takeaway,6,3.8,2025-05-20 00:00:00,Cash,No,977.62
+419,17,Mumbai,North Indian,Delivery,8,3.3,2025-05-20 08:00:00,,No,1448.9
+420,32,Hyderabad,Chinese,Dine-in,8,4.7,2025-05-20 16:00:00,Card,Yes,1224.3
+421,39,Bengaluru,Fast Food,Dine-in,3,5.0,2025-05-21 00:00:00,UPI,No,408.84
+422,56,Chennai,North Indian,Takeaway,7,4.2,2025-05-21 08:00:00,UPI,No,1173.28
+423,45,Chennai,Fast Food,Delivery,6,4.1,2025-05-21 16:00:00,Cash,No,1025.09
+424,68,Hyderabad,North Indian,Takeaway,4,4.1,2025-05-22 00:00:00,Cash,No,753.28
+425,17,Bengaluru,Fast Food,Dine-in,3,4.8,2025-05-22 08:00:00,UPI,No,603.81
+426,54,Hyderabad,South Indian,Dine-in,4,4.8,2025-05-22 16:00:00,Card,Yes,841.66
+427,60,Hyderabad,North Indian,Dine-in,4,3.9,2025-05-23 00:00:00,Cash,No,562.55
+428,38,Bengaluru,South Indian,Delivery,3,4.2,2025-05-23 08:00:00,,No,453.78
+429,64,Bengaluru,North Indian,Dine-in,2,4.5,2025-05-23 16:00:00,Cash,Yes,452.98
+430,46,Mumbai,South Indian,Dine-in,7,3.2,2025-05-24 00:00:00,UPI,No,1061.55
+431,61,Bengaluru,South Indian,Delivery,3,4.8,2025-05-24 08:00:00,Cash,No,433.47
+432,36,Chennai,Italian,Dine-in,8,5.0,2025-05-24 16:00:00,Card,No,1449.27
+433,37,Hyderabad,Chinese,Delivery,3,4.8,2025-05-25 00:00:00,UPI,Yes,420.4
+434,16,Hyderabad,South Indian,Takeaway,6,3.1,2025-05-25 08:00:00,Card,No,971.9
+435,41,Chennai,Chinese,Delivery,3,2.6,2025-05-25 16:00:00,Cash,Yes,545.25
+436,56,Bengaluru,Italian,Dine-in,2,4.5,2025-05-26 00:00:00,UPI,No,504.73
+437,16,Chennai,North Indian,Dine-in,6,3.5,2025-05-26 08:00:00,Cash,No,850.5
+438,40,Chennai,South Indian,Delivery,8,4.2,2025-05-26 16:00:00,UPI,No,1333.24
+439,31,Mumbai,North Indian,Delivery,1,5.0,2025-05-27 00:00:00,UPI,No,178.77
+440,54,Chennai,North Indian,Delivery,1,3.5,2025-05-27 08:00:00,Card,No,300.21
+441,47,Hyderabad,Chinese,Dine-in,4,,2025-05-27 16:00:00,UPI,No,627.46
+442,23,Chennai,North Indian,Delivery,7,4.2,2025-05-28 00:00:00,Card,No,1275.78
+443,57,Hyderabad,South Indian,Delivery,4,3.1,2025-05-28 08:00:00,Card,No,627.92
+444,68,Hyderabad,Italian,Takeaway,2,3.5,2025-05-28 16:00:00,UPI,No,203.04
+445,62,Hyderabad,North Indian,Delivery,5,4.0,2025-05-29 00:00:00,UPI,No,786.89
+446,53,Bengaluru,Chinese,Delivery,8,3.8,2025-05-29 08:00:00,Card,No,1279.1
+447,43,Mumbai,North Indian,Takeaway,7,4.4,2025-05-29 16:00:00,UPI,No,1236.59
+448,56,Hyderabad,Fast Food,Dine-in,8,5.0,2025-05-30 00:00:00,UPI,No,1199.33
+449,69,Hyderabad,South Indian,Dine-in,1,4.1,2025-05-30 08:00:00,UPI,Yes,150.91
+450,40,Bengaluru,Italian,Dine-in,4,3.4,2025-05-30 16:00:00,UPI,Yes,776.85
+451,49,Hyderabad,Chinese,Dine-in,8,5.0,2025-05-31 00:00:00,Card,No,1189.98
+452,64,Chennai,North Indian,Dine-in,1,2.9,2025-05-31 08:00:00,Card,No,235.68
+453,39,Chennai,Chinese,Dine-in,2,3.0,2025-05-31 16:00:00,UPI,No,387.31
+454,38,Mumbai,Fast Food,Dine-in,2,3.6,2025-06-01 00:00:00,Cash,No,417.41
+455,27,Hyderabad,Chinese,Dine-in,5,3.8,2025-06-01 08:00:00,UPI,Yes,790.01
+456,21,Bengaluru,Italian,Delivery,8,3.6,2025-06-01 16:00:00,Card,No,1225.84
+457,50,Chennai,Fast Food,Delivery,5,4.0,2025-06-02 00:00:00,Card,No,876.79
+458,59,Bengaluru,North Indian,Dine-in,6,4.2,2025-06-02 08:00:00,Card,No,928.32
+459,34,Bengaluru,North Indian,Delivery,7,4.7,2025-06-02 16:00:00,UPI,No,1041.2
+460,15,Chennai,Chinese,Takeaway,8,4.1,2025-06-03 00:00:00,Cash,Yes,1398.22
+461,22,Bengaluru,South Indian,Dine-in,2,3.6,2025-06-03 08:00:00,UPI,Yes,439.05
+462,60,Chennai,Fast Food,Dine-in,4,4.7,2025-06-03 16:00:00,Cash,No,841.4
+463,30,Bengaluru,Fast Food,Takeaway,1,3.4,2025-06-04 00:00:00,Cash,No,312.72
+464,28,Chennai,South Indian,Delivery,3,2.9,2025-06-04 08:00:00,Card,No,448.55
+465,26,Hyderabad,North Indian,Delivery,5,4.8,2025-06-04 16:00:00,UPI,Yes,857.71
+466,65,Mumbai,Italian,Dine-in,3,4.8,2025-06-05 00:00:00,Card,Yes,468.75
+467,37,Chennai,North Indian,Dine-in,8,3.4,2025-06-05 08:00:00,Card,No,1167.87
+468,29,Chennai,Fast Food,Dine-in,4,3.7,2025-06-05 16:00:00,Cash,No,664.22
+469,42,Mumbai,South Indian,Dine-in,5,3.4,2025-06-06 00:00:00,Card,No,928.52
+470,48,Chennai,Chinese,Dine-in,3,4.2,2025-06-06 08:00:00,UPI,Yes,571.99
+471,16,Chennai,North Indian,Dine-in,7,5.0,2025-06-06 16:00:00,UPI,No,1038.73
+472,46,Bengaluru,Chinese,Delivery,4,4.5,2025-06-07 00:00:00,Card,Yes,661.41
+473,37,Mumbai,South Indian,Delivery,1,4.7,2025-06-07 08:00:00,UPI,Yes,238.57
+474,36,Hyderabad,Chinese,Dine-in,7,4.6,2025-06-07 16:00:00,UPI,No,1014.87
+475,65,Chennai,North Indian,Delivery,4,4.0,2025-06-08 00:00:00,Cash,Yes,757.05
+476,39,Mumbai,Italian,Dine-in,6,4.8,2025-06-08 08:00:00,UPI,Yes,981.7
+477,36,Bengaluru,Fast Food,Dine-in,5,4.5,2025-06-08 16:00:00,UPI,No,738.75
+478,36,Hyderabad,North Indian,Dine-in,2,5.0,2025-06-09 00:00:00,Cash,No,284.23
+479,63,Mumbai,North Indian,Takeaway,1,3.7,2025-06-09 08:00:00,Cash,No,338.05
+480,66,Hyderabad,North Indian,Delivery,8,2.8,2025-06-09 16:00:00,UPI,No,1269.53
+481,56,Hyderabad,Chinese,Takeaway,7,4.7,2025-06-10 00:00:00,UPI,Yes,1245.23
+482,20,Hyderabad,Chinese,Dine-in,7,4.2,2025-06-10 08:00:00,Cash,Yes,1275.77
+483,29,Chennai,Chinese,Takeaway,3,3.8,2025-06-10 16:00:00,Card,No,631.8
+484,68,Chennai,North Indian,Dine-in,5,3.8,2025-06-11 00:00:00,Card,No,807.33
+485,57,Bengaluru,South Indian,Delivery,8,5.0,2025-06-11 08:00:00,UPI,No,1100.17
+486,51,Bengaluru,Chinese,Takeaway,2,3.6,2025-06-11 16:00:00,UPI,Yes,425.04
+487,47,Mumbai,South Indian,Dine-in,4,3.4,2025-06-12 00:00:00,UPI,No,867.33
+488,22,Bengaluru,Fast Food,Takeaway,2,4.1,2025-06-12 08:00:00,Card,Yes,397.17
+489,67,Hyderabad,North Indian,Takeaway,5,4.8,2025-06-12 16:00:00,UPI,No,690.81
+490,58,Hyderabad,Chinese,Dine-in,5,5.0,2025-06-13 00:00:00,UPI,No,796.01
+491,58,Chennai,South Indian,Takeaway,6,4.5,2025-06-13 08:00:00,Card,No,985.3
+492,19,Hyderabad,South Indian,Dine-in,6,3.1,2025-06-13 16:00:00,Cash,No,912.16
+493,53,Mumbai,Italian,Delivery,2,5.0,2025-06-14 00:00:00,UPI,No,194.88
+494,18,Hyderabad,Chinese,Delivery,4,4.0,2025-06-14 08:00:00,UPI,No,692.17
+495,20,Hyderabad,Fast Food,Delivery,2,3.4,2025-06-14 16:00:00,Card,No,337.21
+496,59,Mumbai,North Indian,Takeaway,5,3.2,2025-06-15 00:00:00,UPI,Yes,991.82
+497,46,Bengaluru,North Indian,Takeaway,5,4.6,2025-06-15 08:00:00,Card,No,858.08
+498,66,Bengaluru,Italian,Dine-in,3,4.2,2025-06-15 16:00:00,UPI,Yes,587.57
+499,44,Mumbai,Chinese,Delivery,6,4.2,2025-06-16 00:00:00,,No,990.47
+500,61,Chennai,North Indian,Dine-in,8,4.9,2025-06-16 08:00:00,UPI,No,1307.5
+501,49,Hyderabad,North Indian,Dine-in,8,3.4,2025-06-16 16:00:00,UPI,No,1167.82
+502,69,Mumbai,North Indian,Dine-in,8,5.0,2025-06-17 00:00:00,UPI,No,1216.79
+503,54,Hyderabad,Fast Food,Dine-in,3,3.6,2025-06-17 08:00:00,Card,Yes,637.09
+504,66,Chennai,North Indian,Takeaway,1,5.0,2025-06-17 16:00:00,UPI,No,266.76
+505,30,Hyderabad,South Indian,Dine-in,8,4.4,2025-06-18 00:00:00,Cash,No,1268.12
+506,27,Mumbai,North Indian,Delivery,5,3.4,2025-06-18 08:00:00,Card,No,888.89
+507,64,Hyderabad,South Indian,Dine-in,3,2.6,2025-06-18 16:00:00,Card,Yes,590.47
+508,56,Bengaluru,North Indian,Dine-in,2,4.6,2025-06-19 00:00:00,Card,No,559.27
+509,44,Chennai,South Indian,Takeaway,6,3.7,2025-06-19 08:00:00,UPI,No,1013.05
+510,33,Chennai,North Indian,Dine-in,6,,2025-06-19 16:00:00,Card,Yes,915.0
+511,31,Chennai,Italian,Dine-in,4,4.5,2025-06-20 00:00:00,UPI,Yes,690.74
+512,33,Mumbai,North Indian,Delivery,2,4.7,2025-06-20 08:00:00,UPI,No,448.61
+513,42,Chennai,Chinese,Dine-in,4,4.9,2025-06-20 16:00:00,Card,No,779.65
+514,69,Bengaluru,Fast Food,Delivery,3,,2025-06-21 00:00:00,UPI,No,420.8
+515,40,Mumbai,Chinese,Dine-in,7,5.0,2025-06-21 08:00:00,Card,No,1170.3
+516,51,Bengaluru,Chinese,Dine-in,8,3.6,2025-06-21 16:00:00,Card,No,1228.22
+517,40,Hyderabad,South Indian,Delivery,1,2.4,2025-06-22 00:00:00,UPI,No,204.67
+518,67,Hyderabad,South Indian,Dine-in,2,3.2,2025-06-22 08:00:00,Card,Yes,467.67
+519,37,Hyderabad,Chinese,Dine-in,2,4.2,2025-06-22 16:00:00,Cash,Yes,459.7
+520,23,Hyderabad,Fast Food,Dine-in,2,3.3,2025-06-23 00:00:00,UPI,No,345.75
+521,26,Bengaluru,Chinese,Dine-in,4,3.9,2025-06-23 08:00:00,UPI,No,687.37
+522,67,Mumbai,Chinese,Delivery,3,4.2,2025-06-23 16:00:00,Card,No,507.11
+523,15,Mumbai,Italian,Dine-in,2,3.9,2025-06-24 00:00:00,UPI,No,631.34
+524,15,Chennai,South Indian,Delivery,7,3.7,2025-06-24 08:00:00,UPI,Yes,1172.27
+525,61,Bengaluru,North Indian,Delivery,2,3.1,2025-06-24 16:00:00,UPI,No,332.84
+526,48,Hyderabad,Chinese,Dine-in,6,4.0,2025-06-25 00:00:00,Cash,Yes,1105.77
+527,46,Bengaluru,Fast Food,Delivery,8,2.6,2025-06-25 08:00:00,UPI,No,1408.6
+528,68,Chennai,North Indian,Dine-in,1,3.5,2025-06-25 16:00:00,UPI,No,393.33
+529,62,Chennai,Chinese,Delivery,8,3.4,2025-06-26 00:00:00,UPI,No,1467.04
+530,39,Bengaluru,North Indian,Dine-in,6,3.8,2025-06-26 08:00:00,UPI,No,1056.62
+531,54,Bengaluru,Chinese,Takeaway,6,3.9,2025-06-26 16:00:00,Card,Yes,972.01
+532,59,Bengaluru,North Indian,Dine-in,1,4.7,2025-06-27 00:00:00,Cash,No,233.79
+533,67,Mumbai,South Indian,Dine-in,7,,2025-06-27 08:00:00,Card,Yes,1126.63
+534,15,Hyderabad,Italian,Takeaway,3,3.2,2025-06-27 16:00:00,Card,No,517.7
+535,30,Bengaluru,South Indian,Delivery,6,5.0,2025-06-28 00:00:00,,No,1099.19
+536,53,Bengaluru,Chinese,Dine-in,3,3.5,2025-06-28 08:00:00,Card,No,550.06
+537,19,Bengaluru,Italian,Dine-in,6,4.1,2025-06-28 16:00:00,UPI,No,1077.71
+538,36,Chennai,Fast Food,Delivery,5,4.4,2025-06-29 00:00:00,UPI,Yes,904.12
+539,43,Chennai,North Indian,Takeaway,1,5.0,2025-06-29 08:00:00,Card,No,162.11
+540,69,Mumbai,South Indian,Delivery,6,3.6,2025-06-29 16:00:00,Card,Yes,862.63
+541,17,Hyderabad,North Indian,Delivery,5,2.7,2025-06-30 00:00:00,UPI,No,751.07
+542,26,Mumbai,Fast Food,Delivery,8,5.0,2025-06-30 08:00:00,UPI,Yes,1265.86
+543,40,Hyderabad,Fast Food,Delivery,4,,2025-06-30 16:00:00,Card,Yes,710.75
+544,30,Chennai,Chinese,Dine-in,5,3.7,2025-07-01 00:00:00,Card,No,798.14
+545,65,Chennai,Fast Food,Dine-in,2,,2025-07-01 08:00:00,UPI,No,456.25
+546,51,Chennai,South Indian,Delivery,6,3.7,2025-07-01 16:00:00,UPI,Yes,957.79
+547,36,Mumbai,Chinese,Takeaway,5,3.4,2025-07-02 00:00:00,Card,No,870.56
+548,43,Bengaluru,North Indian,Dine-in,3,4.5,2025-07-02 08:00:00,UPI,No,559.41
+549,28,Bengaluru,Italian,Dine-in,4,4.1,2025-07-02 16:00:00,Cash,No,838.75
+550,42,Chennai,North Indian,Delivery,7,3.5,2025-07-03 00:00:00,Cash,Yes,1071.98
+551,19,Bengaluru,Fast Food,Takeaway,6,4.7,2025-07-03 08:00:00,Card,No,1176.67
+552,61,Bengaluru,Italian,Dine-in,2,4.2,2025-07-03 16:00:00,Card,No,352.45
+553,63,Mumbai,Italian,Dine-in,7,2.7,2025-07-04 00:00:00,Card,No,1042.8
+554,44,Hyderabad,North Indian,Dine-in,5,4.6,2025-07-04 08:00:00,,No,832.65
+555,60,Chennai,South Indian,Dine-in,7,4.1,2025-07-04 16:00:00,Card,No,1409.21
+556,66,Chennai,North Indian,Dine-in,7,5.0,2025-07-05 00:00:00,Cash,No,1221.62
+557,19,Mumbai,South Indian,Dine-in,4,4.1,2025-07-05 08:00:00,Card,No,748.24
+558,26,Mumbai,North Indian,Delivery,8,3.4,2025-07-05 16:00:00,UPI,Yes,1363.61
+559,30,Bengaluru,Fast Food,Dine-in,7,3.9,2025-07-06 00:00:00,Card,Yes,1088.43
+560,40,Chennai,Chinese,Delivery,7,4.6,2025-07-06 08:00:00,Card,No,1176.08
+561,40,Hyderabad,South Indian,Delivery,6,3.5,2025-07-06 16:00:00,UPI,Yes,1000.2
+562,62,Mumbai,South Indian,Dine-in,8,3.7,2025-07-07 00:00:00,UPI,No,1444.73
+563,35,Hyderabad,South Indian,Takeaway,4,3.8,2025-07-07 08:00:00,Card,No,691.3
+564,53,Hyderabad,Chinese,Dine-in,2,3.2,2025-07-07 16:00:00,UPI,Yes,369.74
+565,50,Chennai,South Indian,Delivery,5,3.5,2025-07-08 00:00:00,UPI,No,756.82
+566,47,Chennai,Fast Food,Dine-in,4,4.1,2025-07-08 08:00:00,UPI,No,711.2
+567,44,Mumbai,South Indian,Takeaway,4,4.8,2025-07-08 16:00:00,Cash,No,723.44
+568,51,Chennai,Fast Food,Takeaway,1,4.2,2025-07-09 00:00:00,UPI,No,153.87
+569,37,Chennai,Fast Food,Dine-in,4,4.0,2025-07-09 08:00:00,Cash,No,736.25
+570,24,Chennai,North Indian,Dine-in,8,3.4,2025-07-09 16:00:00,UPI,No,1318.65
+571,68,Hyderabad,Fast Food,Takeaway,1,4.8,2025-07-10 00:00:00,UPI,No,331.08
+572,19,Mumbai,North Indian,Delivery,5,4.3,2025-07-10 08:00:00,Card,No,946.99
+573,50,Bengaluru,Italian,Dine-in,7,3.5,2025-07-10 16:00:00,UPI,Yes,1157.54
+574,48,Hyderabad,South Indian,Takeaway,6,4.6,2025-07-11 00:00:00,Cash,Yes,917.09
+575,66,Chennai,Fast Food,Dine-in,6,4.4,2025-07-11 08:00:00,UPI,No,933.55
+576,45,Hyderabad,Fast Food,Delivery,5,3.4,2025-07-11 16:00:00,Card,Yes,990.97
+577,24,Chennai,Italian,Dine-in,5,3.9,2025-07-12 00:00:00,Card,Yes,863.24
+578,33,Chennai,Italian,Delivery,8,3.7,2025-07-12 08:00:00,Cash,No,1439.69
+579,46,Hyderabad,South Indian,Dine-in,3,5.0,2025-07-12 16:00:00,UPI,Yes,589.89
+580,15,Mumbai,North Indian,Dine-in,7,4.4,2025-07-13 00:00:00,Cash,No,1210.3
+581,19,Chennai,South Indian,Dine-in,5,4.1,2025-07-13 08:00:00,Cash,No,925.1
+582,59,Mumbai,North Indian,Dine-in,4,4.3,2025-07-13 16:00:00,Card,No,602.15
+583,18,Bengaluru,Chinese,Takeaway,8,5.0,2025-07-14 00:00:00,UPI,No,1324.56
+584,30,Chennai,South Indian,Dine-in,6,3.9,2025-07-14 08:00:00,UPI,Yes,901.04
+585,38,Mumbai,Fast Food,Delivery,2,3.6,2025-07-14 16:00:00,Cash,No,377.21
+586,30,Mumbai,Chinese,Dine-in,8,4.6,2025-07-15 00:00:00,Card,No,1351.21
+587,69,Bengaluru,Fast Food,Dine-in,6,3.9,2025-07-15 08:00:00,Card,No,917.97
+588,16,Mumbai,North Indian,Dine-in,1,3.3,2025-07-15 16:00:00,Card,No,294.75
+589,63,Mumbai,Fast Food,Dine-in,8,3.1,2025-07-16 00:00:00,,Yes,1180.13
+590,42,Bengaluru,Fast Food,Dine-in,6,5.0,2025-07-16 08:00:00,UPI,No,1091.47
+591,46,Chennai,South Indian,Dine-in,3,4.1,2025-07-16 16:00:00,Card,Yes,496.85
+592,41,Mumbai,Chinese,Dine-in,8,3.6,2025-07-17 00:00:00,Card,No,1217.83
+593,34,Mumbai,Italian,Dine-in,8,3.8,2025-07-17 08:00:00,Card,No,1185.17
+594,38,Mumbai,North Indian,Takeaway,7,4.6,2025-07-17 16:00:00,UPI,Yes,1103.65
+595,26,Hyderabad,South Indian,Takeaway,5,3.8,2025-07-18 00:00:00,UPI,Yes,697.39
+596,64,Bengaluru,South Indian,Dine-in,7,3.0,2025-07-18 08:00:00,UPI,Yes,1106.13
+597,49,Hyderabad,North Indian,Dine-in,8,4.2,2025-07-18 16:00:00,Card,No,1387.96
+598,47,Bengaluru,South Indian,Delivery,5,4.8,2025-07-19 00:00:00,Cash,No,834.9
+599,47,Chennai,North Indian,Takeaway,6,4.8,2025-07-19 08:00:00,Card,Yes,905.8
+600,65,Chennai,North Indian,Takeaway,2,3.6,2025-07-19 16:00:00,Card,No,418.1
+601,57,Mumbai,North Indian,Dine-in,2,4.9,2025-07-20 00:00:00,UPI,Yes,411.03
+602,51,Bengaluru,Fast Food,Delivery,8,4.1,2025-07-20 08:00:00,UPI,No,1456.53
+603,26,Chennai,Chinese,Delivery,3,,2025-07-20 16:00:00,UPI,Yes,613.26
+604,17,Bengaluru,Fast Food,Takeaway,1,4.4,2025-07-21 00:00:00,UPI,No,274.45
+605,15,Chennai,South Indian,Delivery,6,2.9,2025-07-21 08:00:00,Card,No,1072.41
+606,47,Hyderabad,South Indian,Dine-in,5,5.0,2025-07-21 16:00:00,UPI,No,839.25
+607,54,Chennai,South Indian,Dine-in,8,4.0,2025-07-22 00:00:00,Card,No,1293.97
+608,24,Hyderabad,South Indian,Delivery,6,4.4,2025-07-22 08:00:00,Cash,No,1132.72
+609,57,Chennai,North Indian,Delivery,8,3.1,2025-07-22 16:00:00,UPI,No,1169.15
+610,58,Mumbai,Chinese,Dine-in,3,4.4,2025-07-23 00:00:00,Cash,No,627.44
+611,43,Hyderabad,North Indian,Dine-in,4,4.8,2025-07-23 08:00:00,Card,No,691.14
+612,27,Chennai,Chinese,Dine-in,4,5.0,2025-07-23 16:00:00,Card,No,676.68
+613,26,Mumbai,Chinese,Dine-in,3,5.0,2025-07-24 00:00:00,UPI,Yes,505.77
+614,45,Hyderabad,North Indian,Delivery,5,4.4,2025-07-24 08:00:00,UPI,No,862.29
+615,60,Mumbai,North Indian,Takeaway,7,2.9,2025-07-24 16:00:00,Card,Yes,1146.52
+616,16,Bengaluru,Italian,Dine-in,3,4.1,2025-07-25 00:00:00,UPI,No,516.82
+617,65,Bengaluru,South Indian,Dine-in,8,3.6,2025-07-25 08:00:00,Card,No,1243.79
+618,64,Hyderabad,North Indian,Dine-in,5,4.2,2025-07-25 16:00:00,Card,No,697.57
+619,49,Chennai,Fast Food,Dine-in,2,3.1,2025-07-26 00:00:00,UPI,Yes,342.1
+620,37,Hyderabad,North Indian,Takeaway,3,3.9,2025-07-26 08:00:00,UPI,Yes,509.02
+621,31,Mumbai,Chinese,Delivery,5,3.6,2025-07-26 16:00:00,UPI,No,862.1
+622,40,Chennai,Fast Food,Delivery,3,3.6,2025-07-27 00:00:00,Card,No,707.05
+623,22,Bengaluru,North Indian,Dine-in,3,3.6,2025-07-27 08:00:00,UPI,No,500.72
+624,43,Chennai,North Indian,Delivery,7,3.9,2025-07-27 16:00:00,UPI,No,1068.1
+625,40,Bengaluru,North Indian,Delivery,7,4.2,2025-07-28 00:00:00,UPI,No,1092.84
+626,24,Chennai,South Indian,Delivery,8,2.3,2025-07-28 08:00:00,Cash,No,1312.27
+627,40,Chennai,North Indian,Dine-in,5,2.3,2025-07-28 16:00:00,UPI,Yes,897.09
+628,48,Chennai,Chinese,Dine-in,5,,2025-07-29 00:00:00,UPI,No,908.27
+629,65,Mumbai,North Indian,Dine-in,1,3.9,2025-07-29 08:00:00,Card,Yes,316.22
+630,55,Mumbai,South Indian,Dine-in,3,4.1,2025-07-29 16:00:00,Card,No,627.54
+631,21,Hyderabad,Fast Food,Dine-in,4,3.5,2025-07-30 00:00:00,Card,Yes,677.69
+632,18,Hyderabad,Italian,Dine-in,3,4.0,2025-07-30 08:00:00,UPI,No,714.25
+633,67,Bengaluru,Chinese,Dine-in,3,4.1,2025-07-30 16:00:00,UPI,Yes,521.62
+634,64,Mumbai,South Indian,Delivery,5,3.5,2025-07-31 00:00:00,UPI,Yes,858.75
+635,59,Bengaluru,Chinese,Dine-in,3,4.7,2025-07-31 08:00:00,UPI,No,653.67
+636,25,Hyderabad,South Indian,Dine-in,6,4.1,2025-07-31 16:00:00,UPI,Yes,1045.31
+637,43,Bengaluru,South Indian,Delivery,3,4.4,2025-08-01 00:00:00,Cash,Yes,370.73
+638,50,Hyderabad,North Indian,Delivery,6,4.0,2025-08-01 08:00:00,Card,No,1000.45
+639,39,Mumbai,Fast Food,Delivery,7,5.0,2025-08-01 16:00:00,Card,Yes,1218.96
+640,35,Chennai,South Indian,Delivery,4,4.4,2025-08-02 00:00:00,Card,Yes,592.52
+641,50,Mumbai,North Indian,Takeaway,8,3.7,2025-08-02 08:00:00,Cash,No,1360.06
+642,24,Bengaluru,South Indian,Delivery,5,4.6,2025-08-02 16:00:00,UPI,No,881.21
+643,51,Bengaluru,South Indian,Dine-in,3,2.9,2025-08-03 00:00:00,Card,No,644.71
+644,23,Mumbai,Fast Food,Dine-in,6,4.1,2025-08-03 08:00:00,Card,No,944.65
+645,38,Mumbai,Italian,Dine-in,6,4.2,2025-08-03 16:00:00,Card,No,1079.67
+646,49,Hyderabad,Italian,Dine-in,7,4.1,2025-08-04 00:00:00,Cash,Yes,1162.77
+647,63,Bengaluru,North Indian,Dine-in,6,3.8,2025-08-04 08:00:00,UPI,No,1141.28
+648,49,Bengaluru,South Indian,Takeaway,8,3.3,2025-08-04 16:00:00,UPI,No,1522.88
+649,62,Mumbai,South Indian,Delivery,2,3.4,2025-08-05 00:00:00,UPI,No,523.07
+650,50,Chennai,North Indian,Takeaway,1,4.1,2025-08-05 08:00:00,Cash,No,288.44
+651,32,Bengaluru,North Indian,Dine-in,8,3.2,2025-08-05 16:00:00,UPI,Yes,1485.68
+652,63,Chennai,Italian,Delivery,4,5.0,2025-08-06 00:00:00,UPI,No,748.28
+653,53,Mumbai,North Indian,Takeaway,8,2.2,2025-08-06 08:00:00,UPI,No,1227.36
+654,46,Mumbai,Chinese,Dine-in,7,3.8,2025-08-06 16:00:00,Cash,No,1146.86
+655,38,Hyderabad,North Indian,Takeaway,7,,2025-08-07 00:00:00,UPI,Yes,1210.93
+656,37,Bengaluru,North Indian,Dine-in,8,4.4,2025-08-07 08:00:00,UPI,Yes,1366.08
+657,46,Chennai,North Indian,Dine-in,3,3.4,2025-08-07 16:00:00,UPI,Yes,459.98
+658,51,Hyderabad,Fast Food,Delivery,2,4.8,2025-08-08 00:00:00,UPI,No,312.52
+659,26,Bengaluru,Italian,Dine-in,3,3.0,2025-08-08 08:00:00,Card,Yes,522.7
+660,63,Hyderabad,Fast Food,Dine-in,3,3.6,2025-08-08 16:00:00,UPI,Yes,592.76
+661,69,Mumbai,South Indian,Delivery,8,4.4,2025-08-09 00:00:00,Cash,No,1353.01
+662,27,Bengaluru,North Indian,Delivery,5,4.7,2025-08-09 08:00:00,UPI,Yes,861.3
+663,37,Hyderabad,Chinese,Dine-in,5,3.0,2025-08-09 16:00:00,Cash,No,783.25
+664,39,Hyderabad,South Indian,Dine-in,5,5.0,2025-08-10 00:00:00,,No,988.96
+665,49,Chennai,Fast Food,Dine-in,2,3.4,2025-08-10 08:00:00,Card,No,314.24
+666,55,Hyderabad,North Indian,Takeaway,3,3.1,2025-08-10 16:00:00,UPI,No,654.19
+667,44,Bengaluru,South Indian,Dine-in,1,4.4,2025-08-11 00:00:00,Cash,No,309.11
+668,31,Bengaluru,North Indian,Dine-in,4,3.8,2025-08-11 08:00:00,UPI,No,802.43
+669,63,Chennai,South Indian,Delivery,5,3.7,2025-08-11 16:00:00,UPI,Yes,814.45
+670,34,Bengaluru,Italian,Takeaway,5,4.4,2025-08-12 00:00:00,Cash,Yes,838.59
+671,62,Mumbai,South Indian,Dine-in,7,2.9,2025-08-12 08:00:00,Cash,Yes,1154.4
+672,39,Bengaluru,South Indian,Takeaway,3,2.8,2025-08-12 16:00:00,Cash,No,511.89
+673,36,Bengaluru,South Indian,Takeaway,3,3.6,2025-08-13 00:00:00,UPI,No,568.02
+674,27,Hyderabad,South Indian,Dine-in,2,4.8,2025-08-13 08:00:00,UPI,No,526.33
+675,33,Hyderabad,Italian,Dine-in,2,3.6,2025-08-13 16:00:00,Card,No,296.25
+676,63,Bengaluru,Fast Food,Delivery,5,5.0,2025-08-14 00:00:00,Cash,Yes,797.42
+677,50,Chennai,Fast Food,Dine-in,3,4.8,2025-08-14 08:00:00,UPI,No,488.74
+678,26,Hyderabad,Italian,Takeaway,1,4.2,2025-08-14 16:00:00,UPI,No,242.45
+679,55,Chennai,South Indian,Dine-in,4,4.2,2025-08-15 00:00:00,UPI,Yes,689.16
+680,33,Bengaluru,Chinese,Dine-in,8,4.2,2025-08-15 08:00:00,UPI,No,1361.79
+681,26,Bengaluru,South Indian,Dine-in,3,4.1,2025-08-15 16:00:00,Cash,Yes,552.7
+682,23,Mumbai,North Indian,Dine-in,7,3.7,2025-08-16 00:00:00,Cash,No,1174.23
+683,21,Hyderabad,Fast Food,Dine-in,8,3.8,2025-08-16 08:00:00,Cash,No,1331.88
+684,42,Bengaluru,North Indian,Dine-in,3,3.3,2025-08-16 16:00:00,Card,Yes,569.63
+685,28,Mumbai,Fast Food,Delivery,6,2.5,2025-08-17 00:00:00,Cash,No,1056.27
+686,45,Hyderabad,South Indian,Delivery,2,4.8,2025-08-17 08:00:00,Card,Yes,390.21
+687,66,Bengaluru,Chinese,Delivery,7,4.1,2025-08-17 16:00:00,Card,No,1281.71
+688,33,Bengaluru,Chinese,Delivery,4,4.0,2025-08-18 00:00:00,UPI,No,903.33
+689,61,Hyderabad,Fast Food,Dine-in,5,4.3,2025-08-18 08:00:00,UPI,Yes,906.5
+690,30,Hyderabad,Chinese,Delivery,7,3.4,2025-08-18 16:00:00,UPI,No,1168.24
+691,67,Hyderabad,Chinese,Dine-in,3,3.3,2025-08-19 00:00:00,UPI,No,599.97
+692,19,Bengaluru,North Indian,Delivery,5,3.8,2025-08-19 08:00:00,Cash,No,761.92
+693,49,Bengaluru,South Indian,Delivery,3,5.0,2025-08-19 16:00:00,,Yes,564.41
+694,26,Mumbai,North Indian,Delivery,5,3.2,2025-08-20 00:00:00,Card,No,791.49
+695,39,Chennai,Italian,Delivery,4,2.2,2025-08-20 08:00:00,UPI,No,740.8
+696,66,Hyderabad,South Indian,Takeaway,2,3.6,2025-08-20 16:00:00,Card,Yes,341.89
+697,35,Bengaluru,Chinese,Dine-in,4,4.8,2025-08-21 00:00:00,UPI,Yes,672.42
+698,50,Bengaluru,North Indian,Dine-in,6,2.8,2025-08-21 08:00:00,Card,Yes,850.24
+699,67,Hyderabad,North Indian,Takeaway,1,3.2,2025-08-21 16:00:00,Card,No,156.14
+700,37,Chennai,Italian,Dine-in,2,4.2,2025-08-22 00:00:00,UPI,Yes,428.39
+701,30,Hyderabad,North Indian,Takeaway,4,5.0,2025-08-22 08:00:00,Cash,No,630.49
+702,53,Chennai,North Indian,Delivery,6,3.0,2025-08-22 16:00:00,UPI,No,1085.1
+703,59,Bengaluru,North Indian,Dine-in,1,3.0,2025-08-23 00:00:00,UPI,No,173.69
+704,67,Chennai,Fast Food,Delivery,6,4.2,2025-08-23 08:00:00,UPI,No,1036.26
+705,56,Mumbai,Italian,Delivery,3,4.8,2025-08-23 16:00:00,UPI,No,489.05
+706,53,Bengaluru,South Indian,Delivery,8,3.6,2025-08-24 00:00:00,UPI,No,1330.84
+707,28,Mumbai,South Indian,Delivery,3,2.9,2025-08-24 08:00:00,Cash,Yes,427.22
+708,45,Hyderabad,South Indian,Takeaway,5,4.3,2025-08-24 16:00:00,UPI,Yes,813.75
+709,19,Hyderabad,Italian,Delivery,2,4.4,2025-08-25 00:00:00,UPI,No,332.3
+710,49,Hyderabad,Chinese,Delivery,3,5.0,2025-08-25 08:00:00,,Yes,620.66
+711,37,Chennai,North Indian,Dine-in,7,4.5,2025-08-25 16:00:00,Cash,No,1186.98
+712,43,Bengaluru,North Indian,Dine-in,6,4.6,2025-08-26 00:00:00,UPI,No,901.39
+713,57,Hyderabad,North Indian,Delivery,2,3.8,2025-08-26 08:00:00,UPI,Yes,383.75
+714,25,Hyderabad,Chinese,Dine-in,8,5.0,2025-08-26 16:00:00,UPI,No,1238.21
+715,32,Bengaluru,Italian,Takeaway,7,3.7,2025-08-27 00:00:00,Card,No,1226.02
+716,61,Hyderabad,North Indian,Takeaway,3,3.6,2025-08-27 08:00:00,Cash,No,651.72
+717,26,Mumbai,North Indian,Dine-in,5,5.0,2025-08-27 16:00:00,Card,No,734.67
+718,23,Bengaluru,North Indian,Takeaway,4,3.0,2025-08-28 00:00:00,UPI,No,766.14
+719,24,Bengaluru,Fast Food,Delivery,5,2.7,2025-08-28 08:00:00,UPI,Yes,784.14
+720,58,Bengaluru,South Indian,Dine-in,7,4.1,2025-08-28 16:00:00,Card,No,1129.77
+721,31,Mumbai,Italian,Dine-in,1,4.0,2025-08-29 00:00:00,Cash,No,252.58
+722,52,Bengaluru,Chinese,Dine-in,3,3.8,2025-08-29 08:00:00,Card,No,695.33
+723,21,Mumbai,South Indian,Dine-in,7,4.7,2025-08-29 16:00:00,Card,Yes,1069.69
+724,60,Bengaluru,North Indian,Delivery,1,3.4,2025-08-30 00:00:00,UPI,Yes,316.78
+725,27,Chennai,North Indian,Dine-in,1,,2025-08-30 08:00:00,UPI,No,156.28
+726,54,Hyderabad,Chinese,Takeaway,6,3.7,2025-08-30 16:00:00,Card,No,900.75
+727,56,Chennai,Italian,Dine-in,2,3.4,2025-08-31 00:00:00,UPI,Yes,402.28
+728,23,Hyderabad,Chinese,Dine-in,6,4.0,2025-08-31 08:00:00,Cash,No,1001.74
+729,64,Mumbai,Chinese,Delivery,3,4.6,2025-08-31 16:00:00,UPI,No,323.41
+730,41,Chennai,North Indian,Delivery,1,5.0,2025-09-01 00:00:00,,No,342.77
+731,16,Bengaluru,Fast Food,Dine-in,8,4.4,2025-09-01 08:00:00,Card,Yes,1128.87
+732,19,Hyderabad,Italian,Dine-in,7,2.2,2025-09-01 16:00:00,Card,Yes,1138.33
+733,43,Hyderabad,South Indian,Dine-in,4,4.0,2025-09-02 00:00:00,UPI,Yes,806.21
+734,51,Chennai,Fast Food,Dine-in,1,4.0,2025-09-02 08:00:00,UPI,No,426.73
+735,52,Mumbai,Chinese,Takeaway,7,4.7,2025-09-02 16:00:00,UPI,No,1120.96
+736,33,Chennai,Chinese,Dine-in,8,,2025-09-03 00:00:00,Card,No,1185.36
+737,22,Mumbai,Italian,Dine-in,4,,2025-09-03 08:00:00,Card,No,803.24
+738,62,Mumbai,Italian,Dine-in,6,4.3,2025-09-03 16:00:00,Cash,No,1069.21
+739,59,Hyderabad,Chinese,Delivery,6,5.0,2025-09-04 00:00:00,UPI,No,960.88
+740,15,Chennai,North Indian,Delivery,2,3.7,2025-09-04 08:00:00,Cash,No,350.74
+741,36,Chennai,South Indian,Dine-in,7,4.1,2025-09-04 16:00:00,UPI,Yes,1092.61
+742,66,Mumbai,Fast Food,Delivery,1,4.6,2025-09-05 00:00:00,UPI,Yes,222.43
+743,31,Chennai,North Indian,Dine-in,5,3.6,2025-09-05 08:00:00,UPI,No,875.29
+744,21,Bengaluru,South Indian,Dine-in,6,3.4,2025-09-05 16:00:00,Card,No,954.72
+745,39,Bengaluru,South Indian,Delivery,6,3.6,2025-09-06 00:00:00,Card,Yes,964.83
+746,59,Chennai,South Indian,Delivery,2,3.5,2025-09-06 08:00:00,Cash,No,451.3
+747,18,Chennai,Chinese,Delivery,4,,2025-09-06 16:00:00,UPI,No,581.41
+748,50,Mumbai,Fast Food,Takeaway,2,2.7,2025-09-07 00:00:00,UPI,Yes,369.93
+749,20,Bengaluru,North Indian,Dine-in,8,2.9,2025-09-07 08:00:00,Card,Yes,1165.92
+750,45,Bengaluru,North Indian,Delivery,1,5.0,2025-09-07 16:00:00,Card,Yes,258.67
+751,33,Hyderabad,North Indian,Dine-in,7,3.5,2025-09-08 00:00:00,UPI,No,994.85
+752,58,Mumbai,Fast Food,Takeaway,3,4.1,2025-09-08 08:00:00,UPI,Yes,621.2
+753,68,Hyderabad,Chinese,Dine-in,3,3.0,2025-09-08 16:00:00,Card,No,444.83
+754,53,Bengaluru,South Indian,Takeaway,7,4.1,2025-09-09 00:00:00,UPI,No,1008.19
+755,41,Mumbai,Italian,Dine-in,4,,2025-09-09 08:00:00,Cash,No,670.91
+756,24,Chennai,Fast Food,Dine-in,8,2.9,2025-09-09 16:00:00,Cash,Yes,1436.89
+757,40,Mumbai,Fast Food,Delivery,6,4.9,2025-09-10 00:00:00,UPI,No,1056.9
+758,33,Chennai,Fast Food,Dine-in,4,4.8,2025-09-10 08:00:00,UPI,No,546.21
+759,53,Chennai,North Indian,Takeaway,6,3.9,2025-09-10 16:00:00,UPI,No,892.55
+760,17,Mumbai,Italian,Dine-in,6,4.7,2025-09-11 00:00:00,Cash,No,968.35
+761,59,Chennai,South Indian,Dine-in,3,5.0,2025-09-11 08:00:00,UPI,Yes,729.07
+762,27,Hyderabad,Fast Food,Dine-in,4,4.5,2025-09-11 16:00:00,Card,No,624.88
+763,64,Bengaluru,Italian,Dine-in,8,4.3,2025-09-12 00:00:00,Card,No,1225.53
+764,42,Chennai,Italian,Delivery,2,4.1,2025-09-12 08:00:00,UPI,No,522.19
+765,34,Hyderabad,Chinese,Dine-in,6,4.5,2025-09-12 16:00:00,Cash,No,1015.59
+766,42,Chennai,North Indian,Delivery,5,3.7,2025-09-13 00:00:00,UPI,No,934.24
+767,22,Bengaluru,Chinese,Takeaway,5,3.8,2025-09-13 08:00:00,UPI,Yes,791.83
+768,55,Hyderabad,Fast Food,Dine-in,2,4.3,2025-09-13 16:00:00,Cash,No,391.87
+769,53,Bengaluru,Fast Food,Takeaway,5,3.7,2025-09-14 00:00:00,Cash,No,955.25
+770,15,Bengaluru,North Indian,Takeaway,1,3.7,2025-09-14 08:00:00,Cash,No,238.41
+771,17,Hyderabad,North Indian,Delivery,6,4.0,2025-09-14 16:00:00,Cash,Yes,1089.84
+772,27,Hyderabad,North Indian,Dine-in,2,,2025-09-15 00:00:00,UPI,No,430.98
+773,42,Hyderabad,Italian,Dine-in,4,3.2,2025-09-15 08:00:00,UPI,No,616.83
+774,63,Mumbai,Italian,Delivery,6,4.5,2025-09-15 16:00:00,Cash,Yes,998.69
+775,39,Hyderabad,North Indian,Delivery,2,4.6,2025-09-16 00:00:00,Cash,No,478.51
+776,47,Hyderabad,South Indian,Delivery,3,4.6,2025-09-16 08:00:00,UPI,No,603.55
+777,52,Hyderabad,Fast Food,Dine-in,8,3.4,2025-09-16 16:00:00,UPI,No,1296.78
+778,67,Hyderabad,Italian,Delivery,4,2.8,2025-09-17 00:00:00,Card,No,548.66
+779,20,Chennai,Chinese,Dine-in,8,4.4,2025-09-17 08:00:00,Card,No,1156.32
+780,58,Mumbai,Chinese,Dine-in,3,4.1,2025-09-17 16:00:00,UPI,Yes,423.34
+781,59,Bengaluru,South Indian,Dine-in,6,4.7,2025-09-18 00:00:00,Card,No,959.16
+782,46,Hyderabad,South Indian,Takeaway,4,3.5,2025-09-18 08:00:00,Cash,No,669.83
+783,59,Chennai,Chinese,Dine-in,8,4.5,2025-09-18 16:00:00,UPI,No,1181.97
+784,61,Chennai,Chinese,Dine-in,5,4.7,2025-09-19 00:00:00,UPI,No,931.8
+785,35,Chennai,Fast Food,Delivery,8,3.9,2025-09-19 08:00:00,UPI,No,1198.9
+786,30,Bengaluru,Chinese,Dine-in,2,4.3,2025-09-19 16:00:00,UPI,Yes,290.36
+787,68,Hyderabad,Italian,Dine-in,6,4.3,2025-09-20 00:00:00,UPI,No,1007.06
+788,35,Mumbai,North Indian,Dine-in,1,3.4,2025-09-20 08:00:00,Card,Yes,327.91
+789,25,Mumbai,South Indian,Delivery,8,4.4,2025-09-20 16:00:00,Card,Yes,1464.39
+790,51,Chennai,North Indian,Takeaway,4,5.0,2025-09-21 00:00:00,Cash,Yes,746.6
+791,50,Bengaluru,North Indian,Dine-in,4,4.0,2025-09-21 08:00:00,Cash,No,826.39
+792,49,Bengaluru,Italian,Delivery,7,3.0,2025-09-21 16:00:00,UPI,Yes,1053.04
+793,33,Bengaluru,Fast Food,Delivery,8,3.5,2025-09-22 00:00:00,UPI,Yes,1472.78
+794,34,Mumbai,North Indian,Dine-in,6,2.8,2025-09-22 08:00:00,UPI,Yes,851.08
+795,32,Chennai,South Indian,Takeaway,6,4.9,2025-09-22 16:00:00,UPI,Yes,959.69
+796,61,Hyderabad,Italian,Delivery,3,4.5,2025-09-23 00:00:00,Cash,No,594.85
+797,55,Mumbai,North Indian,Takeaway,7,,2025-09-23 08:00:00,,No,1021.58
+798,63,Chennai,Chinese,Dine-in,8,3.0,2025-09-23 16:00:00,UPI,Yes,1225.84
+799,28,Chennai,Italian,Delivery,5,3.4,2025-09-24 00:00:00,UPI,No,763.13
+800,29,Hyderabad,Chinese,Takeaway,3,3.6,2025-09-24 08:00:00,UPI,No,525.18
+801,45,Hyderabad,North Indian,Dine-in,7,4.1,2025-09-24 16:00:00,UPI,No,1263.73
+802,15,Hyderabad,South Indian,Dine-in,8,4.1,2025-09-25 00:00:00,UPI,Yes,1301.35
+803,67,Bengaluru,Italian,Dine-in,8,4.9,2025-09-25 08:00:00,UPI,No,1262.95
+804,68,Hyderabad,Chinese,Dine-in,3,3.5,2025-09-25 16:00:00,Cash,Yes,319.25
+805,68,Chennai,North Indian,Delivery,5,2.9,2025-09-26 00:00:00,UPI,Yes,887.34
+806,17,Hyderabad,Italian,Dine-in,7,3.2,2025-09-26 08:00:00,UPI,Yes,1213.2
+807,30,Chennai,North Indian,Dine-in,8,4.0,2025-09-26 16:00:00,Card,No,1164.0
+808,37,Mumbai,Italian,Takeaway,8,3.5,2025-09-27 00:00:00,UPI,Yes,1294.64
+809,25,Bengaluru,North Indian,Dine-in,7,,2025-09-27 08:00:00,Card,Yes,1165.44
+810,26,Mumbai,Fast Food,Delivery,1,3.7,2025-09-27 16:00:00,UPI,Yes,327.17
+811,24,Mumbai,South Indian,Dine-in,3,,2025-09-28 00:00:00,Cash,No,492.02
+812,46,Chennai,South Indian,Dine-in,3,3.6,2025-09-28 08:00:00,UPI,No,479.97
+813,30,Mumbai,North Indian,Dine-in,4,3.7,2025-09-28 16:00:00,Cash,Yes,663.48
+814,22,Chennai,South Indian,Dine-in,5,4.5,2025-09-29 00:00:00,UPI,No,952.75
+815,52,Hyderabad,Fast Food,Dine-in,2,3.6,2025-09-29 08:00:00,Cash,No,483.51
+816,26,Hyderabad,Fast Food,Delivery,1,4.3,2025-09-29 16:00:00,Card,No,248.29
+817,38,Chennai,South Indian,Delivery,7,,2025-09-30 00:00:00,Card,Yes,1231.58
+818,42,Hyderabad,South Indian,Dine-in,7,4.1,2025-09-30 08:00:00,UPI,No,960.5
+819,67,Bengaluru,Italian,Takeaway,7,3.2,2025-09-30 16:00:00,Card,Yes,1213.33
+820,22,Mumbai,Fast Food,Delivery,1,4.9,2025-10-01 00:00:00,Cash,No,160.5
+821,42,Bengaluru,Chinese,Delivery,8,5.0,2025-10-01 08:00:00,UPI,Yes,1441.36
+822,50,Mumbai,South Indian,Dine-in,7,4.0,2025-10-01 16:00:00,UPI,No,1064.86
+823,40,Hyderabad,South Indian,Dine-in,7,3.3,2025-10-02 00:00:00,UPI,No,1081.78
+824,22,Bengaluru,Chinese,Dine-in,5,4.0,2025-10-02 08:00:00,Cash,No,894.99
+825,64,Hyderabad,North Indian,Delivery,6,4.7,2025-10-02 16:00:00,UPI,Yes,1052.72
+826,42,Mumbai,Chinese,Delivery,6,3.6,2025-10-03 00:00:00,Card,No,964.29
+827,42,Chennai,South Indian,Dine-in,4,3.9,2025-10-03 08:00:00,Cash,Yes,729.71
+828,51,Chennai,Italian,Dine-in,4,4.2,2025-10-03 16:00:00,UPI,No,739.63
+829,55,Bengaluru,North Indian,Delivery,7,4.8,2025-10-04 00:00:00,UPI,No,1181.45
+830,50,Hyderabad,Chinese,Delivery,5,4.5,2025-10-04 08:00:00,UPI,No,817.64
+831,41,Hyderabad,South Indian,Delivery,7,4.6,2025-10-04 16:00:00,Card,No,1190.42
+832,68,Bengaluru,Chinese,Delivery,4,3.7,2025-10-05 00:00:00,Card,No,812.51
+833,31,Chennai,North Indian,Dine-in,1,4.3,2025-10-05 08:00:00,Card,No,151.96
+834,23,Mumbai,Chinese,Takeaway,1,3.5,2025-10-05 16:00:00,UPI,No,182.8
+835,47,Bengaluru,Chinese,Takeaway,8,4.6,2025-10-06 00:00:00,Card,Yes,1302.18
+836,67,Mumbai,Chinese,Dine-in,2,4.8,2025-10-06 08:00:00,Card,No,315.5
+837,34,Chennai,Chinese,Takeaway,6,4.4,2025-10-06 16:00:00,Card,No,855.73
+838,27,Hyderabad,Chinese,Delivery,5,3.7,2025-10-07 00:00:00,UPI,No,937.45
+839,42,Chennai,Italian,Dine-in,3,3.9,2025-10-07 08:00:00,Card,Yes,371.7
+840,62,Bengaluru,North Indian,Delivery,6,5.0,2025-10-07 16:00:00,UPI,No,967.81
+841,43,Hyderabad,Fast Food,Takeaway,3,3.8,2025-10-08 00:00:00,Card,No,610.72
+842,27,Bengaluru,South Indian,Delivery,2,4.7,2025-10-08 08:00:00,UPI,No,421.34
+843,60,Bengaluru,North Indian,Dine-in,2,4.2,2025-10-08 16:00:00,Cash,No,369.02
+844,49,Chennai,North Indian,Dine-in,7,3.8,2025-10-09 00:00:00,UPI,No,1062.2
+845,20,Bengaluru,South Indian,Takeaway,4,3.1,2025-10-09 08:00:00,UPI,No,727.51
+846,32,Chennai,Italian,Dine-in,2,4.1,2025-10-09 16:00:00,Cash,Yes,320.93
+847,65,Hyderabad,Italian,Delivery,2,4.1,2025-10-10 00:00:00,UPI,Yes,421.27
+848,19,Chennai,Italian,Delivery,3,5.0,2025-10-10 08:00:00,Card,No,561.27
+849,61,Hyderabad,South Indian,Dine-in,4,3.4,2025-10-10 16:00:00,UPI,No,712.08
+850,39,Chennai,South Indian,Takeaway,2,5.0,2025-10-11 00:00:00,UPI,No,348.77
+851,16,Mumbai,North Indian,Takeaway,6,4.3,2025-10-11 08:00:00,Card,No,1162.8
+852,24,Mumbai,South Indian,Dine-in,8,4.3,2025-10-11 16:00:00,Cash,Yes,1328.66
+853,44,Bengaluru,South Indian,Delivery,2,3.6,2025-10-12 00:00:00,Card,No,377.7
+854,64,Chennai,North Indian,Delivery,8,4.2,2025-10-12 08:00:00,Cash,Yes,1321.14
+855,59,Chennai,North Indian,Takeaway,4,,2025-10-12 16:00:00,Cash,Yes,638.04
+856,19,Hyderabad,Chinese,Delivery,7,4.7,2025-10-13 00:00:00,Cash,No,1119.1
+857,69,Bengaluru,Italian,Dine-in,5,3.3,2025-10-13 08:00:00,Card,Yes,1041.35
+858,47,Chennai,Fast Food,Delivery,4,5.0,2025-10-13 16:00:00,UPI,No,638.61
+859,68,Bengaluru,Fast Food,Takeaway,3,4.3,2025-10-14 00:00:00,Cash,No,543.78
+860,15,Mumbai,Chinese,Delivery,5,4.4,2025-10-14 08:00:00,Cash,No,813.51
+861,32,Chennai,South Indian,Delivery,6,3.8,2025-10-14 16:00:00,UPI,Yes,916.83
+862,46,Chennai,Chinese,Dine-in,1,,2025-10-15 00:00:00,Cash,Yes,283.69
+863,61,Bengaluru,Italian,Delivery,8,4.1,2025-10-15 08:00:00,Cash,Yes,1302.92
+864,63,Chennai,North Indian,Dine-in,8,4.1,2025-10-15 16:00:00,Cash,No,1372.88
+865,25,Bengaluru,South Indian,Dine-in,8,3.0,2025-10-16 00:00:00,UPI,No,1364.85
+866,35,Chennai,Fast Food,Dine-in,4,4.6,2025-10-16 08:00:00,UPI,No,772.06
+867,40,Hyderabad,South Indian,Delivery,8,4.7,2025-10-16 16:00:00,Card,Yes,1226.54
+868,39,Bengaluru,Chinese,Delivery,7,3.5,2025-10-17 00:00:00,UPI,No,1201.28
+869,36,Chennai,Chinese,Delivery,8,3.3,2025-10-17 08:00:00,UPI,Yes,1353.22
+870,41,Mumbai,North Indian,Delivery,3,3.8,2025-10-17 16:00:00,UPI,Yes,468.31
+871,63,Chennai,South Indian,Takeaway,6,4.0,2025-10-18 00:00:00,UPI,No,974.51
+872,27,Mumbai,South Indian,Delivery,8,3.8,2025-10-18 08:00:00,UPI,No,1183.51
+873,47,Mumbai,North Indian,Dine-in,8,4.0,2025-10-18 16:00:00,Card,Yes,1353.57
+874,48,Hyderabad,North Indian,Dine-in,5,4.2,2025-10-19 00:00:00,Cash,Yes,903.2
+875,55,Bengaluru,Fast Food,Dine-in,6,3.0,2025-10-19 08:00:00,Card,No,1114.43
+876,49,Chennai,North Indian,Delivery,8,3.1,2025-10-19 16:00:00,UPI,Yes,1281.7
+877,15,Hyderabad,South Indian,Delivery,4,2.1,2025-10-20 00:00:00,UPI,Yes,736.12
+878,35,Chennai,South Indian,Dine-in,2,4.7,2025-10-20 08:00:00,UPI,No,479.02
+879,62,Mumbai,Fast Food,Dine-in,7,4.0,2025-10-20 16:00:00,UPI,No,1089.69
+880,69,Bengaluru,North Indian,Delivery,4,4.7,2025-10-21 00:00:00,Cash,No,627.52
+881,20,Chennai,South Indian,Dine-in,1,3.2,2025-10-21 08:00:00,UPI,No,192.17
+882,42,Chennai,Fast Food,Delivery,4,4.0,2025-10-21 16:00:00,UPI,No,672.06
+883,31,Mumbai,Fast Food,Delivery,5,4.2,2025-10-22 00:00:00,UPI,Yes,780.36
+884,19,Chennai,North Indian,Dine-in,5,3.6,2025-10-22 08:00:00,UPI,No,795.61
+885,45,Chennai,Italian,Dine-in,8,2.9,2025-10-22 16:00:00,UPI,No,1370.47
+886,19,Mumbai,South Indian,Delivery,4,5.0,2025-10-23 00:00:00,Card,Yes,692.29
+887,52,Hyderabad,South Indian,Delivery,5,5.0,2025-10-23 08:00:00,UPI,No,874.54
+888,17,Mumbai,North Indian,Takeaway,2,3.7,2025-10-23 16:00:00,Cash,Yes,355.94
+889,67,Hyderabad,North Indian,Delivery,6,4.4,2025-10-24 00:00:00,UPI,Yes,950.69
+890,37,Bengaluru,Italian,Dine-in,4,3.7,2025-10-24 08:00:00,UPI,Yes,722.84
+891,51,Hyderabad,South Indian,Takeaway,7,3.3,2025-10-24 16:00:00,Card,No,1160.08
+892,67,Hyderabad,South Indian,Delivery,2,5.0,2025-10-25 00:00:00,UPI,No,462.24
+893,51,Bengaluru,Italian,Delivery,8,2.8,2025-10-25 08:00:00,Card,No,1404.13
+894,24,Hyderabad,Italian,Dine-in,6,3.8,2025-10-25 16:00:00,Card,No,944.69
+895,24,Mumbai,North Indian,Delivery,7,4.1,2025-10-26 00:00:00,Card,Yes,1218.89
+896,33,Hyderabad,Chinese,Takeaway,8,5.0,2025-10-26 08:00:00,UPI,Yes,1213.62
+897,31,Bengaluru,North Indian,Dine-in,7,4.6,2025-10-26 16:00:00,UPI,Yes,1315.9
+898,35,Mumbai,Italian,Dine-in,8,2.8,2025-10-27 00:00:00,UPI,Yes,1237.1
+899,28,Bengaluru,Chinese,Delivery,7,4.0,2025-10-27 08:00:00,Cash,Yes,1205.25
+900,23,Bengaluru,Fast Food,Dine-in,6,,2025-10-27 16:00:00,UPI,No,913.02
+901,60,Chennai,North Indian,Dine-in,2,3.8,2025-10-28 00:00:00,UPI,No,387.83
+902,15,Chennai,North Indian,Dine-in,7,4.4,2025-10-28 08:00:00,Card,No,1273.66
+903,65,Bengaluru,South Indian,Delivery,7,3.0,2025-10-28 16:00:00,Cash,Yes,1084.58
+904,59,Bengaluru,North Indian,Takeaway,3,3.7,2025-10-29 00:00:00,Card,No,726.33
+905,27,Bengaluru,North Indian,Delivery,4,4.3,2025-10-29 08:00:00,UPI,Yes,699.58
+906,18,Chennai,Fast Food,Dine-in,6,4.5,2025-10-29 16:00:00,UPI,Yes,1078.06
+907,15,Chennai,North Indian,Takeaway,8,4.1,2025-10-30 00:00:00,UPI,No,1332.24
+908,63,Hyderabad,North Indian,Takeaway,6,3.8,2025-10-30 08:00:00,Card,No,1036.56
+909,54,Hyderabad,Italian,Delivery,5,3.9,2025-10-30 16:00:00,UPI,Yes,735.91
+910,46,Bengaluru,South Indian,Delivery,8,4.5,2025-10-31 00:00:00,Cash,No,1262.17
+911,48,Mumbai,Italian,Dine-in,6,4.0,2025-10-31 08:00:00,Card,Yes,1095.68
+912,42,Mumbai,North Indian,Takeaway,2,3.3,2025-10-31 16:00:00,UPI,No,372.45
+913,45,Chennai,South Indian,Dine-in,8,3.1,2025-11-01 00:00:00,Cash,No,1311.11
+914,22,Chennai,North Indian,Takeaway,8,3.0,2025-11-01 08:00:00,UPI,No,1176.21
+915,53,Chennai,North Indian,Dine-in,6,5.0,2025-11-01 16:00:00,Card,Yes,956.99
+916,40,Bengaluru,Fast Food,Dine-in,8,4.6,2025-11-02 00:00:00,UPI,No,1389.84
+917,48,Mumbai,North Indian,Dine-in,3,3.9,2025-11-02 08:00:00,,No,447.39
+918,68,Hyderabad,Chinese,Takeaway,4,3.7,2025-11-02 16:00:00,UPI,No,757.37
+919,68,Bengaluru,South Indian,Dine-in,8,3.6,2025-11-03 00:00:00,Cash,Yes,1314.22
+920,17,Hyderabad,South Indian,Delivery,4,4.8,2025-11-03 08:00:00,Cash,No,681.12
+921,64,Hyderabad,Fast Food,Dine-in,6,5.0,2025-11-03 16:00:00,UPI,No,977.61
+922,26,Bengaluru,North Indian,Dine-in,7,3.6,2025-11-04 00:00:00,Card,No,1110.72
+923,15,Hyderabad,Chinese,Delivery,1,4.8,2025-11-04 08:00:00,UPI,No,217.84
+924,68,Mumbai,Fast Food,Dine-in,1,4.0,2025-11-04 16:00:00,UPI,No,324.38
+925,58,Hyderabad,Chinese,Dine-in,7,3.9,2025-11-05 00:00:00,Card,No,1115.44
+926,19,Mumbai,Fast Food,Takeaway,7,5.0,2025-11-05 08:00:00,Card,No,1294.61
+927,44,Mumbai,North Indian,Dine-in,7,4.0,2025-11-05 16:00:00,UPI,Yes,1173.96
+928,44,Mumbai,South Indian,Dine-in,2,4.2,2025-11-06 00:00:00,UPI,No,353.9
+929,31,Chennai,North Indian,Dine-in,1,4.2,2025-11-06 08:00:00,UPI,Yes,327.87
+930,62,Hyderabad,Italian,Delivery,7,2.9,2025-11-06 16:00:00,UPI,No,1199.91
+931,61,Bengaluru,Fast Food,Takeaway,2,4.2,2025-11-07 00:00:00,UPI,Yes,267.67
+932,37,Bengaluru,North Indian,Takeaway,5,3.6,2025-11-07 08:00:00,Cash,No,767.24
+933,29,Hyderabad,Chinese,Takeaway,8,3.0,2025-11-07 16:00:00,UPI,Yes,1290.77
+934,51,Chennai,North Indian,Dine-in,2,3.6,2025-11-08 00:00:00,UPI,Yes,273.31
+935,35,Chennai,Chinese,Dine-in,1,3.6,2025-11-08 08:00:00,Cash,No,417.24
+936,28,Mumbai,South Indian,Delivery,6,4.7,2025-11-08 16:00:00,Card,Yes,1065.78
+937,16,Hyderabad,Fast Food,Dine-in,5,3.3,2025-11-09 00:00:00,Cash,Yes,848.93
+938,25,Hyderabad,Chinese,Dine-in,1,3.4,2025-11-09 08:00:00,Card,Yes,222.58
+939,65,Bengaluru,South Indian,Dine-in,8,4.2,2025-11-09 16:00:00,UPI,No,1252.03
+940,53,Hyderabad,North Indian,Dine-in,2,3.1,2025-11-10 00:00:00,Card,No,242.88
+941,52,Chennai,North Indian,Delivery,3,3.5,2025-11-10 08:00:00,Cash,No,411.37
+942,48,Hyderabad,North Indian,Dine-in,4,2.8,2025-11-10 16:00:00,Card,No,852.09
+943,52,Bengaluru,North Indian,Takeaway,8,4.6,2025-11-11 00:00:00,UPI,No,1425.89
+944,64,Mumbai,Fast Food,Dine-in,1,3.8,2025-11-11 08:00:00,UPI,Yes,203.94
+945,48,Bengaluru,Chinese,Delivery,7,4.0,2025-11-11 16:00:00,Card,Yes,1222.64
+946,32,Bengaluru,South Indian,Dine-in,2,4.6,2025-11-12 00:00:00,Cash,No,440.51
+947,44,Mumbai,North Indian,Dine-in,7,3.5,2025-11-12 08:00:00,UPI,Yes,1199.94
+948,29,Bengaluru,Fast Food,Delivery,7,3.8,2025-11-12 16:00:00,UPI,Yes,1035.99
+949,41,Bengaluru,Italian,Delivery,7,3.3,2025-11-13 00:00:00,Card,No,1005.35
+950,65,Hyderabad,North Indian,Dine-in,7,3.3,2025-11-13 08:00:00,Cash,No,1244.61
+951,48,Hyderabad,Italian,Dine-in,7,3.4,2025-11-13 16:00:00,Cash,Yes,991.66
+952,66,Mumbai,Chinese,Dine-in,5,3.7,2025-11-14 00:00:00,Cash,Yes,838.14
+953,52,Hyderabad,North Indian,Dine-in,1,3.7,2025-11-14 08:00:00,UPI,No,220.58
+954,47,Hyderabad,South Indian,Dine-in,8,4.2,2025-11-14 16:00:00,UPI,No,1263.19
+955,38,Bengaluru,South Indian,Dine-in,1,3.4,2025-11-15 00:00:00,Card,No,275.16
+956,29,Chennai,North Indian,Dine-in,8,4.2,2025-11-15 08:00:00,UPI,No,1245.79
+957,44,Hyderabad,Fast Food,Dine-in,4,4.3,2025-11-15 16:00:00,Card,No,731.66
+958,69,Chennai,Fast Food,Takeaway,2,,2025-11-16 00:00:00,UPI,No,411.29
+959,56,Hyderabad,Chinese,Delivery,3,3.4,2025-11-16 08:00:00,UPI,No,717.9
+960,65,Hyderabad,South Indian,Takeaway,5,4.1,2025-11-16 16:00:00,Cash,Yes,739.17
+961,31,Mumbai,South Indian,Dine-in,2,3.9,2025-11-17 00:00:00,Card,No,402.34
+962,19,Mumbai,Chinese,Dine-in,5,,2025-11-17 08:00:00,UPI,Yes,884.51
+963,43,Mumbai,Chinese,Delivery,8,5.0,2025-11-17 16:00:00,Cash,Yes,1279.49
+964,18,Chennai,North Indian,Dine-in,1,4.0,2025-11-18 00:00:00,Card,No,143.03
+965,24,Bengaluru,South Indian,Dine-in,7,3.6,2025-11-18 08:00:00,UPI,No,1250.57
+966,31,Hyderabad,Italian,Takeaway,4,3.4,2025-11-18 16:00:00,UPI,No,726.95
+967,24,Hyderabad,South Indian,Takeaway,4,3.4,2025-11-19 00:00:00,Card,Yes,598.65
+968,31,Hyderabad,North Indian,Takeaway,6,3.0,2025-11-19 08:00:00,UPI,No,1035.09
+969,34,Chennai,Italian,Dine-in,3,4.7,2025-11-19 16:00:00,Card,No,686.13
+970,38,Mumbai,North Indian,Dine-in,4,2.4,2025-11-20 00:00:00,UPI,No,697.09
+971,19,Bengaluru,North Indian,Delivery,7,4.3,2025-11-20 08:00:00,UPI,Yes,1149.82
+972,48,Chennai,North Indian,Dine-in,1,3.4,2025-11-20 16:00:00,UPI,No,375.44
+973,20,Mumbai,South Indian,Takeaway,3,3.6,2025-11-21 00:00:00,Card,No,472.37
+974,67,Chennai,Italian,Delivery,8,3.4,2025-11-21 08:00:00,UPI,Yes,1438.2
+975,16,Bengaluru,South Indian,Takeaway,2,5.0,2025-11-21 16:00:00,UPI,No,477.83
+976,27,Mumbai,North Indian,Dine-in,8,,2025-11-22 00:00:00,Card,No,1226.06
+977,57,Chennai,Fast Food,Dine-in,7,4.6,2025-11-22 08:00:00,Cash,Yes,1096.54
+978,57,Bengaluru,Fast Food,Takeaway,7,4.9,2025-11-22 16:00:00,Cash,Yes,1108.01
+979,62,Hyderabad,Fast Food,Delivery,4,4.1,2025-11-23 00:00:00,Cash,Yes,553.31
+980,25,Bengaluru,North Indian,Delivery,3,3.2,2025-11-23 08:00:00,UPI,No,570.84
+981,65,Hyderabad,South Indian,Dine-in,1,3.8,2025-11-23 16:00:00,Card,Yes,179.68
+982,61,Chennai,Fast Food,Dine-in,8,3.5,2025-11-24 00:00:00,Card,No,1323.72
+983,37,Mumbai,Italian,Delivery,6,3.6,2025-11-24 08:00:00,UPI,No,896.72
+984,69,Mumbai,North Indian,Delivery,8,3.9,2025-11-24 16:00:00,Card,No,1373.84
+985,30,Chennai,North Indian,Delivery,5,3.9,2025-11-25 00:00:00,UPI,Yes,909.01
+986,45,Mumbai,South Indian,Dine-in,5,4.3,2025-11-25 08:00:00,Cash,Yes,793.53
+987,25,Mumbai,Fast Food,Takeaway,1,4.4,2025-11-25 16:00:00,UPI,No,278.77
+988,68,Hyderabad,Chinese,Delivery,1,3.9,2025-11-26 00:00:00,UPI,No,256.63
+989,30,Chennai,South Indian,Takeaway,5,4.3,2025-11-26 08:00:00,UPI,No,968.58
+990,22,Bengaluru,North Indian,Dine-in,6,3.6,2025-11-26 16:00:00,Card,Yes,917.4
+991,18,Hyderabad,Chinese,Dine-in,3,4.9,2025-11-27 00:00:00,,Yes,537.82
+992,54,Chennai,Fast Food,Takeaway,5,3.6,2025-11-27 08:00:00,Cash,No,798.75
+993,18,Hyderabad,South Indian,Dine-in,1,4.8,2025-11-27 16:00:00,Cash,Yes,253.59
+994,39,Bengaluru,Italian,Dine-in,4,3.0,2025-11-28 00:00:00,Cash,No,742.66
+995,17,Bengaluru,Fast Food,Delivery,2,3.7,2025-11-28 08:00:00,UPI,No,347.86
+996,46,Chennai,North Indian,Dine-in,6,3.8,2025-11-28 16:00:00,Card,Yes,970.87
+997,17,Bengaluru,South Indian,Delivery,7,4.2,2025-11-29 00:00:00,UPI,No,1227.28
+998,41,Hyderabad,South Indian,Dine-in,6,4.6,2025-11-29 08:00:00,Cash,No,1108.59
+999,43,Bengaluru,Italian,Takeaway,4,3.1,2025-11-29 16:00:00,Card,Yes,739.48
+1000,46,Hyderabad,Chinese,Delivery,4,3.2,2025-11-30 00:00:00,UPI,No,688.96
+508,56,Bengaluru,North Indian,Dine-in,2,4.6,2025-06-19 00:00:00,Card,No,559.27
+819,67,Bengaluru,Italian,Takeaway,7,3.2,2025-09-30 16:00:00,Card,Yes,1213.33
+453,39,Chennai,Chinese,Dine-in,2,3.0,2025-05-31 16:00:00,UPI,No,387.31
+369,36,Mumbai,North Indian,Dine-in,3,5.0,2025-05-03 16:00:00,Card,Yes,487.21
+243,42,Bengaluru,North Indian,Dine-in,2,3.8,2025-03-22 16:00:00,Cash,Yes,265.46
+930,62,Hyderabad,Italian,Delivery,7,2.9,2025-11-06 16:00:00,UPI,No,1199.91
+263,52,Bengaluru,Chinese,Dine-in,4,4.9,2025-03-29 08:00:00,Card,Yes,703.08
+811,24,Mumbai,South Indian,Dine-in,3,,2025-09-28 00:00:00,Cash,No,492.02
+319,23,Hyderabad,Fast Food,Delivery,2,2.6,2025-04-17 00:00:00,UPI,No,349.8
+50,53,Chennai,Italian,Dine-in,2,3.7,2025-01-17 08:00:00,Cash,No,486.87
+447,43,Mumbai,North Indian,Takeaway,7,4.4,2025-05-29 16:00:00,UPI,No,1236.59
+143,54,Chennai,North Indian,Dine-in,7,4.6,2025-02-17 08:00:00,UPI,Yes,1281.23
+969,34,Chennai,Italian,Dine-in,3,4.7,2025-11-19 16:00:00,Card,No,686.13
+346,60,Hyderabad,Chinese,Delivery,2,4.7,2025-04-26 00:00:00,UPI,No,460.39
+972,48,Chennai,North Indian,Dine-in,1,3.4,2025-11-20 16:00:00,UPI,No,375.44
